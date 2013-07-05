@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+%caption $0
+]]></content>
+	<tabTrigger>cap</tabTrigger>
+	<scope>source.haml</scope>
+	<description>caption</description>
+</snippet>

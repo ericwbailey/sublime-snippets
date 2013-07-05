@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+%thead
+	%tr
+		%td{:scope => "col"}$0
+]]></content>
+	<tabTrigger>the</tabTrigger>
+	<scope>source.haml</scope>
+	<description>thead</description>
+</snippet>

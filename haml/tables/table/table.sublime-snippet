@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[
+/ start of #$1
+%table#$1.$1
+	%caption $2
+	%colgroup{:span => "$3"}
+	%thead
+		%tr
+			%th{:scope => "col"}$4
+	%tfoot
+		%tr
+			%td{:scope => "row"}$5
+	%tbody
+		%tr
+			%td{:scope => "row"}$6
+/ end of #$1$0
+]]></content>
+	<tabTrigger>t</tabTrigger>
+	<scope>source.haml</scope>
+	<description>table</description>
+</snippet>

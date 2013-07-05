@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+%command{:label => "$1", :type => "command"}$0
+]]></content>
+	<tabTrigger>com</tabTrigger>
+	<scope>source.haml</scope>
+	<description>command type="command"</description>
+</snippet>

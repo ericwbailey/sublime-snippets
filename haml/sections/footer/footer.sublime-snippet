@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+/ start of #$1
+%footer$1#$1.{:role => "contentinfo"}$0
+/ end of #$1
+]]></content>
+	<tabTrigger>foo</tabTrigger>
+	<scope>source.haml</scope>
+	<description>footer</description>
+</snippet>

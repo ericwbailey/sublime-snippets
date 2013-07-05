@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+/ start of #$1
+%header$1#$1.{:role => "banner"}$0
+/ end of #$1
+]]></content>
+	<tabTrigger>hea</tabTrigger>
+	<scope>source.haml</scope>
+	<description>header</description>
+</snippet>

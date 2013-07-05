@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+/ start of #$1
+%nav$1#$1.$0
+/ end of #$1
+]]></content>
+	<tabTrigger>nav</tabTrigger>
+	<scope>source.haml</scope>
+	<description>nav</description>
+</snippet>

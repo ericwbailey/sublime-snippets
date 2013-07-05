@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+%body$0
+]]></content>
+	<tabTrigger>bod</tabTrigger>
+	<scope>source.haml</scope>
+	<description>body</description>
+</snippet>

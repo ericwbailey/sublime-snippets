@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+%html{:lang => "en"}/$0
+]]></content>
+	<tabTrigger>htm</tabTrigger>
+	<scope>source.haml</scope>
+	<description>html</description>
+</snippet>

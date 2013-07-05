@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+-# Avoid using the noscript tag: http://bit.ly/r3jUTm
+%p#jsnotice
+	:escaped
+		<strong>Javascript is currently disabled</strong>. This site requires Javascript to function correctly. Please <a rel="external" href="http://enable-javascript.com/" title="Learn how to enable Javascript in your browser.">enable Javascript in your browser</a>.$0
+]]></content>
+	<tabTrigger>nos</tabTrigger>
+	<scope>source.haml</scope>
+	<description>noscript</description>
+</snippet>

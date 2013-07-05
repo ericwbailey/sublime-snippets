@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+!!! 5$0
+]]></content>
+	<tabTrigger>doc</tabTrigger>
+	<scope>source.haml</scope>
+	<description>XHTML 5</description>
+</snippet>

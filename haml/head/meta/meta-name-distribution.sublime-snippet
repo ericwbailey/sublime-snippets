@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+%meta{:name => "distribution", :content => "$1"}/$0
+]]></content>
+	<tabTrigger>met</tabTrigger>
+	<scope>source.haml</scope>
+	<description>meta name="distribution"</description>
+</snippet>

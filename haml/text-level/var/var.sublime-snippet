@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+%var $0
+]]></content>
+	<tabTrigger>var</tabTrigger>
+	<scope>source.haml</scope>
+	<description>var</description>
+</snippet>

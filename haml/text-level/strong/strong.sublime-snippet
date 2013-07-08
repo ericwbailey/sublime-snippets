@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+%strong $0
+]]></content>
+	<tabTrigger>str</tabTrigger>
+	<scope>source.haml</scope>
+	<description>strong</description>
+</snippet>

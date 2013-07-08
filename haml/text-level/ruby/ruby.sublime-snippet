@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+%ruby $0
+]]></content>
+	<tabTrigger>rub</tabTrigger>
+	<scope>source.haml</scope>
+	<description>ruby</description>
+</snippet>

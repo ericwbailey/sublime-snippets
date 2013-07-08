@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+%cite $0
+]]></content>
+	<tabTrigger>cit</tabTrigger>
+	<scope>source.haml</scope>
+	<description>cite</description>
+</snippet>

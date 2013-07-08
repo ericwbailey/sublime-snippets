@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+/ start of #$1
+%iframe$1#$1.{:name => "$2", :src => "$3"${4:, :seamless => "true"}, :sandbox => ""} $0
+/ end of #$1
+]]></content>
+	<tabTrigger>ifr</tabTrigger>
+	<scope>source.haml</scope>
+	<description>iframe sandbox=""</description>
+</snippet>

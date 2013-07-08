@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+%track{:src => "media/video/$1", :label => "English", srclang => "en", :kind => "chapters"${2:, :default => "true"}}/$0
+]]></content>
+	<tabTrigger>tra</tabTrigger>
+	<scope>source.haml</scope>
+	<description>track kind="chapters"</description>
+</snippet>

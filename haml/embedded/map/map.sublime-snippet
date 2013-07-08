@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+/ start of #$1
+%img.$1#$1{:src => "img/$2", :alt => "$3", :height => "$4", :width => "$5", :usemap => "$1"}/
+	%map{:name => "$1"}
+		%area{:shape => "rect", :coords => "${6:x1},${7:y1},${8:x2},${9:y2}", :href => "$10", :alt ="$11"}/
+/ end of #$1
+]]></content>
+	<tabTrigger>map</tabTrigger>
+	<scope>source.haml</scope>
+	<description>map</description>
+</snippet>

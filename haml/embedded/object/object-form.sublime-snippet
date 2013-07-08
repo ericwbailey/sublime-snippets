@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+/ start of #$1
+%object$1#$1.{:data => "$2", :name => "$3", :form => "$4", :type => "$5", :height => "$6", :width => "$7"}
+	%param{:name => "$8", :value => "$9"}/$0
+/ end of #$1
+]]></content>
+	<tabTrigger>obj</tabTrigger>
+	<scope>source.haml</scope>
+	<description>object form=""</description>
+</snippet>

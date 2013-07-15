@@ -1,0 +1,29 @@
+<snippet>
+	<content><![CDATA[
+/ start of #$1
+%form#$1.$1{:name => "$1", :action => "${2:URL"}
+
+
+
+
+/ end of #$1
+
+
+<form id="sample-id" name="sample-id" action="www.foo.com" method="get/post"><!-- start of form #sample-id -->
+	<fieldset>
+		<legend>sample legend</legend>
+	<label for="sample-name">sample-name</label>
+	<input name="sample-name" type="fooz" value="bar" placeholder="clam" />
+	</fieldset>
+</form><!-- end of form #sample-id -->
+
+
+
+
+
+
+]]></content>
+	<tabTrigger>for</tabTrigger>
+	<scope>source.haml</scope>
+	<description>form</description>
+</snippet>

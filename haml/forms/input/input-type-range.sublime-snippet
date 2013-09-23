@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+:input{:name => "$1", :type => "range"${2:, :value => "${3:Default Step Value}"}, :min => "$4", :max => "$5", :placeholder => "$6"} $0
+]]></content>
+	<tabTrigger>inp</tabTrigger>
+	<scope>source.haml</scope>
+	<description>input type="range"</description>
+</snippet>

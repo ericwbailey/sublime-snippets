@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+%optgroup{:label => "$1"}
+	%option{:value => "$2"} $3$2
+	%option{:value => "$4"} $5$4
+]]></content>
+	<tabTrigger>opt</tabTrigger>
+	<scope>source.haml</scope>
+	<description>optgroup</description>
+</snippet>

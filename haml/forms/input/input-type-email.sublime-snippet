@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+:input{:name => "$1", :type => "email", :value => "$2", :placeholder => "$3", :pattern => "[^ @]*@[^ @]*"} $0
+]]></content>
+	<tabTrigger>inp</tabTrigger>
+	<scope>source.haml</scope>
+	<description>input type="email"</description>
+</snippet>

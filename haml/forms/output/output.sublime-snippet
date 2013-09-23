@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+%output{:name => "$1-output", for => "$2"} $0
+]]></content>
+	<tabTrigger>out</tabTrigger>
+	<scope>source.haml</scope>
+	<description>output</description>
+</snippet>

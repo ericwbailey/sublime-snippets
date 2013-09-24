@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 /! start of #$1
-%section#$1.$1{role="region" aria-labelledby="$3"} 
+%section#$1.$1[role="region" aria-labelledby="$3"] 
 	h$2#$3.$3 $0
 /! end of #$1
 ]]></content>

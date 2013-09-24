@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+s $0
+]]></content>
+	<tabTrigger>s</tabTrigger>
+	<scope>source.slim</scope>
+	<description>s</description>
+</snippet>

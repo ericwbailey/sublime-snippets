@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-doctype mobile 
+doctype mobile $0
 ]]></content>
 	<tabTrigger>doc</tabTrigger>
 	<scope>source.slim</scope>

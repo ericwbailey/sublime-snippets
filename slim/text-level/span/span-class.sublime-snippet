@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+span.$1 $0
+]]></content>
+	<tabTrigger>spa</tabTrigger>
+	<scope>source.slim</scope>
+	<description>span class=""</description>
+</snippet>

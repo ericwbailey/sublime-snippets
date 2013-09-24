@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+/! start of #$1
+video#$1.$1[${2:controls="true" }${3:autoplay="true" }${4:loop="true" }${5:muted="true" }${6:poster="img/$7" preload="auto"}]
+	source[type="video/$8" src="media/video/$9"]
+	You are using an <strong>outdated browser</strong>. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.
+/! end of #$1$0
+]]></content>
+	<tabTrigger>vid</tabTrigger>
+	<scope>source.slim</scope>
+	<description>video preload="auto"</description>
+</snippet>

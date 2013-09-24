@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-meta{charset="$1"} 
+meta[charset="$1"] $0 
 ]]></content>
 	<tabTrigger>met</tabTrigger>
 	<scope>source.slim</scope>

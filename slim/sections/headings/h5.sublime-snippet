@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-h5 
+h5 $0
 ]]></content>
 	<tabTrigger>h5</tabTrigger>
 	<scope>source.slim</scope>

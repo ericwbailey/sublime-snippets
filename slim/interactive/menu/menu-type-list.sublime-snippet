@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+menu[label="$1" type="list"] $0
+]]></content>
+	<tabTrigger>men</tabTrigger>
+	<scope>source.slim</scope>
+	<description>menu type="list"</description>
+</snippet>

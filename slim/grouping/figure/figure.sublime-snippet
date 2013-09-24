@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-%figure#$1.$1 {:role => "group", :"aria-labelledby" => "$2"}
-	$3
-	%figcaption#$2.$2 $0
+%figure#$1.$1[:role => "group", :"aria-labelledby" => "$2"]
+	$0
+	%figcaption#$2.$2 
 ]]></content>
 	<tabTrigger>fig</tabTrigger>
 	<scope>source.slim</scope>

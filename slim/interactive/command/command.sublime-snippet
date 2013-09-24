@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+command[label="$1"] $0
+]]></content>
+	<tabTrigger>com</tabTrigger>
+	<scope>source.slim</scope>
+	<description>command</description>
+</snippet>

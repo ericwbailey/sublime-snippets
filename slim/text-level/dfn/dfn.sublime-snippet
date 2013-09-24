@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+dfn $0
+]]></content>
+	<tabTrigger>dfn</tabTrigger>
+	<scope>source.slim</scope>
+	<description>dfn</description>
+</snippet>

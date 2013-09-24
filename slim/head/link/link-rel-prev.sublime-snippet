@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+link{rel="prev" href="$1"} 
+]]></content>
+	<tabTrigger>lin</tabTrigger>
+	<scope>source.slim</scope>
+	<description>link rel="prev"</description>
+</snippet>

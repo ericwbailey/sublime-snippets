@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+h4 
+]]></content>
+	<tabTrigger>h4</tabTrigger>
+	<scope>source.slim</scope>
+	<description>h4</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+meta{name="distribution" content="$1"} 
+]]></content>
+	<tabTrigger>met</tabTrigger>
+	<scope>source.slim</scope>
+	<description>meta name="distribution"</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+meta{name="copyright" content="$1"} 
+]]></content>
+	<tabTrigger>met</tabTrigger>
+	<scope>source.slim</scope>
+	<description>meta name="copyright"</description>
+</snippet>

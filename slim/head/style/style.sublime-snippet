@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+style{type="${1:text/css}" media="${2:screen}"} 
+]]></content>
+	<tabTrigger>sty</tabTrigger>
+	<scope>source.slim</scope>
+	<description>style</description>
+</snippet>

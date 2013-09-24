@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>htm</tabTrigger>
 	<scope>source.haml</scope>
-	<description>html</description>
+	<description>html lang="en"</description>
 </snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+/! start of #$1
+#$1.$1 $0
+/! end of #$1
+]]></content>
+	<tabTrigger>d</tabTrigger>
+	<scope>source.slim</scope>
+	<description>div</description>
+</snippet>

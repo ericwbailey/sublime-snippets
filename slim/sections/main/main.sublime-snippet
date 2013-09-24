@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+/! start of main
+main#$1.$1{role="main"} $0
+/! end of main
+]]></content>
+	<tabTrigger>mai</tabTrigger>
+	<scope>source.haml</scope>
+	<description>main</description>
+</snippet>

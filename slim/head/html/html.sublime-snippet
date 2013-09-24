@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+html{lang="${1:en}"} 
+]]></content>
+	<tabTrigger>doc</tabTrigger>
+	<scope>source.slim</scope>
+	<description>HTML</description>
+</snippet>

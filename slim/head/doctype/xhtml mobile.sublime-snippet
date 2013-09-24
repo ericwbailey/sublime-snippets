@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+doctype mobile 
+]]></content>
+	<tabTrigger>doc</tabTrigger>
+	<scope>source.slim</scope>
+	<description>XHTML mobile</description>
+</snippet>

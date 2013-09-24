@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+doctype 5 
+]]></content>
+	<tabTrigger>doc</tabTrigger>
+	<scope>source.slim</scope>
+	<description>XHTML 5</description>
+</snippet>

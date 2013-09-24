@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+link{rel="$1" type="$2" media="$3" href="$4"} 
+]]></content>
+	<tabTrigger>lin</tabTrigger>
+	<scope>source.slim</scope>
+	<description>link</description>
+</snippet>

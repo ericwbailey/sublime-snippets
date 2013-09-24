@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+head 
+]]></content>
+	<tabTrigger>hea</tabTrigger>
+	<scope>source.slim</scope>
+	<description>head</description>
+</snippet>

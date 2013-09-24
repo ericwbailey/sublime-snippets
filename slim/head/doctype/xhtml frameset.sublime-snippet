@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+doctype frameset 
+]]></content>
+	<tabTrigger>doc</tabTrigger>
+	<scope>source.slim</scope>
+	<description>XHTML frameset</description>
+</snippet>

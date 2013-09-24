@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+base{href="$1"} 
+]]></content>
+	<tabTrigger>bas</tabTrigger>
+	<scope>source.slim</scope>
+	<description>base</description>
+</snippet>

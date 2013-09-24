@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+doctype xml ISO-8859-1 
+]]></content>
+	<tabTrigger>doc</tabTrigger>
+	<scope>source.slim</scope>
+	<description>xml ISO-8859-1</description>
+</snippet>

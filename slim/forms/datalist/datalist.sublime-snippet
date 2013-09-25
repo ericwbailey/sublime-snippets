@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+/! start of #$1
+input[type="text" name="$1" list="$1-source"]
+datalist#$1-source
+	option[value="$2"] $3$2
+	option[value="$4"] $5$4
+/! end of #$1$0
+]]></content>
+	<tabTrigger>dat</tabTrigger>
+	<scope>source.slim</scope>
+	<description>datalist</description>
+</snippet>

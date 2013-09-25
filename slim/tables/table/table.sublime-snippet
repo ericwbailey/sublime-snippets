@@ -4,20 +4,22 @@
 table#$1.$1
 	caption $2
 	colgroup[span="$3"]
-	colgroup[span="$4"]
+		col $4
+	colgroup[span="$5"]
+		col $6
 	thead
 		tr
-			th[scope="col"] $4
-			th[scope="col"] $5
+			th[scope="col"] $7
+			th[scope="col"] $8
 	tfoot
 		tr
-			td[scope="row"] $6
-			td $6
+			td[scope="row"] $9
+			td $10
 	tbody
 		tr
-			td[scope="row"] $7
-			td $0
-/! end of #$1
+			td[scope="row"] $11
+			td $12
+/! end of #$1$0
 ]]></content>
 	<tabTrigger>t</tabTrigger>
 	<scope>source.slim</scope>

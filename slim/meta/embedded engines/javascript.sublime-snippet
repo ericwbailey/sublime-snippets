@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+javascript:
+	$0
+]]></content>
+	<tabTrigger>:</tabTrigger>
+	<scope>source.slim</scope>
+	<description>javascript: Shortcut to embed javascript code and wrap in script tag</description>
+</snippet>

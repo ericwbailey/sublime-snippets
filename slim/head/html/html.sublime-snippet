@@ -1,8 +1,9 @@
 <snippet>
 	<content><![CDATA[
-html[lang="${1:en}"] $0
+html[lang="${1:en}"]
+$0
 ]]></content>
-	<tabTrigger>doc</tabTrigger>
+	<tabTrigger>htm</tabTrigger>
 	<scope>text.slim</scope>
 	<description>HTML</description>
 </snippet>

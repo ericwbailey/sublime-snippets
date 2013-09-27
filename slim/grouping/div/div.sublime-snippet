@@ -1,10 +1,11 @@
 <snippet>
 	<content><![CDATA[
 /! start of #$1
-#$1.$1 $0
+#$1.$1 
+    $0
 /! end of #$1
 ]]></content>
-	<tabTrigger>d</tabTrigger>
+	<tabTrigger>div</tabTrigger>
 	<scope>text.slim</scope>
 	<description>div</description>
 </snippet>

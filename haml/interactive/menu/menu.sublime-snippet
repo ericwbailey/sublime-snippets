@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-%menu{:label => "$1"}$0
-]]></content>
-	<tabTrigger>men</tabTrigger>
-	<scope>source.haml</scope>
-	<description>menu</description>
-</snippet>

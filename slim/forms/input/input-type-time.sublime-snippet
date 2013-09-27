@@ -3,6 +3,6 @@
 input[name="$1" type="time" value="$2" placeholder="$3"] $0
 ]]></content>
 	<tabTrigger>inp</tabTrigger>
-	<scope>source.slim</scope>
+	<scope>text.slim</scope>
 	<description>input type="time"</description>
 </snippet>

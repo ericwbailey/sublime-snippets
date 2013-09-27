@@ -4,6 +4,6 @@ nokogiri:
 	$0
 ]]></content>
 	<tabTrigger>:</tabTrigger>
-	<scope>source.slim</scope>
+	<scope>text.slim</scope>
 	<description>nokogiri: Embed nokogiri builder code</description>
 </snippet>

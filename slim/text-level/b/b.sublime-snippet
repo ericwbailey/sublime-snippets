@@ -3,6 +3,6 @@
 b $0
 ]]></content>
 	<tabTrigger>b</tabTrigger>
-	<scope>source.slim</scope>
+	<scope>text.slim</scope>
 	<description>b</description>
 </snippet>

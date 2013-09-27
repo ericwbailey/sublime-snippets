@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-%pre $0
-]]></content>
-	<tabTrigger>pre</tabTrigger>
-	<scope>source.haml</scope>
-	<description>pre</description>
-</snippet>

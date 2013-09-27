@@ -3,6 +3,6 @@
 details[role="group"] $0
 ]]></content>
 	<tabTrigger>det</tabTrigger>
-	<scope>source.slim</scope>
+	<scope>text.slim</scope>
 	<description>details</description>
 </snippet>

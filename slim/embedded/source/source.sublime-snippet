@@ -3,6 +3,6 @@
 source[type="$1" src="$2"]$0
 ]]></content>
 	<tabTrigger>sou</tabTrigger>
-	<scope>source.slim</scope>
+	<scope>text.slim</scope>
 	<description>source</description>
 </snippet>

@@ -4,6 +4,6 @@
 p#jsnotice <strong>Javascript is currently disabled</strong>. This site requires Javascript to function correctly. Please <a rel="external" href="http://enable-javascript.com/">enable Javascript in your browser</a>. $0
 ]]></content>
 	<tabTrigger>nos</tabTrigger>
-	<scope>source.slim</scope>
+	<scope>text.slim</scope>
 	<description>noscript</description>
 </snippet>

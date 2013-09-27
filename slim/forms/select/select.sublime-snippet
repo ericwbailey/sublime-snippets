@@ -9,6 +9,6 @@ select#$1.$1[name="$1"]
 /! end of #$1$0
 ]]></content>
 	<tabTrigger>sel</tabTrigger>
-	<scope>source.slim</scope>
+	<scope>text.slim</scope>
 	<description>select</description>
 </snippet>

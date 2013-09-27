@@ -3,6 +3,6 @@
 caption $0
 ]]></content>
 	<tabTrigger>cap</tabTrigger>
-	<scope>source.slim</scope>
+	<scope>text.slim</scope>
 	<description>caption</description>
 </snippet>

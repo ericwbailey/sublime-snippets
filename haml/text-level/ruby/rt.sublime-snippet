@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-%rt $0
-]]></content>
-	<tabTrigger>rt</tabTrigger>
-	<scope>source.haml</scope>
-	<description>rt</description>
-</snippet>

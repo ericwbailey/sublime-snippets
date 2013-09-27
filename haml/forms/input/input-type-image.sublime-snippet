@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-:input{:name => "$1", :type => "image", :src => "img/$2", :alt => ""} $0
-]]></content>
-	<tabTrigger>inp</tabTrigger>
-	<scope>source.haml</scope>
-	<description>input type="image"</description>
-</snippet>

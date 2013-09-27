@@ -3,6 +3,6 @@
 a[rel="$1" href="$2"] $0
 ]]></content>
 	<tabTrigger>a</tabTrigger>
-	<scope>source.slim</scope>
+	<scope>text.slim</scope>
 	<description>a</description>
 </snippet>

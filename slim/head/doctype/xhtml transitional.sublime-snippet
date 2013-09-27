@@ -3,6 +3,6 @@
 doctype transitional $0
 ]]></content>
 	<tabTrigger>doc</tabTrigger>
-	<scope>source.slim</scope>
+	<scope>text.slim</scope>
 	<description>XHTML transitional</description>
 </snippet>

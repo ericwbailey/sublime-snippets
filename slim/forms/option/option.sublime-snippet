@@ -3,6 +3,6 @@
 option[value="$1"] $2$1$0
 ]]></content>
 	<tabTrigger>opt</tabTrigger>
-	<scope>source.slim</scope>
+	<scope>text.slim</scope>
 	<description>option</description>
 </snippet>

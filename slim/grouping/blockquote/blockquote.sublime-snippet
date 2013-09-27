@@ -3,6 +3,6 @@
 blockquote $0
 ]]></content>
 	<tabTrigger>blo</tabTrigger>
-	<scope>source.slim</scope>
+	<scope>text.slim</scope>
 	<description>blockquote</description>
 </snippet>

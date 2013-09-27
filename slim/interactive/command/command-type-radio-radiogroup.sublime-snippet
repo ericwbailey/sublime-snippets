@@ -3,6 +3,6 @@
 command[label="$1" type="radio" radiogroup="$2"] $0
 ]]></content>
 	<tabTrigger>com</tabTrigger>
-	<scope>source.slim</scope>
+	<scope>text.slim</scope>
 	<description>command type="radio" radiogroup</description>
 </snippet>

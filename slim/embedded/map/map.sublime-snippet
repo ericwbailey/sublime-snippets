@@ -7,6 +7,6 @@ img#$1.$1[src="img/$2" alt="$3" height="$4" width="$5" usemap="$1"]
 /! end of #$1$0
 ]]></content>
 	<tabTrigger>map</tabTrigger>
-	<scope>source.slim</scope>
+	<scope>text.slim</scope>
 	<description>map</description>
 </snippet>

@@ -3,6 +3,6 @@
 h6 $0
 ]]></content>
 	<tabTrigger>h6</tabTrigger>
-	<scope>source.slim</scope>
+	<scope>text.slim</scope>
 	<description>h6</description>
 </snippet>

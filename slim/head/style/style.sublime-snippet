@@ -3,6 +3,6 @@
 style[type="${1:text/css}" media="${2:screen}"] $0
 ]]></content>
 	<tabTrigger>sty</tabTrigger>
-	<scope>source.slim</scope>
+	<scope>text.slim</scope>
 	<description>style</description>
 </snippet>

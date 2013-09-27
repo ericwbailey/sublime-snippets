@@ -3,6 +3,6 @@
 legend $0
 ]]></content>
 	<tabTrigger>leg</tabTrigger>
-	<scope>source.slim</scope>
+	<scope>text.slim</scope>
 	<description>legend</description>
 </snippet>

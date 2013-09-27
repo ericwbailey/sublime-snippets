@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-%source{:type => "$1", :src => "$2"}/$0
-]]></content>
-	<tabTrigger>sou</tabTrigger>
-	<scope>source.haml</scope>
-	<description>source</description>
-</snippet>

@@ -3,6 +3,6 @@
 summary[role="button" aria-expanded="false"] $0
 ]]></content>
 	<tabTrigger>sum</tabTrigger>
-	<scope>source.slim</scope>
+	<scope>text.slim</scope>
 	<description>summary</description>
 </snippet>

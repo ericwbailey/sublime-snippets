@@ -3,6 +3,6 @@
 input[name="$1" type="radio" value="$2"] $0
 ]]></content>
 	<tabTrigger>inp</tabTrigger>
-	<scope>source.slim</scope>
+	<scope>text.slim</scope>
 	<description>input type="radio"</description>
 </snippet>

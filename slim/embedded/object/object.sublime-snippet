@@ -6,6 +6,6 @@ object#$1.$1[data="$2" name="$3" type="$4" height="$5" width="$6"]
 /! end of #$1$0
 ]]></content>
 	<tabTrigger>obj</tabTrigger>
-	<scope>source.slim</scope>
+	<scope>text.slim</scope>
 	<description>object</description>
 </snippet>

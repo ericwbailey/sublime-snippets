@@ -3,6 +3,6 @@
 doctype 5 $0
 ]]></content>
 	<tabTrigger>doc</tabTrigger>
-	<scope>source.slim</scope>
+	<scope>text.slim</scope>
 	<description>XHTML 5</description>
 </snippet>

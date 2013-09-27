@@ -3,6 +3,6 @@
 a[rel="nofollow" href="mailto:$1" title="Email $1"] $1$0
 ]]></content>
 	<tabTrigger>a</tabTrigger>
-	<scope>source.slim</scope>
+	<scope>text.slim</scope>
 	<description>a href="mailto:"</description>
 </snippet>

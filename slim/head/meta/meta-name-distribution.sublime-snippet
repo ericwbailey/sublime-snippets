@@ -3,6 +3,6 @@
 meta[name="distribution" content="$1"] $0
 ]]></content>
 	<tabTrigger>met</tabTrigger>
-	<scope>source.slim</scope>
+	<scope>text.slim</scope>
 	<description>meta name="distribution"</description>
 </snippet>

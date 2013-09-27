@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-:input{:name => "$1", :type => "number", :value => "$2" :min => "$3", :max ="$4", :placeholder => "$5"} $0
-]]></content>
-	<tabTrigger>inp</tabTrigger>
-	<scope>source.haml</scope>
-	<description>input type="number"</description>
-</snippet>

@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-%label{:for => "$1"} $1
-]]></content>
-	<tabTrigger>lab</tabTrigger>
-	<scope>source.haml</scope>
-	<description>label</description>
-</snippet>

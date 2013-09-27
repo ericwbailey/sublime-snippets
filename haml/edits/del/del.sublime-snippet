@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-%del{:datetime => "${1:YYYY}-${2:MM}-${3:DD}T${4:HH}:${5:MM}-${6:HH}:${7:MM}"} $0
-]]></content>
-	<tabTrigger>del</tabTrigger>
-	<scope>source.haml</scope>
-	<description>del</description>
-</snippet>

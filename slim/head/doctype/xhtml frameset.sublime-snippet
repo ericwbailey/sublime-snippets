@@ -3,6 +3,6 @@
 doctype frameset $0
 ]]></content>
 	<tabTrigger>doc</tabTrigger>
-	<scope>source.slim</scope>
+	<scope>text.slim</scope>
 	<description>XHTML frameset</description>
 </snippet>

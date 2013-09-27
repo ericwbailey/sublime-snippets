@@ -5,6 +5,6 @@
 /! end of #$1
 ]]></content>
 	<tabTrigger>hea</tabTrigger>
-	<scope>source.slim</scope>
+	<scope>text.slim</scope>
 	<description>header</description>
 </snippet>

@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-%time{:datetime => "${1:YYYY}-${2:MM}-${3:DD}T${4:HH}:${5:MM}Z"} $0
-]]></content>
-	<tabTrigger>tim</tabTrigger>
-	<scope>source.haml</scope>
-	<description>time datetime="YYYY-MM-DDTHH:MMZ"</description>
-</snippet>

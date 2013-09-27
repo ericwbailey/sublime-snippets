@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-%summary {:role => "button", :"aria-expanded" => "false"}$0
-]]></content>
-	<tabTrigger>sum</tabTrigger>
-	<scope>source.haml</scope>
-	<description>summary</description>
-</snippet>

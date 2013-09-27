@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-%command{:label => "$1", :type => "radio"}$0
-]]></content>
-	<tabTrigger>com</tabTrigger>
-	<scope>source.haml</scope>
-	<description>command type="radio"</description>
-</snippet>

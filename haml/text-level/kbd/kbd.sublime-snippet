@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-%kbd $0
-]]></content>
-	<tabTrigger>kbd</tabTrigger>
-	<scope>source.haml</scope>
-	<description>kbd</description>
-</snippet>

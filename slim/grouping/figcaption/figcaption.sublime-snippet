@@ -3,6 +3,6 @@
 figcaption#$1.$1 $0
 ]]></content>
 	<tabTrigger>fig</tabTrigger>
-	<scope>source.slim</scope>
+	<scope>text.slim</scope>
 	<description>figcaption</description>
 </snippet>

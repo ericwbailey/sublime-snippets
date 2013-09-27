@@ -3,6 +3,6 @@
 meta[http-equiv="refresh" content="$1"] $0
 ]]></content>
 	<tabTrigger>met</tabTrigger>
-	<scope>source.slim</scope>
+	<scope>text.slim</scope>
 	<description>meta http-equiv="refresh"</description>
 </snippet>

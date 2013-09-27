@@ -9,6 +9,6 @@ form#$1.$1[name="$1" action="${2:URL}" method="${3:get or post}"]
 /! end of #$1
 ]]></content>
 	<tabTrigger>for</tabTrigger>
-	<scope>source.slim</scope>
+	<scope>text.slim</scope>
 	<description>form</description>
 </snippet>

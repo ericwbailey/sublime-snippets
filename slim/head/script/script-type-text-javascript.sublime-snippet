@@ -3,6 +3,6 @@
 script[type="text/javascript" src="js/$1"] $0
 ]]></content>
 	<tabTrigger>scr</tabTrigger>
-	<scope>source.slim</scope>
+	<scope>text.slim</scope>
 	<description>script type="text/javascript"</description>
 </snippet>

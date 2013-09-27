@@ -3,6 +3,6 @@
 head $0
 ]]></content>
 	<tabTrigger>hea</tabTrigger>
-	<scope>source.slim</scope>
+	<scope>text.slim</scope>
 	<description>head</description>
 </snippet>

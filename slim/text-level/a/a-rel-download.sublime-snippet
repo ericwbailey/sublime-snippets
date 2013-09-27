@@ -3,6 +3,6 @@
 a[rel="download" "data-size"="$1" href="$2" title="Download $2, $1"] $2$0
 ]]></content>
 	<tabTrigger>a</tabTrigger>
-	<scope>source.slim</scope>
+	<scope>text.slim</scope>
 	<description>a rel="download"</description>
 </snippet>

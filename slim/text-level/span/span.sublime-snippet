@@ -3,6 +3,6 @@
 span $0
 ]]></content>
 	<tabTrigger>spa</tabTrigger>
-	<scope>source.slim</scope>
+	<scope>text.slim</scope>
 	<description>span</description>
 </snippet>

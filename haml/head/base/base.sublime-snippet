@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-%base{:href => "$1"}/$0
-]]></content>
-	<tabTrigger>bas</tabTrigger>
-	<scope>source.haml</scope>
-	<description>base</description>
-</snippet>

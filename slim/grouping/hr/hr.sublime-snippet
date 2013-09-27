@@ -3,6 +3,6 @@
 hr $0
 ]]></content>
 	<tabTrigger>hr</tabTrigger>
-	<scope>source.slim</scope>
+	<scope>text.slim</scope>
 	<description>hr</description>
 </snippet>

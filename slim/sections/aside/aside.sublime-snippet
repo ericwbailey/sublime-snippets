@@ -5,6 +5,6 @@ aside#$1.$1[role="complementary"] $0
 /! end of #$1
 ]]></content>
 	<tabTrigger>asi</tabTrigger>
-	<scope>source.slim</scope>
+	<scope>text.slim</scope>
 	<description>aside</description>
 </snippet>

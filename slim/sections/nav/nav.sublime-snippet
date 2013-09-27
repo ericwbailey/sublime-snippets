@@ -5,6 +5,6 @@ nav#$1.$1 $0
 /! end of #$1
 ]]></content>
 	<tabTrigger>nav</tabTrigger>
-	<scope>source.slim</scope>
+	<scope>text.slim</scope>
 	<description>nav</description>
 </snippet>

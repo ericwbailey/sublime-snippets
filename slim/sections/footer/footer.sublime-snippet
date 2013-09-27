@@ -5,6 +5,6 @@ footer#$1.$1[role="contentinfo"] $0
 /! end of #$1
 ]]></content>
 	<tabTrigger>foo</tabTrigger>
-	<scope>source.slim</scope>
+	<scope>text.slim</scope>
 	<description>footer</description>
 </snippet>

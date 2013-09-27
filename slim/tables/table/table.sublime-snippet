@@ -22,6 +22,6 @@ table#$1.$1
 /! end of #$1$0
 ]]></content>
 	<tabTrigger>t</tabTrigger>
-	<scope>source.slim</scope>
+	<scope>text.slim</scope>
 	<description>table</description>
 </snippet>

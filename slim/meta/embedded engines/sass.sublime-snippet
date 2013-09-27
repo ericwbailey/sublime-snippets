@@ -4,6 +4,6 @@ sass:
 	$0
 ]]></content>
 	<tabTrigger>:</tabTrigger>
-	<scope>source.slim</scope>
+	<scope>text.slim</scope>
 	<description>sass: Embed sass code and wrap in style tag</description>
 </snippet>

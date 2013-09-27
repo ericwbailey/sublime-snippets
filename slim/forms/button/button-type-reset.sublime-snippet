@@ -3,6 +3,6 @@
 button[type="reset"] $0
 ]]></content>
 	<tabTrigger>but</tabTrigger>
-	<scope>source.slim</scope>
+	<scope>text.slim</scope>
 	<description>button type="reset"</description>
 </snippet>

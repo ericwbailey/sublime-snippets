@@ -3,6 +3,6 @@
 bdo[dir="ltr"] $0
 ]]></content>
 	<tabTrigger>bdo</tabTrigger>
-	<scope>source.slim</scope>
+	<scope>text.slim</scope>
 	<description>bdo dir="ltr"</description>
 </snippet>

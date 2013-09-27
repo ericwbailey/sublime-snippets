@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-%link{:rel => "external", :href => "$1"}/$0
-]]></content>
-	<tabTrigger>lin</tabTrigger>
-	<scope>source.haml</scope>
-	<description>link rel="external"</description>
-</snippet>

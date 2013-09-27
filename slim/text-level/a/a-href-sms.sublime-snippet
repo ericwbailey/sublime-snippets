@@ -3,6 +3,6 @@
 a[rel="nofollow" href="sms:$1" title="Send a SMS to $1"] $1$0
 ]]></content>
 	<tabTrigger>a</tabTrigger>
-	<scope>source.slim</scope>
+	<scope>text.slim</scope>
 	<description>a href="sms:"</description>
 </snippet>

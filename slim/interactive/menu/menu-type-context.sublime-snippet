@@ -3,6 +3,6 @@
 menu[label="$1" type="context"] $0
 ]]></content>
 	<tabTrigger>men</tabTrigger>
-	<scope>source.slim</scope>
+	<scope>text.slim</scope>
 	<description>menu type="context"</description>
 </snippet>

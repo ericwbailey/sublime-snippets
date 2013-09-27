@@ -3,6 +3,6 @@
 bdi $0
 ]]></content>
 	<tabTrigger>bdi</tabTrigger>
-	<scope>source.slim</scope>
+	<scope>text.slim</scope>
 	<description>bdi</description>
 </snippet>

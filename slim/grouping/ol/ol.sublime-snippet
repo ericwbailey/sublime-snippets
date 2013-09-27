@@ -4,6 +4,6 @@ ol
 	li $0
 ]]></content>
 	<tabTrigger>ol</tabTrigger>
-	<scope>source.slim</scope>
+	<scope>text.slim</scope>
 	<description>ol</description>
 </snippet>

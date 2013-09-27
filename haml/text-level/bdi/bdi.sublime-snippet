@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-%bdi $0
-]]></content>
-	<tabTrigger>bdi</tabTrigger>
-	<scope>source.haml</scope>
-	<description>bdi</description>
-</snippet>

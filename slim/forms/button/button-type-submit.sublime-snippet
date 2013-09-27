@@ -3,6 +3,6 @@
 button[type="submit"] $0
 ]]></content>
 	<tabTrigger>but</tabTrigger>
-	<scope>source.slim</scope>
+	<scope>text.slim</scope>
 	<description>button type="submit"</description>
 </snippet>

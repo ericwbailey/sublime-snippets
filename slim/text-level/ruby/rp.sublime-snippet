@@ -3,6 +3,6 @@
 rp $0
 ]]></content>
 	<tabTrigger>rp</tabTrigger>
-	<scope>source.slim</scope>
+	<scope>text.slim</scope>
 	<description>rp</description>
 </snippet>

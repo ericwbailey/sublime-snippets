@@ -6,6 +6,6 @@
 /! end of #$1
 ]]></content>
 	<tabTrigger>sec</tabTrigger>
-	<scope>source.slim</scope>
+	<scope>text.slim</scope>
 	<description>section aria-labelledby=""</description>
 </snippet>

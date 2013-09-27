@@ -3,6 +3,6 @@
 link[rel="prefetch" href="$1"] $0
 ]]></content>
 	<tabTrigger>lin</tabTrigger>
-	<scope>source.slim</scope>
+	<scope>text.slim</scope>
 	<description>link rel="prefetch"</description>
 </snippet>

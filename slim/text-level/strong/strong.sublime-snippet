@@ -3,6 +3,6 @@
 strong $0
 ]]></content>
 	<tabTrigger>str</tabTrigger>
-	<scope>source.slim</scope>
+	<scope>text.slim</scope>
 	<description>strong</description>
 </snippet>

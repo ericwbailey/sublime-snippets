@@ -5,6 +5,6 @@ iframe#$1.$1[name="$2" src="$3"${4: seamless="true"} sandbox="allow-forms"] $0
 /! end of #$1
 ]]></content>
 	<tabTrigger>ifr</tabTrigger>
-	<scope>source.slim</scope>
+	<scope>text.slim</scope>
 	<description>iframe sandbox="allow-forms"</description>
 </snippet>

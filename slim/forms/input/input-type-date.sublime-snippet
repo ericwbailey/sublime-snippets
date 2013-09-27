@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+input[name="$1" type="date" value="$2" placeholder="$3"] $0
+]]></content>
+	<tabTrigger>inp</tabTrigger>
+	<scope>source.slim</scope>
+	<description>input type="date"</description>
+</snippet>

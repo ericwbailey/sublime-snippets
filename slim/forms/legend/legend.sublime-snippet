@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+legend $0
+]]></content>
+	<tabTrigger>leg</tabTrigger>
+	<scope>source.slim</scope>
+	<description>legend</description>
+</snippet>

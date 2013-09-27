@@ -1,8 +1,9 @@
 <snippet>
 	<content><![CDATA[
-/! start of main
-main#$1.$1[role="main"] $0
-/! end of main
+/! start of #$1
+main#$1.$1[role="main"] 
+    $0
+/! end of #$1
 ]]></content>
 	<tabTrigger>mai</tabTrigger>
 	<scope>text.slim</scope>

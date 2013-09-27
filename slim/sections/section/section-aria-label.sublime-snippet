@@ -1,7 +1,8 @@
 <snippet>
 	<content><![CDATA[
 /! start of #$1
-section#$1.$1[role="region" aria-label="$2"] $0
+section#$1.$1[role="region" aria-label="$2"] 
+    $0
 /! end of #$1
 ]]></content>
 	<tabTrigger>sec</tabTrigger>

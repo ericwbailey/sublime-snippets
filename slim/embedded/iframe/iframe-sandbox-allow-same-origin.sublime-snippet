@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
 /! start of #$1
-iframe#$1.$1[name="$2" src="$3"${4: seamless="true"} sandbox="allow-same-origin"] $0
-/! end of #$1
+iframe#$1.$1[name="$2" src="$3"${4: seamless="true"} sandbox="allow-same-origin"] $5
+/! end of #$1$0
 ]]></content>
 	<tabTrigger>ifr</tabTrigger>
 	<scope>text.slim</scope>

@@ -1,8 +1,10 @@
 <snippet>
 	<content><![CDATA[
-figure#$1.$1[role="group" aria-labelledby="$2"]
-	$0
-	%figcaption#$2.$2 
+/! start of #$1
+figure#$1.$1
+	$3
+	figcaption#$2.$2[role="group" aria-labelledby="$2 $1"]
+/! end of #$1$0
 ]]></content>
 	<tabTrigger>fig</tabTrigger>
 	<scope>text.slim</scope>

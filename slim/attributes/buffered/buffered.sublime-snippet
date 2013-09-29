@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+buffered="$1" $0
+]]></content>
+	<tabTrigger>buf</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>buffered=""</description>
+</snippet>

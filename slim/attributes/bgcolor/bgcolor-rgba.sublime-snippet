@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+bgcolor="rgba({1:R}, {1:G}, {1:B}, {1:A (0-1)})" $0
+]]></content>
+	<tabTrigger>bgc</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>bgcolor="rgba"</description>
+</snippet>

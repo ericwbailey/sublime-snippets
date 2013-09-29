@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+accept="video/$1" $0
+]]></content>
+	<tabTrigger>acc</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>accept="video"</description>
+</snippet>

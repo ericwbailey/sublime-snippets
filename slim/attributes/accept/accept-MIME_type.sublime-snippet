@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+accept="${1:MIME_type}/$2" $0
+]]></content>
+	<tabTrigger>acc</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>accept="MIME_type"</description>
+</snippet>

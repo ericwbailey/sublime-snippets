@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+align="top" $0
+]]></content>
+	<tabTrigger>ali</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>align="top"</description>
+</snippet>

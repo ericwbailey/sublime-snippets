@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+autocomplete="on" $0
+]]></content>
+	<tabTrigger>aut</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>autocomplete="on"</description>
+</snippet>

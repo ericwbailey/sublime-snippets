@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-label[for="$1"] $1$0
+label[for="$1"] $2$1$0
 ]]></content>
 	<tabTrigger>lab</tabTrigger>
 	<scope>text.slim</scope>

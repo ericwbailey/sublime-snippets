@@ -3,9 +3,9 @@
 /! start of #$1
 select#$1.$1[name="$1"]
 	option[value="$2"] $3$2
-	${3:optgroup[label="$4"]
-		option[value="$5"] $6$5
-		option[value="$7"] $8$7}
+	${4:optgroup[label="$5"]
+		option[value="$6"] $7$6
+		option[value="$8"] $9$8}
 /! end of #$1$0
 ]]></content>
 	<tabTrigger>sel</tabTrigger>

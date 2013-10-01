@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+color="#$1" $0
+]]></content>
+	<tabTrigger>col</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>color="#"</description>
+</snippet>

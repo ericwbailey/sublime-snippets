@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+contenteditable="false" $0
+]]></content>
+	<tabTrigger>con</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>contenteditable="false"</description>
+</snippet>

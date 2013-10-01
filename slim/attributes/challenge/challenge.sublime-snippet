@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+challenge="$1" $0
+]]></content>
+	<tabTrigger>cha</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>challenge=""</description>
+</snippet>

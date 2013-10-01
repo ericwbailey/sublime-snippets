@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+controls $0
+]]></content>
+	<tabTrigger>con</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>controls</description>
+</snippet>

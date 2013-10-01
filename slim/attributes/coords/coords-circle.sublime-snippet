@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+coords="${1:x},${2:y},${3:radius}" $0
+]]></content>
+	<tabTrigger>coo</tabTrigger>
+	<scope>text.slim</scope>
+	<description>coords="circle"</description>
+</snippet>

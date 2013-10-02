@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+dir="ltr" $0
+]]></content>
+	<tabTrigger>dir</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>dir="ltr"</description>
+</snippet>

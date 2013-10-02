@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+dropzone="copy" $0
+]]></content>
+	<tabTrigger>dro</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>dropzone="copy"</description>
+</snippet>

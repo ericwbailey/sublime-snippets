@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+enctype="application/x-www-form-urlencoded" $0
+]]></content>
+	<tabTrigger>enc</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>enctype="application/x-www-form-urlencoded"</description>
+</snippet>

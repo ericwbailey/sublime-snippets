@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+http-equiv="refresh" $0
+]]></content>
+	<tabTrigger>htt</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>http-equiv="refresh"</description>
+</snippet>

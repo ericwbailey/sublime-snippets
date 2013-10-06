@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-ismap $0
+min="$1" $0
 ]]></content>
-	<tabTrigger>ism</tabTrigger>
+	<tabTrigger>min</tabTrigger>
 	<scope>meta.section.object.slim</scope>
-	<description>ismap</description>
+	<description>min=""</description>
 </snippet>

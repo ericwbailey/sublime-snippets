@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-ismap $0
+max="$1" $0
 ]]></content>
-	<tabTrigger>ism</tabTrigger>
+	<tabTrigger>max</tabTrigger>
 	<scope>meta.section.object.slim</scope>
-	<description>ismap</description>
+	<description>max=""</description>
 </snippet>

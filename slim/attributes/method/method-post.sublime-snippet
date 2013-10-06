@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-ismap $0
+method="post" $0
 ]]></content>
-	<tabTrigger>ism</tabTrigger>
+	<tabTrigger>met</tabTrigger>
 	<scope>meta.section.object.slim</scope>
-	<description>ismap</description>
+	<description>method="post"</description>
 </snippet>

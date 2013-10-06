@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-ismap $0
+multiple $0
 ]]></content>
-	<tabTrigger>ism</tabTrigger>
+	<tabTrigger>mul</tabTrigger>
 	<scope>meta.section.object.slim</scope>
-	<description>ismap</description>
+	<description>multiple</description>
 </snippet>

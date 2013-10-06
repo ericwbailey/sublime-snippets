@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-ismap $0
+manifest="${1:URL}" $0
 ]]></content>
-	<tabTrigger>ism</tabTrigger>
+	<tabTrigger>man</tabTrigger>
 	<scope>meta.section.object.slim</scope>
-	<description>ismap</description>
+	<description>manifest=""</description>
 </snippet>

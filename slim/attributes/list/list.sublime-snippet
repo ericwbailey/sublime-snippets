@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+list="${1:parent datalist's ID}" $0
+]]></content>
+	<tabTrigger>lis</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>list=""</description>
+</snippet>

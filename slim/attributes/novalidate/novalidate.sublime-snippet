@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+novalidate $0
+]]></content>
+	<tabTrigger>nov</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>novalidate</description>
+</snippet>

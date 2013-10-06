@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+keytype="rsa" $0
+]]></content>
+	<tabTrigger>key</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>keytype="rsa"</description>
+</snippet>

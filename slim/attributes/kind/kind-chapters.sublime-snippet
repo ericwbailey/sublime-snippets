@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+kind="chapters" $0
+]]></content>
+	<tabTrigger>kin</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>kind="chapters"</description>
+</snippet>

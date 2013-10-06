@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+kind="subtitles" $0
+]]></content>
+	<tabTrigger>kin</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>kind="subtitles"</description>
+</snippet>

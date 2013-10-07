@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+rel="prev" $0
+]]></content>
+	<tabTrigger>rel</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>rel="prev"</description>
+</snippet>

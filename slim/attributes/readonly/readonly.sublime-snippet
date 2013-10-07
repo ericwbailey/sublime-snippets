@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+readonly $0
+]]></content>
+	<tabTrigger>rea</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>readonly</description>
+</snippet>

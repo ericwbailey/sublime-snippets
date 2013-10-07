@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+reversed $0
+]]></content>
+	<tabTrigger>rev</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>reversed</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+rel="help" $0
+]]></content>
+	<tabTrigger>rel</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>rel="help"</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+rows="$1" $0
+]]></content>
+	<tabTrigger>row</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>rows=""</description>
+</snippet>

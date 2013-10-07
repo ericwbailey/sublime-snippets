@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+type="hidden" $0
+]]></content>
+	<tabTrigger>typ</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>type="hidden"</description>
+</snippet>

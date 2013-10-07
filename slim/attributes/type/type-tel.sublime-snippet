@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+type="tel" $0
+]]></content>
+	<tabTrigger>typ</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>type="tel"</description>
+</snippet>

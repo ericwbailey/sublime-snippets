@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+tabindex="$1" $0
+]]></content>
+	<tabTrigger>tab</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>tabindex=""</description>
+</snippet>

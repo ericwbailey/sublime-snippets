@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+selected $0
+]]></content>
+	<tabTrigger>sel</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>selected</description>
+</snippet>

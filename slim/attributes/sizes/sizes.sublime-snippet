@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+sizes="${1:H}x${2:W}" $0
+]]></content>
+	<tabTrigger>siz</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>sizes="HxW"</description>
+</snippet>

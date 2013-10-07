@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+seamless $0
+]]></content>
+	<tabTrigger>sea</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>seamless</description>
+</snippet>

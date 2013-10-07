@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+sandbox="allow-scripts" $0
+]]></content>
+	<tabTrigger>san</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>sandbox="allow-scripts"</description>
+</snippet>

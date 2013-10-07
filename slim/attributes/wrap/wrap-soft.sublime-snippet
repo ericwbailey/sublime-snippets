@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+wrap="soft" $0
+]]></content>
+	<tabTrigger>wra</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>wrap="soft"</description>
+</snippet>

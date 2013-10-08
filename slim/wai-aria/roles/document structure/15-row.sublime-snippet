@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+role="row" $0
+]]></content>
+	<tabTrigger>role</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>role="row" (Document Structure)</description>
+</snippet>

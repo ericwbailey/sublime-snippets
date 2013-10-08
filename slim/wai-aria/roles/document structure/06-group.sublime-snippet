@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+role="group" $0
+]]></content>
+	<tabTrigger>role</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>role="group" (Document Structure)</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+role="timer" $0
+]]></content>
+	<tabTrigger>role</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>role="timer" (Widget)</description>
+</snippet>

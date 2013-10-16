@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+aria-relevant="additions" $0
+]]></content>
+	<tabTrigger>state</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>aria-relevant="additions" (Property)</description>
+</snippet>

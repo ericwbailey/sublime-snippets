@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+aria-owns="$1" $0
+]]></content>
+	<tabTrigger>state</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>aria-owns="" (Property)</description>
+</snippet>

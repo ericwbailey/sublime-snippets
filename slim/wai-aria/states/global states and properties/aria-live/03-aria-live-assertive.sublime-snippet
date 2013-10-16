@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+aria-live="assertive" $0
+]]></content>
+	<tabTrigger>state</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>aria-live="assertive" (Property)</description>
+</snippet>

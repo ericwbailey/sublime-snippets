@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+aria-invalid="false" $0
+]]></content>
+	<tabTrigger>state</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>aria-invalid="false" (State)</description>
+</snippet>

@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-aria-haspopup="true" $0
+aria-sort="ascending" $0
 ]]></content>
 	<tabTrigger>state</tabTrigger>
 	<scope>meta.section.object.slim</scope>
-	<description>aria-haspopup="true" (Property)</description>
+	<description>aria-sort="ascending" (Property)</description>
 </snippet>

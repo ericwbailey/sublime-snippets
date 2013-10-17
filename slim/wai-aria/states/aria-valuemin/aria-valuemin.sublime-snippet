@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-aria-haspopup="false" $0
+aria-valuemin="$1" $0
 ]]></content>
 	<tabTrigger>state</tabTrigger>
 	<scope>meta.section.object.slim</scope>
-	<description>aria-haspopup="false" (Property)</description>
+	<description>aria-valuemin="" (Property)</description>
 </snippet>

@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-aria-invalid="false" $0
+aria-sort="other" $0
 ]]></content>
 	<tabTrigger>state</tabTrigger>
 	<scope>meta.section.object.slim</scope>
-	<description>aria-invalid="false" (State)</description>
+	<description>aria-sort="other" (Property)</description>
 </snippet>

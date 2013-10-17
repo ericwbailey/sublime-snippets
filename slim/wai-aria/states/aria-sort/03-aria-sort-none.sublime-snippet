@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-aria-hidden="false" $0
+aria-sort="none" $0
 ]]></content>
 	<tabTrigger>state</tabTrigger>
 	<scope>meta.section.object.slim</scope>
-	<description>aria-hidden="false" (State)</description>
+	<description>aria-sort="none" (Property)</description>
 </snippet>

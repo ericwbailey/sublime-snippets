@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-aria-invalid="grammar" $0
+aria-valuenow="$1" $0
 ]]></content>
 	<tabTrigger>state</tabTrigger>
 	<scope>meta.section.object.slim</scope>
-	<description>aria-invalid="grammar" (State)</description>
+	<description>aria-valuenow="" (Property)</description>
 </snippet>

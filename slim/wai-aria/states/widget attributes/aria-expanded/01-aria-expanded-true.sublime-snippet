@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+aria-expanded="true" $0
+]]></content>
+	<tabTrigger>state</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>aria-expanded="true" (State)</description>
+</snippet>

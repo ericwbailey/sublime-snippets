@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+aria-pressed="mixed" $0
+]]></content>
+	<tabTrigger>state</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>aria-pressed="mixed" (State)</description>
+</snippet>

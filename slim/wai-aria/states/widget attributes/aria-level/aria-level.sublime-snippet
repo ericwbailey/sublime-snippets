@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+aria-level="$1" $0
+]]></content>
+	<tabTrigger>state</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>aria-level="" (Property)</description>
+</snippet>

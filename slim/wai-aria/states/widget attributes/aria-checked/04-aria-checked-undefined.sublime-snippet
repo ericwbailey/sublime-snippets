@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+aria-checked="undefined" $0
+]]></content>
+	<tabTrigger>state</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>aria-checked="undefined" (State)</description>
+</snippet>

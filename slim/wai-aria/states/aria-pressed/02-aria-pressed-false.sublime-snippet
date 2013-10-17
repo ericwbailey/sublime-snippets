@@ -4,5 +4,5 @@ aria-pressed="false" $0
 ]]></content>
 	<tabTrigger>state</tabTrigger>
 	<scope>meta.section.object.slim</scope>
-	<description>aria-pressed="false" (State)</description>
+	<description>aria-pressed="false" (Widget Attribute)</description>
 </snippet>

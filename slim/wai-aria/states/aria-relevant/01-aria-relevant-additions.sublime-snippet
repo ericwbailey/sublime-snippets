@@ -4,5 +4,5 @@ aria-relevant="additions" $0
 ]]></content>
 	<tabTrigger>state</tabTrigger>
 	<scope>meta.section.object.slim</scope>
-	<description>aria-relevant="additions" (Property)</description>
+	<description>aria-relevant="additions" (Global State, Live Region)</description>
 </snippet>

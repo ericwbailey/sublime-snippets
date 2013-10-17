@@ -4,5 +4,5 @@ aria-live="polite" $0
 ]]></content>
 	<tabTrigger>state</tabTrigger>
 	<scope>meta.section.object.slim</scope>
-	<description>aria-live="polite" (Property)</description>
+	<description>aria-live="polite" (Global State, Live Region)</description>
 </snippet>

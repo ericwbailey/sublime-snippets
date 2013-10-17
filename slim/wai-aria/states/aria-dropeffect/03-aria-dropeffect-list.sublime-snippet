@@ -4,5 +4,5 @@ aria-dropeffect="$1" $0
 ]]></content>
 	<tabTrigger>state</tabTrigger>
 	<scope>meta.section.object.slim</scope>
-	<description>aria-dropeffect="list" (Property)</description>
+	<description>aria-dropeffect="list" (Global State, Drag-and-Drop)</description>
 </snippet>

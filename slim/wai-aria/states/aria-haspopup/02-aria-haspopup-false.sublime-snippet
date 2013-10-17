@@ -4,5 +4,5 @@ aria-haspopup="false" $0
 ]]></content>
 	<tabTrigger>state</tabTrigger>
 	<scope>meta.section.object.slim</scope>
-	<description>aria-haspopup="false" (Property)</description>
+	<description>aria-haspopup="false" (Global State, Widget Attribute)</description>
 </snippet>

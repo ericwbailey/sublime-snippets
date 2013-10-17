@@ -4,5 +4,5 @@ aria-expanded="false" $0
 ]]></content>
 	<tabTrigger>state</tabTrigger>
 	<scope>meta.section.object.slim</scope>
-	<description>aria-expanded="false" (State)</description>
+	<description>aria-expanded="false" (Widget Attribute)</description>
 </snippet>

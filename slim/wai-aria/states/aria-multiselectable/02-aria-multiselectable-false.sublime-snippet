@@ -4,5 +4,5 @@ aria-multiselectable="false" $0
 ]]></content>
 	<tabTrigger>state</tabTrigger>
 	<scope>meta.section.object.slim</scope>
-	<description>aria-multiselectable="false" (Property)</description>
+	<description>aria-multiselectable="false" (Widget Attribute)</description>
 </snippet>

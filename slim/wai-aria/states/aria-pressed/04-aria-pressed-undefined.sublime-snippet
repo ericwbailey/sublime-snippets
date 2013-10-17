@@ -4,5 +4,5 @@ aria-pressed="undefined" $0
 ]]></content>
 	<tabTrigger>state</tabTrigger>
 	<scope>meta.section.object.slim</scope>
-	<description>aria-pressed="undefined" (State)</description>
+	<description>aria-pressed="undefined" (Widget Attribute)</description>
 </snippet>

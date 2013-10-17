@@ -4,5 +4,5 @@ aria-grabbed="true" $0
 ]]></content>
 	<tabTrigger>state</tabTrigger>
 	<scope>meta.section.object.slim</scope>
-	<description>aria-grabbed="true" (State)</description>
+	<description>aria-grabbed="true" (Global State, Drag-and-Drop)</description>
 </snippet>

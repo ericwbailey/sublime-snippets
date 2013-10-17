@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-aria-valuetext="$1" $0
+aria-valuetext="${1:String}" $0
 ]]></content>
 	<tabTrigger>state</tabTrigger>
 	<scope>meta.section.object.slim</scope>
-	<description>aria-valuetext="" (Property)</description>
+	<description>aria-valuetext="" (Widget Attribute)</description>
 </snippet>

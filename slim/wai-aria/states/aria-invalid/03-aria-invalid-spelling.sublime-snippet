@@ -4,5 +4,5 @@ aria-invalid="spelling" $0
 ]]></content>
 	<tabTrigger>state</tabTrigger>
 	<scope>meta.section.object.slim</scope>
-	<description>aria-invalid="spelling" (State)</description>
+	<description>aria-invalid="spelling" (Global State, Widget Attribute)</description>
 </snippet>

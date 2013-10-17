@@ -4,5 +4,5 @@ aria-required="true" $0
 ]]></content>
 	<tabTrigger>state</tabTrigger>
 	<scope>meta.section.object.slim</scope>
-	<description>aria-required="true" (Property)</description>
+	<description>aria-required="true" (Widget Attribute)</description>
 </snippet>

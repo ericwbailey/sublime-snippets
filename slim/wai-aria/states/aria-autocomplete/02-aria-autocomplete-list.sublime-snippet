@@ -4,5 +4,5 @@ aria-autocomplete="list" $0
 ]]></content>
 	<tabTrigger>state</tabTrigger>
 	<scope>meta.section.object.slim</scope>
-	<description>aria-autocomplete="list" (Property)</description>
+	<description>aria-autocomplete="list" (Widget Attribute)</description>
 </snippet>

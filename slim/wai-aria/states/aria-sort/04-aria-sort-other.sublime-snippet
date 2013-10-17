@@ -4,5 +4,5 @@ aria-sort="other" $0
 ]]></content>
 	<tabTrigger>state</tabTrigger>
 	<scope>meta.section.object.slim</scope>
-	<description>aria-sort="other" (Property)</description>
+	<description>aria-sort="other" (Widget Attribute)</description>
 </snippet>

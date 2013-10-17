@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-aria-label="$1" $0
+aria-label="${1:String}" $0
 ]]></content>
 	<tabTrigger>state</tabTrigger>
 	<scope>meta.section.object.slim</scope>
-	<description>aria-label="" (Property)</description>
+	<description>aria-label="" (Global State, Widget Attribute)</description>
 </snippet>

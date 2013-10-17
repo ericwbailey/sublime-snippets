@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-aria-atomic="false" $0
+aria-setsize="${1:Non-negative Integer}" $0
 ]]></content>
 	<tabTrigger>state</tabTrigger>
 	<scope>meta.section.object.slim</scope>
-	<description>aria-atomic="false" (Global State, Live Region)</description>
+	<description>aria-setsize="" (Relationship)</description>
 </snippet>

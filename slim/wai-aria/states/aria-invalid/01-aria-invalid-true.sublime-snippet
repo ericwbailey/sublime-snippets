@@ -4,5 +4,5 @@ aria-invalid="true" $0
 ]]></content>
 	<tabTrigger>state</tabTrigger>
 	<scope>meta.section.object.slim</scope>
-	<description>aria-invalid="true" (State)</description>
+	<description>aria-invalid="true" (Global State, Widget Attribute)</description>
 </snippet>

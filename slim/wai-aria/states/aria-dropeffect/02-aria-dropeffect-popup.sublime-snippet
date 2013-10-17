@@ -4,5 +4,5 @@ aria-dropeffect="popup" $0
 ]]></content>
 	<tabTrigger>state</tabTrigger>
 	<scope>meta.section.object.slim</scope>
-	<description>aria-dropeffect="popup" (Property)</description>
+	<description>aria-dropeffect="popup" (Global State, Drag-and-Drop)</description>
 </snippet>

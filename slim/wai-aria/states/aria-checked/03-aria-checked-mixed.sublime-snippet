@@ -4,5 +4,5 @@ aria-checked="mixed" $0
 ]]></content>
 	<tabTrigger>state</tabTrigger>
 	<scope>meta.section.object.slim</scope>
-	<description>aria-checked="mixed" (State)</description>
+	<description>aria-checked="mixed" (Widget Attribute)</description>
 </snippet>

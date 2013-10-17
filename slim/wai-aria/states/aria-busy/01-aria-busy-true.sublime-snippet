@@ -4,5 +4,5 @@ aria-busy="true" $0
 ]]></content>
 	<tabTrigger>state</tabTrigger>
 	<scope>meta.section.object.slim</scope>
-	<description>aria-busy="true" (State)</description>
+	<description>aria-busy="true" (Global State, Live Region)</description>
 </snippet>

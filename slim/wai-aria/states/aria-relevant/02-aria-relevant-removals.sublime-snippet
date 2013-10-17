@@ -4,5 +4,5 @@ aria-relevant="removals" $0
 ]]></content>
 	<tabTrigger>state</tabTrigger>
 	<scope>meta.section.object.slim</scope>
-	<description>aria-relevant="removals" (Property)</description>
+	<description>aria-relevant="removals" (Global State, Live Region)</description>
 </snippet>

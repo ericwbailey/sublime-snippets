@@ -4,5 +4,5 @@ aria-disabled="true" $0
 ]]></content>
 	<tabTrigger>state</tabTrigger>
 	<scope>meta.section.object.slim</scope>
-	<description>aria-disabled="true" (State)</description>
+	<description>aria-disabled="true" (Global State, Widget Attribute)</description>
 </snippet>

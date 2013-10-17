@@ -4,5 +4,5 @@ aria-multiline="false" $0
 ]]></content>
 	<tabTrigger>state</tabTrigger>
 	<scope>meta.section.object.slim</scope>
-	<description>aria-multiline="false" (Property)</description>
+	<description>aria-multiline="false" (Widget Attribute)</description>
 </snippet>

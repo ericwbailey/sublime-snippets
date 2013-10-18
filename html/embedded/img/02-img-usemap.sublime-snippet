@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<img src="img/$1" alt="$2" height="$3" width="$4" usemap="$5" />$0
+]]></content>
+	<tabTrigger>img</tabTrigger>
+	<scope>text.slim</scope>
+	<description>img usemap=""</description>
+</snippet>

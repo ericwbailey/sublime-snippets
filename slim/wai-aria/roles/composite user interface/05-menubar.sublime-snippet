@@ -2,7 +2,7 @@
 	<content><![CDATA[
 role="menubar"$0
 ]]></content>
-	<tabTrigger>role</tabTrigger>
+	<tabTrigger>ariar</tabTrigger>
 	<scope>meta.section.object.slim</scope>
 	<description>role="menubar" (Composite User Interface)</description>
 </snippet>

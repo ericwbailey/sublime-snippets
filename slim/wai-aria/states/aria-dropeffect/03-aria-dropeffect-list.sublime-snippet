@@ -2,7 +2,7 @@
 	<content><![CDATA[
 aria-dropeffect="$1"$0
 ]]></content>
-	<tabTrigger>state</tabTrigger>
+	<tabTrigger>arias</tabTrigger>
 	<scope>meta.section.object.slim</scope>
 	<description>aria-dropeffect="list" (Global State, Drag-and-Drop)</description>
 </snippet>

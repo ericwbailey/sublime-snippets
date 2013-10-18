@@ -2,7 +2,7 @@
 	<content><![CDATA[
 aria-live="polite"$0
 ]]></content>
-	<tabTrigger>state</tabTrigger>
+	<tabTrigger>arias</tabTrigger>
 	<scope>meta.section.object.slim</scope>
 	<description>aria-live="polite" (Global State, Live Region)</description>
 </snippet>

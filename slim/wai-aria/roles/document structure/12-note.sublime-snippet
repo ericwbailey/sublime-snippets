@@ -2,7 +2,7 @@
 	<content><![CDATA[
 role="note"$0
 ]]></content>
-	<tabTrigger>role</tabTrigger>
+	<tabTrigger>ariar</tabTrigger>
 	<scope>meta.section.object.slim</scope>
 	<description>role="note" (Document Structure)</description>
 </snippet>

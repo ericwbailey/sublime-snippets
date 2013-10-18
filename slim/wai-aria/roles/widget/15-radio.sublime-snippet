@@ -2,7 +2,7 @@
 	<content><![CDATA[
 role="radio"$0
 ]]></content>
-	<tabTrigger>role</tabTrigger>
+	<tabTrigger>ariar</tabTrigger>
 	<scope>meta.section.object.slim</scope>
 	<description>role="radio" (Widget)</description>
 </snippet>

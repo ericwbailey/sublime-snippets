@@ -2,7 +2,7 @@
 	<content><![CDATA[
 aria-valuemax="${1:Floating-point Number}"$0
 ]]></content>
-	<tabTrigger>state</tabTrigger>
+	<tabTrigger>arias</tabTrigger>
 	<scope>meta.section.object.slim</scope>
 	<description>aria-valuemax="" (Widget Attribute)</description>
 </snippet>

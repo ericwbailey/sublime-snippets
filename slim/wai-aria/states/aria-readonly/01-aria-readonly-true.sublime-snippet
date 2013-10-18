@@ -2,7 +2,7 @@
 	<content><![CDATA[
 aria-readonly="true"$0
 ]]></content>
-	<tabTrigger>state</tabTrigger>
+	<tabTrigger>arias</tabTrigger>
 	<scope>meta.section.object.slim</scope>
 	<description>aria-readonly="true" (Widget Attribute)</description>
 </snippet>

@@ -2,7 +2,7 @@
 	<content><![CDATA[
 role="link"$0
 ]]></content>
-	<tabTrigger>role</tabTrigger>
+	<tabTrigger>ariar</tabTrigger>
 	<scope>meta.section.object.slim</scope>
 	<description>role="link" (Widget)</description>
 </snippet>

@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-border="1" $0
-]]></content>
-	<tabTrigger>bor</tabTrigger>
-	<scope>meta.section.object.slim</scope>
-	<description>border="1"</description>
-</snippet>

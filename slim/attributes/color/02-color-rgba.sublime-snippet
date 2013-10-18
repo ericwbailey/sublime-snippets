@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-color="rgba({1:R}, {1:G}, {1:B}, {1:A (0-1)})" $0
+color="rgba(${1:R}, ${2:G}, ${3:B}, ${4:A (0-1)})" $0
 ]]></content>
 	<tabTrigger>col</tabTrigger>
 	<scope>meta.section.object.slim</scope>

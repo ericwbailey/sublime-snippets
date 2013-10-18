@@ -4,5 +4,5 @@ data-$1="$2" $0
 ]]></content>
 	<tabTrigger>dat</tabTrigger>
 	<scope>meta.section.object.slim</scope>
-	<description>data=""</description>
+	<description>data-=""</description>
 </snippet>

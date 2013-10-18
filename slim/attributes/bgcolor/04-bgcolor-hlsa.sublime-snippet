@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-bgcolor="hsla({1:H}, {1:S}, {1:L}, {1:A (0-1)})" $0
+bgcolor="hsla(${1:H}, ${2:S}, ${3:L}, ${4:A (0-1)})" $0
 ]]></content>
 	<tabTrigger>bgc</tabTrigger>
 	<scope>meta.section.object.slim</scope>

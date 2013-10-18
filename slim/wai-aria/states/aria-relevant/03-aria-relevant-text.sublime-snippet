@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-aria-relevant="text" $0
+aria-relevant="text"$0
 ]]></content>
 	<tabTrigger>state</tabTrigger>
 	<scope>meta.section.object.slim</scope>

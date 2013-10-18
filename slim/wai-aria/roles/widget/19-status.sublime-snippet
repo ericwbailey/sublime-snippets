@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-role="status" $0
+role="status"$0
 ]]></content>
 	<tabTrigger>role</tabTrigger>
 	<scope>meta.section.object.slim</scope>

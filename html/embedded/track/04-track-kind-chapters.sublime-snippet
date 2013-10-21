@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<track src="media/video/$1" label="${2:English}" srclang="${3:en}" kind="chapters"${4: default="true"}>$0
+]]></content>
+	<tabTrigger>tra</tabTrigger>
+	<scope>text.slim</scope>
+	<description>track kind="chapters"</description>
+</snippet>

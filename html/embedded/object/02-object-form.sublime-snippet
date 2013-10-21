@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<!-- start of # -->
+<object id="$1" class="$1" data="$2" name="$3" form="$4" type="$5" height="$6" width="$7">
+	<param name="$8" value="$9">
+</object>
+<!-- end of # -->$0
+]]></content>
+	<tabTrigger>obj</tabTrigger>
+	<scope>text.slim</scope>
+	<description>object form=""</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<?xml version="1.0" encoding="iso-8859-1" ?>
+$0
+]]></content>
+	<tabTrigger>doc</tabTrigger>
+	<scope>text.slim</scope>
+	<description>xml ISO-8859-1</description>
+</snippet>

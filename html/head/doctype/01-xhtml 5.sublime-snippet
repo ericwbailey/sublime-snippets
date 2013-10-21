@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<!DOCTYPE html>
+$0
+]]></content>
+	<tabTrigger>doc</tabTrigger>
+	<scope>text.slim</scope>
+	<description>XHTML 5</description>
+</snippet>

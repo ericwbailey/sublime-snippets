@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+<!-- start of #$1 -->
+<figure id="$1" class="$1">
+	$3
+	<figcaption id="$2" class="$2" role="group" aria-labelledby="$2 $1">
+        $4
+    </figcaption>
+</figure>
+<!-- end of #$1 -->$0
+]]></content>
+	<tabTrigger>fig</tabTrigger>
+	<scope>text.slim</scope>
+	<description>figure</description>
+</snippet>

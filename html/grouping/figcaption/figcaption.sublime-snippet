@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<figcaption>
+    $0
+</figcaption>
+]]></content>
+	<tabTrigger>fig</tabTrigger>
+	<scope>text.slim</scope>
+	<description>figcaption</description>
+</snippet>

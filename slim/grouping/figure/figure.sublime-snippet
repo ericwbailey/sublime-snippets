@@ -3,7 +3,7 @@
 /! start of #$1
 figure#$1.$1
 	$3
-	figcaption#$2.$2[role="group" aria-labelledby="$2 $1"]
+	figcaption#$2.$2[role="group" aria-labelledby="$2 $1"] $4
 /! end of #$1$0
 ]]></content>
 	<tabTrigger>fig</tabTrigger>

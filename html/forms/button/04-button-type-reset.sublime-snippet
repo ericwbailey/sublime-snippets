@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<button type="reset">$0</button>
+<button name="$1" type="reset">$0</button>
 ]]></content>
 	<tabTrigger>but</tabTrigger>
 	<scope>text.slim</scope>

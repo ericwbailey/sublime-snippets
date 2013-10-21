@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<fieldset name="$1">
+	$0
+</fieldset>
+]]></content>
+	<tabTrigger>fie</tabTrigger>
+	<scope>text.slim</scope>
+	<description>fieldset</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<button>$0</button>
+]]></content>
+	<tabTrigger>but</tabTrigger>
+	<scope>text.slim</scope>
+	<description>button</description>
+</snippet>

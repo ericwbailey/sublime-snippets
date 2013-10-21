@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+<!-- start of #$1 -->
+<select id="$1" class="$1" name="$1">
+	<option value="$2">$3$2</option>
+	${4:<optgroup label="$5">
+		<option value="$6">$7$6</option>
+		<option value="$8">$9$8</option>
+    </optgroup>}
+</select>
+<!-- end of #$1 -->$0
+]]></content>
+	<tabTrigger>sel</tabTrigger>
+	<scope>text.slim</scope>
+	<description>select</description>
+</snippet>

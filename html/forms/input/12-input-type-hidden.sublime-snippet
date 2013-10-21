@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<input name="$1" type="hidden" value="$2">$0
+]]></content>
+	<tabTrigger>inp</tabTrigger>
+	<scope>text.slim</scope>
+	<description>input type="hidden"</description>
+</snippet>

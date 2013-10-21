@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<option value="$1">$2$1$0</option>
+]]></content>
+	<tabTrigger>opt</tabTrigger>
+	<scope>text.slim</scope>
+	<description>option</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<textarea id="$1" class="$1" name="$1-textarea"${2: placeholder="$3"}>$0</textarea>
+]]></content>
+	<tabTrigger>tex</tabTrigger>
+	<scope>text.slim</scope>
+	<description>textarea</description>
+</snippet>

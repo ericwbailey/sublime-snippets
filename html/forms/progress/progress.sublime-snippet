@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<progress value="$1" max="$2">$0</progress>
+]]></content>
+	<tabTrigger>pro</tabTrigger>
+	<scope>text.slim</scope>
+	<description>progress</description>
+</snippet>

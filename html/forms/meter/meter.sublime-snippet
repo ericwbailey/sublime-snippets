@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<meter min="$1" max="$2"${3: low="$4"}${5: high="$6"}${7: optimum="$8"}value="$9">$0</meter>
+]]></content>
+	<tabTrigger>met</tabTrigger>
+	<scope>text.slim</scope>
+	<description>meter</description>
+</snippet>

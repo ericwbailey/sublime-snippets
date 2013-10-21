@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<input name="$1" type="date" value="$2" placeholder="$3" min="${4:YYYY}-${5:MM}-${6:DD}" max="${7:YYYY}-${8:MM}-${9:DD}">$0
+]]></content>
+	<tabTrigger>inp</tabTrigger>
+	<scope>text.slim</scope>
+	<description>input type="date" min="" max=""</description>
+</snippet>

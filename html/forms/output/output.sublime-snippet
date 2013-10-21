@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<output name="$1-output" for="$2">$0</output>
+]]></content>
+	<tabTrigger>out</tabTrigger>
+	<scope>text.slim</scope>
+	<description>output</description>
+</snippet>

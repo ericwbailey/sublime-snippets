@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<details role="group">
+    $0
+</details>
+]]></content>
+	<tabTrigger>det</tabTrigger>
+	<scope>text.slim</scope>
+	<description>details</description>
+</snippet>

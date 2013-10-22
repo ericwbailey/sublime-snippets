@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<menu label="$1" type="context">
+    $0
+</menu>
+]]></content>
+	<tabTrigger>men</tabTrigger>
+	<scope>text.slim</scope>
+	<description>menu type="context"</description>
+</snippet>

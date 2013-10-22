@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<summary role="button" aria-expanded="false">
+    $0
+</summary>
+]]></content>
+	<tabTrigger>sum</tabTrigger>
+	<scope>text.slim</scope>
+	<description>summary</description>
+</snippet>

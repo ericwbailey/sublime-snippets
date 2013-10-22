@@ -1,0 +1,54 @@
+<snippet>
+	<content><![CDATA[
+<!-- start of #$1 -->
+<table id="$1" class="$1">
+	<caption>
+		$2
+	</caption>
+	<colgroup span="$3">
+		<col>
+			$4
+		</col>
+	</colgroup>
+	<colgroup span="$5">
+		<col>
+			$6
+		</col>
+	</colgroup>
+	<thead>
+		<tr>
+			<th scope="col">
+				$7
+			</th>
+			<th scope="col">
+				$8
+			</th>
+		</tr>
+	</thead>
+	<tfoot>
+		<tr>
+			<td scope="row">
+				$9
+			</td>
+			<td scope="row">
+				$10
+			</td>
+		</tr>
+	</tfoot>
+	<tbody>
+		<tr>
+			<td scope="row">
+				$11
+			</td>
+			<td>
+				$12
+			</td>
+		</tr>
+	</tbody>
+</table>
+<!-- end of #$1 -->$0
+]]></content>
+	<tabTrigger>tab</tabTrigger>
+	<scope>text.slim</scope>
+	<description>table</description>
+</snippet>

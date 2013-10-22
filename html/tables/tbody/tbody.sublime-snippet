@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+<tbody>
+	<tr>
+		<th scope="col">
+            $0
+        </th>
+    </tr>
+</tbody>
+]]></content>
+	<tabTrigger>tbo</tabTrigger>
+	<scope>text.slim</scope>
+	<description>tbody</description>
+</snippet>

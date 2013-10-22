@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<tr> 
+    $0
+</tr>
+]]></content>
+	<tabTrigger>tr</tabTrigger>
+	<scope>text.slim</scope>
+	<description>tr</description>
+</snippet>

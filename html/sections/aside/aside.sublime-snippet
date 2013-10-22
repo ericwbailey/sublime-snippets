@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<!-- start of #$1 -->
+<aside id="$1" class="$1" role="complementary">
+    $0
+</aside>
+<!-- end of #$1 -->
+]]></content>
+	<tabTrigger>asi</tabTrigger>
+	<scope>text.slim</scope>
+	<description>aside</description>
+</snippet>

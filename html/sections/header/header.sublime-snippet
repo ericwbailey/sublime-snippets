@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<!-- start of #$1 -->
+<header id="$1" class="$1" role="banner">
+    $0
+</header>
+<!-- end of #$1 -->
+]]></content>
+	<tabTrigger>hea</tabTrigger>
+	<scope>text.slim</scope>
+	<description>header</description>
+</snippet>

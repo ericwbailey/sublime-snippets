@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<!-- start of #$1 -->
+<footer id="$1" class="$1" role="contentinfo">
+    $0
+</footer>
+<!-- end of #$1 -->
+]]></content>
+	<tabTrigger>foo</tabTrigger>
+	<scope>text.slim</scope>
+	<description>footer</description>
+</snippet>

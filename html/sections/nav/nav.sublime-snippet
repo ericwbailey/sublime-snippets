@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<!-- start of #$1 -->
+<nav id="$1" class="$1">
+    $0
+</nav>
+<!-- end of #$1 -->
+]]></content>
+	<tabTrigger>nav</tabTrigger>
+	<scope>text.slim</scope>
+	<description>nav</description>
+</snippet>

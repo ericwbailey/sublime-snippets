@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<!-- Avoid using the noscript tag: http://bit.ly/r3jUTm -->
+<p id="jsnotice"><strong>Javascript is currently disabled</strong>. This site requires Javascript to function correctly. Please <a rel="external" href="http://enable-javascript.com/">enable Javascript in your browser</a>.</p>$0
+]]></content>
+	<tabTrigger>nos</tabTrigger>
+	<scope>text.slim</scope>
+	<description>noscript</description>
+</snippet>

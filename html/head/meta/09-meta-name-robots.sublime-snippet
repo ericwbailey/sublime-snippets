@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<meta name="robots" content="$1">$0
+]]></content>
+	<tabTrigger>met</tabTrigger>
+	<scope>text.slim</scope>
+	<description>meta name="robots"</description>
+</snippet>

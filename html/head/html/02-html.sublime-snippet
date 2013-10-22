@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<html lang="${1:en}">
+$0
+</html>
+]]></content>
+	<tabTrigger>htm</tabTrigger>
+	<scope>text.slim</scope>
+	<description>HTML</description>
+</snippet>

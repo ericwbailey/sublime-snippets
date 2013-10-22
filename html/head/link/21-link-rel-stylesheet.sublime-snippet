@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<link rel="stylesheet" href="${1:URL}">$0
+]]></content>
+	<tabTrigger>lin</tabTrigger>
+	<scope>text.slim</scope>
+	<description>link rel="stylesheet"</description>
+</snippet>

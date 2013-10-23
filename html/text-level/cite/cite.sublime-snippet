@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<cite>$1</cite>$0
+]]></content>
+	<tabTrigger>cit</tabTrigger>
+	<scope>text.slim</scope>
+	<description>cite</description>
+</snippet>

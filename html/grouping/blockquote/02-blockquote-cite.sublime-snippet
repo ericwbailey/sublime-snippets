@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+<blockquote>
+    $1
+	<cite>
+        $0
+    <cite>
+</blockquote>
+]]></content>
+	<tabTrigger>blo</tabTrigger>
+	<scope>text.slim</scope>
+	<description>blockquote</description>
+</snippet>

@@ -1,6 +1,8 @@
 <snippet>
 	<content><![CDATA[
-blockquote $0
+<blockquote>
+	$0
+</blockquote>
 ]]></content>
 	<tabTrigger>blo</tabTrigger>
 	<scope>text.slim</scope>

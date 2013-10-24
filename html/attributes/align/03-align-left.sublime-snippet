@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+align="left" $0
+]]></content>
+	<tabTrigger>ali</tabTrigger>
+	<scope>meta.section.object.html</scope>
+	<description>align="left"</description>
+</snippet>

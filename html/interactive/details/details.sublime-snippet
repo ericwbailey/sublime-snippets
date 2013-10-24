@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 <details role="group">
-    $0
+	$0
 </details>
 ]]></content>
 	<tabTrigger>det</tabTrigger>

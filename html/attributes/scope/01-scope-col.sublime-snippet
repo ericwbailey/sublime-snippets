@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+scope="col" $0
+]]></content>
+	<tabTrigger>sco</tabTrigger>
+	<scope>meta.section.object.html</scope>
+	<description>scope="col"</description>
+</snippet>

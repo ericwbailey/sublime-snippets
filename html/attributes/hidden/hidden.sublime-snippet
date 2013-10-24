@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+hidden $0
+]]></content>
+	<tabTrigger>hid</tabTrigger>
+	<scope>meta.section.object.html</scope>
+	<description>hidden</description>
+</snippet>

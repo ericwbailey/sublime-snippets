@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+form="$1" $0
+]]></content>
+	<tabTrigger>for</tabTrigger>
+	<scope>meta.section.object.html</scope>
+	<description>form=""</description>
+</snippet>

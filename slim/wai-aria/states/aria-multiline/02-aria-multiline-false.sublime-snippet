@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-aria-multiline="false"$0
+aria-multiline="false" $0
 ]]></content>
 	<tabTrigger>arias</tabTrigger>
 	<scope>meta.section.object.slim</scope>

@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-aria-autocomplete="none"$0
+aria-autocomplete="none" $0
 ]]></content>
 	<tabTrigger>arias</tabTrigger>
-	<scope>meta.section.object.slim</scope>
+	<scope>meta.section.object.html</scope>
 	<description>aria-autocomplete="none" (Widget Attribute)</description>
 </snippet>

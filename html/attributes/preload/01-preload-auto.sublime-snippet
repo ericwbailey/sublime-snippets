@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+preload="auto" $0
+]]></content>
+	<tabTrigger>pre</tabTrigger>
+	<scope>meta.section.object.html</scope>
+	<description>preload="auto"</description>
+</snippet>

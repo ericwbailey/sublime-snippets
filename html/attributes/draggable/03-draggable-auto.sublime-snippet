@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+draggable="auto" $0
+]]></content>
+	<tabTrigger>dra</tabTrigger>
+	<scope>meta.section.object.html</scope>
+	<description>draggable="auto"</description>
+</snippet>

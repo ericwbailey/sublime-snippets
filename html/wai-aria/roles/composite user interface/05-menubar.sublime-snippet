@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-role="menubar"$0
+role="menubar" $0
 ]]></content>
 	<tabTrigger>ariar</tabTrigger>
-	<scope>meta.section.object.slim</scope>
+	<scope>meta.section.object.html</scope>
 	<description>role="menubar" (Composite User Interface)</description>
 </snippet>

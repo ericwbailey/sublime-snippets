@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+shape="poly" $0
+]]></content>
+	<tabTrigger>sha</tabTrigger>
+	<scope>meta.section.object.html</scope>
+	<description>shape="poly"</description>
+</snippet>

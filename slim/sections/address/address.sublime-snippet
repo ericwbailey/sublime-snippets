@@ -2,7 +2,7 @@
 	<content><![CDATA[
 /! start of #$1
 address#$1.$1 
-    $0
+	$0
 /! end of #$1
 ]]></content>
 	<tabTrigger>add</tabTrigger>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+start="$1" $0
+]]></content>
+	<tabTrigger>sta</tabTrigger>
+	<scope>meta.section.object.html</scope>
+	<description>start=""</description>
+</snippet>

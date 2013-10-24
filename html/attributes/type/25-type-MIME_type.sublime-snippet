@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+type="${1:MIME_type}" $0
+]]></content>
+	<tabTrigger>typ</tabTrigger>
+	<scope>meta.section.object.html</scope>
+	<description>type="MIME_type"</description>
+</snippet>

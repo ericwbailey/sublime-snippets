@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 <dd>
-    $0
+	$0
 </dd>
 ]]></content>
 	<tabTrigger>dd</tabTrigger>

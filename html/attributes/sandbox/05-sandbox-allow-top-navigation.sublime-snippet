@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+sandbox="allow-top-navigation" $0
+]]></content>
+	<tabTrigger>san</tabTrigger>
+	<scope>meta.section.object.html</scope>
+	<description>sandbox="allow-top-navigation"</description>
+</snippet>

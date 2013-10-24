@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-role="menuitemcheckbox"$0
+role="menuitemcheckbox" $0
 ]]></content>
 	<tabTrigger>ariar</tabTrigger>
-	<scope>meta.section.object.slim</scope>
+	<scope>meta.section.object.html</scope>
 	<description>role="menuitemcheckbox" (Widget)</description>
 </snippet>

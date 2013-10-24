@@ -2,11 +2,11 @@
 	<content><![CDATA[
 <dl>
 	<dt>
-        $1
-    </dt>
+		$1
+	</dt>
 	<dd>
-        $0
-    </dd>
+		$0
+	</dd>
 </dl>
 ]]></content>
 	<tabTrigger>dl</tabTrigger>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+method="get" $0
+]]></content>
+	<tabTrigger>met</tabTrigger>
+	<scope>meta.section.object.html</scope>
+	<description>method="get"</description>
+</snippet>

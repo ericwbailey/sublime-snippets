@@ -6,7 +6,7 @@
 	${4:<optgroup label="$5">
 		<option value="$6">$7$6</option>
 		<option value="$8">$9$8</option>
-    </optgroup>}
+	</optgroup>}
 </select>
 <!-- end of #$1 -->$0
 ]]></content>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+enctype="multipart/form-data" $0
+]]></content>
+	<tabTrigger>enc</tabTrigger>
+	<scope>meta.section.object.html</scope>
+	<description>enctype="multipart/form-data"</description>
+</snippet>

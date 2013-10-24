@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-role="menuitem"$0
+role="menuitem" $0
 ]]></content>
 	<tabTrigger>ariar</tabTrigger>
-	<scope>meta.section.object.slim</scope>
+	<scope>meta.section.object.html</scope>
 	<description>role="menuitem" (Widget)</description>
 </snippet>

@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-aria-multiselectable="false"$0
+aria-multiselectable="false" $0
 ]]></content>
 	<tabTrigger>arias</tabTrigger>
-	<scope>meta.section.object.slim</scope>
+	<scope>meta.section.object.html</scope>
 	<description>aria-multiselectable="false" (Widget Attribute)</description>
 </snippet>

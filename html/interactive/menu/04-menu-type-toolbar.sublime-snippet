@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 <menu label="$1" type="toolbar">
-    $0
+	$0
 </menu>
 ]]></content>
 	<tabTrigger>men</tabTrigger>

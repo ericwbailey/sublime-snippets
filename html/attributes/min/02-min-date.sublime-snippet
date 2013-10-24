@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+min="${1:YYYY}-${2:MM}-${3:DD}" $0
+]]></content>
+	<tabTrigger>min</tabTrigger>
+	<scope>meta.section.object.html</scope>
+	<description>min="YYYY-MM-DD"</description>
+</snippet>

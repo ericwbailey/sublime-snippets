@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+bgcolor="hsla(${1:H}, ${2:S}, ${3:L}, ${4:A (0-1)})" $0
+]]></content>
+	<tabTrigger>bgc</tabTrigger>
+	<scope>meta.section.object.html</scope>
+	<description>bgcolor="hsla"</description>
+</snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-role="banner"$0
+role="banner" $0
 ]]></content>
 	<tabTrigger>ariar</tabTrigger>
 	<scope>meta.section.object.slim</scope>

@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 <figcaption>
-    $0
+	$0
 </figcaption>
 ]]></content>
 	<tabTrigger>fig</tabTrigger>

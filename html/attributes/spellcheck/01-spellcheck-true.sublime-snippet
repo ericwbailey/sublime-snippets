@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+spellcheck="true" $0
+]]></content>
+	<tabTrigger>spe</tabTrigger>
+	<scope>meta.section.object.html</scope>
+	<description>spellcheck="true"</description>
+</snippet>

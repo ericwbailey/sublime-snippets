@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-aria-posinset="${1:Positive Integer}"$0
+aria-posinset="${1:Positive Integer}" $0
 ]]></content>
 	<tabTrigger>arias</tabTrigger>
 	<scope>meta.section.object.slim</scope>

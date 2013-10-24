@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+dir="rtl" $0
+]]></content>
+	<tabTrigger>dir</tabTrigger>
+	<scope>meta.section.object.html</scope>
+	<description>dir="rtl"</description>
+</snippet>

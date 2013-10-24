@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-role="link"$0
+role="link" $0
 ]]></content>
 	<tabTrigger>ariar</tabTrigger>
-	<scope>meta.section.object.slim</scope>
+	<scope>meta.section.object.html</scope>
 	<description>role="link" (Widget)</description>
 </snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+target="${1:framename}" $0
+]]></content>
+	<tabTrigger>tar</tabTrigger>
+	<scope>meta.section.object.html</scope>
+	<description>target="framename"</description>
+</snippet>

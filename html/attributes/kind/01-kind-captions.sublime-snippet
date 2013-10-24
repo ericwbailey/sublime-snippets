@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+kind="captions" $0
+]]></content>
+	<tabTrigger>kin</tabTrigger>
+	<scope>meta.section.object.html</scope>
+	<description>kind="captions"</description>
+</snippet>

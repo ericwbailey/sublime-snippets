@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-aria-sort="ascending"$0
+aria-sort="ascending" $0
 ]]></content>
 	<tabTrigger>arias</tabTrigger>
-	<scope>meta.section.object.slim</scope>
+	<scope>meta.section.object.html</scope>
 	<description>aria-sort="ascending" (Widget Attribute)</description>
 </snippet>

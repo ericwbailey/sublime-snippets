@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 <h6${1: id="$2" class="$2"}>
-    $0
+	$0
 </h6>
 ]]></content>
 	<tabTrigger>h6</tabTrigger>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+disabled $0
+]]></content>
+	<tabTrigger>dis</tabTrigger>
+	<scope>meta.section.object.html</scope>
+	<description>disabled</description>
+</snippet>

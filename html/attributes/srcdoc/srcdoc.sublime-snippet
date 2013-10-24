@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+srcdoc="${1:HTML Code}" $0
+]]></content>
+	<tabTrigger>src</tabTrigger>
+	<scope>meta.section.object.html</scope>
+	<description>srcdoc=""</description>
+</snippet>

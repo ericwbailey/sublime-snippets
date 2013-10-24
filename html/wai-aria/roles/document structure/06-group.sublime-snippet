@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-role="group"$0
+role="group" $0
 ]]></content>
 	<tabTrigger>ariar</tabTrigger>
-	<scope>meta.section.object.slim</scope>
+	<scope>meta.section.object.html</scope>
 	<description>role="group" (Document Structure)</description>
 </snippet>

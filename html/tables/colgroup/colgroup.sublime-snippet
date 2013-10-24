@@ -2,8 +2,8 @@
 	<content><![CDATA[
 <colgroup span="$1">
 	<col>
-        $0
-    </col>
+		$0
+	</col>
 </colgroup>
 ]]></content>
 	<tabTrigger>col</tabTrigger>

@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-role="img"$0
+role="img" $0
 ]]></content>
 	<tabTrigger>ariar</tabTrigger>
-	<scope>meta.section.object.slim</scope>
+	<scope>meta.section.object.html</scope>
 	<description>role="img" (Document Structure)</description>
 </snippet>

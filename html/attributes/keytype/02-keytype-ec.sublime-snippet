@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+keytype="ec" $0
+]]></content>
+	<tabTrigger>key</tabTrigger>
+	<scope>meta.section.object.html</scope>
+	<description>keytype="ec"</description>
+</snippet>

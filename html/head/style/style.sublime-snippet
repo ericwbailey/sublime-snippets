@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 <style type="${1:text/css}" media="${2:screen}">
-    $0
+	$0
 </style>
 ]]></content>
 	<tabTrigger>sty</tabTrigger>

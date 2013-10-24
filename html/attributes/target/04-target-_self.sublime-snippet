@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+target="_self" $0
+]]></content>
+	<tabTrigger>tar</tabTrigger>
+	<scope>meta.section.object.html</scope>
+	<description>target="_self"</description>
+</snippet>

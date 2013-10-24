@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+enctype="text/plain" $0
+]]></content>
+	<tabTrigger>enc</tabTrigger>
+	<scope>meta.section.object.html</scope>
+	<description>enctype="text/plain"</description>
+</snippet>

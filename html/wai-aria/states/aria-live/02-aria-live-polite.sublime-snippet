@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-aria-live="polite"$0
+aria-live="polite" $0
 ]]></content>
 	<tabTrigger>arias</tabTrigger>
-	<scope>meta.section.object.slim</scope>
+	<scope>meta.section.object.html</scope>
 	<description>aria-live="polite" (Global State, Live Region)</description>
 </snippet>

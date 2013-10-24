@@ -2,7 +2,7 @@
 	<content><![CDATA[
 <!-- start of #$1 -->
 <article id="$1" class="$1"> 
-    $0
+	$0
 </article>
 <!-- end of #$1 -->
 ]]></content>

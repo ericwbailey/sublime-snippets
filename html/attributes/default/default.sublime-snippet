@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+default $0
+]]></content>
+	<tabTrigger>def</tabTrigger>
+	<scope>meta.section.object.html</scope>
+	<description>default</description>
+</snippet>

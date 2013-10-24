@@ -5,6 +5,6 @@
 </head>
 ]]></content>
 	<tabTrigger>hea</tabTrigger>
-	<scope>text.slim</scope>
+	<scope>text.html</scope>
 	<description>head</description>
 </snippet>

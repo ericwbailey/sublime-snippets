@@ -5,6 +5,6 @@
 </title>
 ]]></content>
 	<tabTrigger>tit</tabTrigger>
-	<scope>text.slim</scope>
+	<scope>text.html</scope>
 	<description>title</description>
 </snippet>

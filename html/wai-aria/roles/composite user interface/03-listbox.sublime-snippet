@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+role="listbox"$0
+]]></content>
+	<tabTrigger>ariar</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>role="listbox" (Composite User Interface)</description>
+</snippet>

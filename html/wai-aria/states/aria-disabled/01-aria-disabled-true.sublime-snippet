@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+aria-disabled="true"$0
+]]></content>
+	<tabTrigger>arias</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>aria-disabled="true" (Global State, Widget Attribute)</description>
+</snippet>

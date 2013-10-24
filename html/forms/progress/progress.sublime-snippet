@@ -3,6 +3,6 @@
 <progress value="$1" max="$2">$0</progress>
 ]]></content>
 	<tabTrigger>pro</tabTrigger>
-	<scope>text.slim</scope>
+	<scope>text.html</scope>
 	<description>progress</description>
 </snippet>

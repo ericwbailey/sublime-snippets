@@ -5,6 +5,6 @@
 </menu>
 ]]></content>
 	<tabTrigger>men</tabTrigger>
-	<scope>text.slim</scope>
+	<scope>text.html</scope>
 	<description>menu type="list"</description>
 </snippet>

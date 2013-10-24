@@ -7,6 +7,6 @@
 </colgroup>
 ]]></content>
 	<tabTrigger>col</tabTrigger>
-	<scope>text.slim</scope>
+	<scope>text.html</scope>
 	<description>colgroup</description>
 </snippet>

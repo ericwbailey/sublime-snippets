@@ -3,6 +3,6 @@
 <dfn>$1</dfn>$0
 ]]></content>
 	<tabTrigger>dfn</tabTrigger>
-	<scope>text.slim</scope>
+	<scope>text.html</scope>
 	<description>dfn</description>
 </snippet>

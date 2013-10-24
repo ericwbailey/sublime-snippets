@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+aria-selected="true"$0
+]]></content>
+	<tabTrigger>arias</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>aria-selected="true" (Widget Attribute)</description>
+</snippet>

@@ -3,6 +3,6 @@
 <a rel="external" href="$1">$2</a>$0
 ]]></content>
 	<tabTrigger>a</tabTrigger>
-	<scope>text.slim</scope>
+	<scope>text.html</scope>
 	<description>a rel="external"</description>
 </snippet>

@@ -5,6 +5,6 @@
 </h6>
 ]]></content>
 	<tabTrigger>h6</tabTrigger>
-	<scope>text.slim</scope>
+	<scope>text.html</scope>
 	<description>h6</description>
 </snippet>

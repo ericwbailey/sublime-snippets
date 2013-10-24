@@ -3,6 +3,6 @@
 <ruby>$1</ruby>$0
 ]]></content>
 	<tabTrigger>rub</tabTrigger>
-	<scope>text.slim</scope>
+	<scope>text.html</scope>
 	<description>ruby</description>
 </snippet>

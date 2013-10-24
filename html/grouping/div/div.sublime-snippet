@@ -7,6 +7,6 @@
 <!-- end of #$1 -->
 ]]></content>
 	<tabTrigger>div</tabTrigger>
-	<scope>text.slim</scope>
+	<scope>text.html</scope>
 	<description>div</description>
 </snippet>

@@ -3,6 +3,6 @@
 <s>$1</s>$0
 ]]></content>
 	<tabTrigger>s</tabTrigger>
-	<scope>text.slim</scope>
+	<scope>text.html</scope>
 	<description>s</description>
 </snippet>

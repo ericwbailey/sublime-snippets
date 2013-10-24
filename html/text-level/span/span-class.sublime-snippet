@@ -3,6 +3,6 @@
 <span class="$1">$2</span>$0
 ]]></content>
 	<tabTrigger>spa</tabTrigger>
-	<scope>text.slim</scope>
+	<scope>text.html</scope>
 	<description>span class=""</description>
 </snippet>

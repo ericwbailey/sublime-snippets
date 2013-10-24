@@ -3,6 +3,6 @@
 <area shape="rect" coords="${1:x1},${2:y1},${3:x2},${4:y2}" href="$5" alt="$6" />$0
 ]]></content>
 	<tabTrigger>are</tabTrigger>
-	<scope>text.slim</scope>
+	<scope>text.html</scope>
 	<description>area shape="rect"</description>
 </snippet>

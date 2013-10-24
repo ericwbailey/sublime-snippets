@@ -5,6 +5,6 @@
 </summary>
 ]]></content>
 	<tabTrigger>sum</tabTrigger>
-	<scope>text.slim</scope>
+	<scope>text.html</scope>
 	<description>summary</description>
 </snippet>

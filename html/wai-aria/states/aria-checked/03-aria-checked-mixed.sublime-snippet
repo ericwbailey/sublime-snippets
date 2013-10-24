@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+aria-checked="mixed"$0
+]]></content>
+	<tabTrigger>arias</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>aria-checked="mixed" (Widget Attribute)</description>
+</snippet>

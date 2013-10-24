@@ -3,6 +3,6 @@
 <script type="text/javascript" src="js/$1"></script>$0
 ]]></content>
 	<tabTrigger>scr</tabTrigger>
-	<scope>text.slim</scope>
+	<scope>text.html</scope>
 	<description>script type="text/javascript"</description>
 </snippet>

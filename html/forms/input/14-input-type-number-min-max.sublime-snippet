@@ -3,6 +3,6 @@
 <input name="$1" type="number" value="$2" min="$3" max="$4" placeholder="$5">$0
 ]]></content>
 	<tabTrigger>inp</tabTrigger>
-	<scope>text.slim</scope>
+	<scope>text.html</scope>
 	<description>input type="number" min="" max=""</description>
 </snippet>

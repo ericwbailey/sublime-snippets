@@ -3,6 +3,6 @@
 <q>$1</q>$0
 ]]></content>
 	<tabTrigger>q</tabTrigger>
-	<scope>text.slim</scope>
+	<scope>text.html</scope>
 	<description>q</description>
 </snippet>

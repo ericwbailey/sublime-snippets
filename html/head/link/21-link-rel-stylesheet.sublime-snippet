@@ -3,6 +3,6 @@
 <link rel="stylesheet" href="${1:URL}">$0
 ]]></content>
 	<tabTrigger>lin</tabTrigger>
-	<scope>text.slim</scope>
+	<scope>text.html</scope>
 	<description>link rel="stylesheet"</description>
 </snippet>

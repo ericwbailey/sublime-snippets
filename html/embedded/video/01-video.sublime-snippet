@@ -8,6 +8,6 @@
 <!-- end of #$1 -->$0
 ]]></content>
 	<tabTrigger>vid</tabTrigger>
-	<scope>text.slim</scope>
+	<scope>text.html</scope>
 	<description>video</description>
 </snippet>

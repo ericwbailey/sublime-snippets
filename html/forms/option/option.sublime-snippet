@@ -3,6 +3,6 @@
 <option value="$1">$2$1$0</option>
 ]]></content>
 	<tabTrigger>opt</tabTrigger>
-	<scope>text.slim</scope>
+	<scope>text.html</scope>
 	<description>option</description>
 </snippet>

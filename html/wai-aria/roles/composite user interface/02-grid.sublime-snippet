@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+role="grid"$0
+]]></content>
+	<tabTrigger>ariar</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>role="grid" (Composite User Interface)</description>
+</snippet>

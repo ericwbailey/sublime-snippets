@@ -3,6 +3,6 @@
 <base href="${1:URL}">$0
 ]]></content>
 	<tabTrigger>bas</tabTrigger>
-	<scope>text.slim</scope>
+	<scope>text.html</scope>
 	<description>base</description>
 </snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+role="slider"$0
+]]></content>
+	<tabTrigger>ariar</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>role="slider" (Widget)</description>
+</snippet>

@@ -8,6 +8,6 @@
 </blockquote>
 ]]></content>
 	<tabTrigger>blo</tabTrigger>
-	<scope>text.slim</scope>
+	<scope>text.html</scope>
 	<description>blockquote</description>
 </snippet>

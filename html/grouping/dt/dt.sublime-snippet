@@ -5,6 +5,6 @@
 </dt>
 ]]></content>
 	<tabTrigger>dt</tabTrigger>
-	<scope>text.slim</scope>
+	<scope>text.html</scope>
 	<description>dt</description>
 </snippet>

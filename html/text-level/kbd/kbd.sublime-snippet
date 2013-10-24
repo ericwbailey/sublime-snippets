@@ -3,6 +3,6 @@
 <kbd>$1</kbd>$0
 ]]></content>
 	<tabTrigger>kbd</tabTrigger>
-	<scope>text.slim</scope>
+	<scope>text.html</scope>
 	<description>kbd</description>
 </snippet>

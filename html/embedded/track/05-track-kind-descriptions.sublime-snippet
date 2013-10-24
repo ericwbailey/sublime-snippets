@@ -3,6 +3,6 @@
 <track src="media/video/$1" label="${2:English}" srclang="${3:en}" kind="descriptions"${4: default="true"}>$0
 ]]></content>
 	<tabTrigger>tra</tabTrigger>
-	<scope>text.slim</scope>
+	<scope>text.html</scope>
 	<description>track kind="descriptions"</description>
 </snippet>

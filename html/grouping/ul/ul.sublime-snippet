@@ -7,6 +7,6 @@
 </ul>
 ]]></content>
 	<tabTrigger>ul</tabTrigger>
-	<scope>text.slim</scope>
+	<scope>text.html</scope>
 	<description>ul</description>
 </snippet>

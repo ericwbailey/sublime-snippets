@@ -3,6 +3,6 @@
 <keygen name="$1-keygen"${2: challenge="true"} keytype="${3:rsa/dsa/ec}">$0
 ]]></content>
 	<tabTrigger>key</tabTrigger>
-	<scope>text.slim</scope>
+	<scope>text.html</scope>
 	<description>keygen</description>
 </snippet>

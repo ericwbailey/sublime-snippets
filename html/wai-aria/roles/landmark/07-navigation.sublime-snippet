@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+role="navigation"$0
+]]></content>
+	<tabTrigger>ariar</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>role="navigation" (Landmark)</description>
+</snippet>

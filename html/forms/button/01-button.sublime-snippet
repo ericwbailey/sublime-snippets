@@ -3,6 +3,6 @@
 <button name="$1">$0</button>
 ]]></content>
 	<tabTrigger>but</tabTrigger>
-	<scope>text.slim</scope>
+	<scope>text.html</scope>
 	<description>button</description>
 </snippet>

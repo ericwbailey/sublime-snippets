@@ -3,6 +3,6 @@
 <abbr title="$1">$2</abbr>$0
 ]]></content>
 	<tabTrigger>abb</tabTrigger>
-	<scope>text.slim</scope>
+	<scope>text.html</scope>
 	<description>abbr</description>
 </snippet>

@@ -5,6 +5,6 @@
 </figcaption>
 ]]></content>
 	<tabTrigger>fig</tabTrigger>
-	<scope>text.slim</scope>
+	<scope>text.html</scope>
 	<description>figcaption</description>
 </snippet>

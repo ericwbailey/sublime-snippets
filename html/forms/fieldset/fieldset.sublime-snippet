@@ -5,6 +5,6 @@
 </fieldset>
 ]]></content>
 	<tabTrigger>fie</tabTrigger>
-	<scope>text.slim</scope>
+	<scope>text.html</scope>
 	<description>fieldset</description>
 </snippet>

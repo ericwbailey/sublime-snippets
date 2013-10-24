@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+role="radiogroup"$0
+]]></content>
+	<tabTrigger>ariar</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>role="radiogroup" (Composite User Interface)</description>
+</snippet>

@@ -9,6 +9,6 @@
 </thead>
 ]]></content>
 	<tabTrigger>the</tabTrigger>
-	<scope>text.slim</scope>
+	<scope>text.html</scope>
 	<description>thead</description>
 </snippet>

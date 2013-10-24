@@ -3,6 +3,6 @@
 <samp>$1</samp>$0
 ]]></content>
 	<tabTrigger>sam</tabTrigger>
-	<scope>text.slim</scope>
+	<scope>text.html</scope>
 	<description>samp</description>
 </snippet>

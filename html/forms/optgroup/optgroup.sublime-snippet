@@ -6,6 +6,6 @@
 </optgroup>
 ]]></content>
 	<tabTrigger>opt</tabTrigger>
-	<scope>text.slim</scope>
+	<scope>text.html</scope>
 	<description>optgroup</description>
 </snippet>

@@ -3,6 +3,6 @@
 <a rel="nofollow" href="view-source:$1" title="View $1's source">$2$1</a>$0
 ]]></content>
 	<tabTrigger>a</tabTrigger>
-	<scope>text.slim</scope>
+	<scope>text.html</scope>
 	<description>a href="view-source:"</description>
 </snippet>

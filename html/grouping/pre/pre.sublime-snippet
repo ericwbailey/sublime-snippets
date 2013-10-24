@@ -5,6 +5,6 @@
 </pre>
 ]]></content>
 	<tabTrigger>pre</tabTrigger>
-	<scope>text.slim</scope>
+	<scope>text.html</scope>
 	<description>pre</description>
 </snippet>

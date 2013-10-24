@@ -3,6 +3,6 @@
 <button name="$1" type="submit">$0</button>
 ]]></content>
 	<tabTrigger>but</tabTrigger>
-	<scope>text.slim</scope>
+	<scope>text.html</scope>
 	<description>button type="submit"</description>
 </snippet>

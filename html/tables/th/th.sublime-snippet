@@ -5,6 +5,6 @@
 </th>
 ]]></content>
 	<tabTrigger>th</tabTrigger>
-	<scope>text.slim</scope>
+	<scope>text.html</scope>
 	<description>th</description>
 </snippet>

@@ -3,6 +3,6 @@
 <cite>$1</cite>$0
 ]]></content>
 	<tabTrigger>cit</tabTrigger>
-	<scope>text.slim</scope>
+	<scope>text.html</scope>
 	<description>cite</description>
 </snippet>

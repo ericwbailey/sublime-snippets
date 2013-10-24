@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+aria-activedescendant="${1:ID Reference}"$0
+]]></content>
+	<tabTrigger>arias</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>aria-activedescendant="" (Relationship)</description>
+</snippet>

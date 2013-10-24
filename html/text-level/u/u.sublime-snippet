@@ -3,6 +3,6 @@
 <u>$1</u>$0
 ]]></content>
 	<tabTrigger>u</tabTrigger>
-	<scope>text.slim</scope>
+	<scope>text.html</scope>
 	<description>u</description>
 </snippet>

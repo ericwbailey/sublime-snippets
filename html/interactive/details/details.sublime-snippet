@@ -5,6 +5,6 @@
 </details>
 ]]></content>
 	<tabTrigger>det</tabTrigger>
-	<scope>text.slim</scope>
+	<scope>text.html</scope>
 	<description>details</description>
 </snippet>

@@ -9,6 +9,6 @@
 </tbody>
 ]]></content>
 	<tabTrigger>tbo</tabTrigger>
-	<scope>text.slim</scope>
+	<scope>text.html</scope>
 	<description>tbody</description>
 </snippet>

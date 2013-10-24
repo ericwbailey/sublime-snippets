@@ -3,6 +3,6 @@
 <command label="$1" type="checkbox">$0
 ]]></content>
 	<tabTrigger>com</tabTrigger>
-	<scope>text.slim</scope>
+	<scope>text.html</scope>
 	<description>command type="checkbox"</description>
 </snippet>

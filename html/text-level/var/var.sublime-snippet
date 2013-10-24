@@ -3,6 +3,6 @@
 <var>$1</var>$0
 ]]></content>
 	<tabTrigger>var</tabTrigger>
-	<scope>text.slim</scope>
+	<scope>text.html</scope>
 	<description>var</description>
 </snippet>

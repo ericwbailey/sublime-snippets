@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+role="status"$0
+]]></content>
+	<tabTrigger>ariar</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>role="status" (Widget)</description>
+</snippet>

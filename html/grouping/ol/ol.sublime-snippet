@@ -7,6 +7,6 @@
 </ol>
 ]]></content>
 	<tabTrigger>ol</tabTrigger>
-	<scope>text.slim</scope>
+	<scope>text.html</scope>
 	<description>ol</description>
 </snippet>

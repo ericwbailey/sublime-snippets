@@ -7,6 +7,6 @@
 <!-- end of #$1 -->
 ]]></content>
 	<tabTrigger>nav</tabTrigger>
-	<scope>text.slim</scope>
+	<scope>text.html</scope>
 	<description>nav</description>
 </snippet>

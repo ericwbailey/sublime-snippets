@@ -3,6 +3,6 @@
 <input name="$1" type="range"${2: value="${3:Default Step Value}"} min="$4" max="$5" placeholder="$6">$0
 ]]></content>
 	<tabTrigger>inp</tabTrigger>
-	<scope>text.slim</scope>
+	<scope>text.html</scope>
 	<description>input type="range"</description>
 </snippet>

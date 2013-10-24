@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+role="option"$0
+]]></content>
+	<tabTrigger>ariar</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>role="option" (Widget)</description>
+</snippet>

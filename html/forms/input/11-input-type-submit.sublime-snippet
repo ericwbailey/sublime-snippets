@@ -3,6 +3,6 @@
 <input name="$1" type="submit" value="Submit">$0
 ]]></content>
 	<tabTrigger>inp</tabTrigger>
-	<scope>text.slim</scope>
+	<scope>text.html</scope>
 	<description>input type="submit"</description>
 </snippet>

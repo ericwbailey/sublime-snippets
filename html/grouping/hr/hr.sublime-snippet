@@ -4,6 +4,6 @@
 $0
 ]]></content>
 	<tabTrigger>hr</tabTrigger>
-	<scope>text.slim</scope>
+	<scope>text.html</scope>
 	<description>hr</description>
 </snippet>

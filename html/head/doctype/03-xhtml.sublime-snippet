@@ -4,6 +4,6 @@
 $0
 ]]></content>
 	<tabTrigger>doc</tabTrigger>
-	<scope>text.slim</scope>
+	<scope>text.html</scope>
 	<description>XHTML</description>
 </snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<time>$1</time>$0
+]]></content>
+	<tabTrigger>tim</tabTrigger>
+	<scope>text.slim</scope>
+	<description>time</description>
+</snippet>

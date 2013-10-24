@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wbr>$1</wbr>$0
+]]></content>
+	<tabTrigger>wbr</tabTrigger>
+	<scope>text.slim</scope>
+	<description>wbr</description>
+</snippet>

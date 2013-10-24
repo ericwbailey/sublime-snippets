@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<time datetime="${1:HH}:${2:MM}">$3</time>$0
+]]></content>
+	<tabTrigger>tim</tabTrigger>
+	<scope>text.slim</scope>
+	<description>time datetime="HH:MM"</description>
+</snippet>

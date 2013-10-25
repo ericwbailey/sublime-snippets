@@ -3,7 +3,17 @@
 <!-- start of #$1 -->
 <video id="$1" class="$1" ${2:controls="true" }${3:autoplay="true" }${4:loop="true" }${5:muted="true" }${6:poster="img/$7"} preload="none">
 	<source type="video/$8" src="media/video/$9">$10
-	You are using an <strong>outdated browser</strong>. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.
+    <div class="notice-outdated">
+        <h3>
+            You are using an outdated browser
+        </h3>
+        <p>
+            Please <a rel="external" href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.
+        </p>
+        <p>
+            If you prefer, <a rel="download" "data-size"="$11" href="media/video/$12" title="Download $12, $11">a copy of this video file can be downloaded</a> for offline viewing.
+        </p>
+    </div>
 </video>
 <!-- end of #$1 -->$0
 ]]></content>

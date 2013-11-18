@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-role="tab" $0
+role="tab"$0
 ]]></content>
 	<tabTrigger>ariar</tabTrigger>
-	<scope>meta.section.object.html</scope>
+	<scope>meta.tag.block.any.html</scope>
 	<description>role="tab" (Widget)</description>
 </snippet>

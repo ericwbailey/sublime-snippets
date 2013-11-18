@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
 <dd>
-	$0
-</dd>
+	$1
+</dd>$0
 ]]></content>
 	<tabTrigger>dd</tabTrigger>
 	<scope>text.html</scope>

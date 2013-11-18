@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-method="post" $0
+method="post"$0
 ]]></content>
 	<tabTrigger>met</tabTrigger>
-	<scope>meta.section.object.html</scope>
+	<scope>meta.tag.block.any.html</scope>
 	<description>method="post"</description>
 </snippet>

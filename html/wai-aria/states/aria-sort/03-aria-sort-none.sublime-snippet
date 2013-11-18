@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-aria-sort="none" $0
+aria-sort="none"$0
 ]]></content>
 	<tabTrigger>arias</tabTrigger>
-	<scope>meta.section.object.html</scope>
+	<scope>meta.tag.block.any.html</scope>
 	<description>aria-sort="none" (Widget Attribute)</description>
 </snippet>

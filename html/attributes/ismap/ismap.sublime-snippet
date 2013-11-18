@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-ismap $0
+ismap$0
 ]]></content>
 	<tabTrigger>ism</tabTrigger>
-	<scope>meta.section.object.html</scope>
+	<scope>meta.tag.block.any.html</scope>
 	<description>ismap</description>
 </snippet>

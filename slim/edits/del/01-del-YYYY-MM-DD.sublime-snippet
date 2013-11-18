@@ -4,5 +4,5 @@ del[datetime="${1:YYYY}-${2:MM}-${3:DD}] $0
 ]]></content>
 	<tabTrigger>del</tabTrigger>
 	<scope>text.slim</scope>
-	<description>del</description>
+	<description>del="YYYY-MM-DD"</description>
 </snippet>

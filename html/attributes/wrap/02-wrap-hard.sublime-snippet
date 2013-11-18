@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-wrap="hard" $0
+wrap="hard"$0
 ]]></content>
 	<tabTrigger>wra</tabTrigger>
-	<scope>meta.section.object.html</scope>
+	<scope>meta.tag.block.any.html</scope>
 	<description>wrap="hard"</description>
 </snippet>

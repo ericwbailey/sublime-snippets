@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-selected $0
+selected$0
 ]]></content>
 	<tabTrigger>sel</tabTrigger>
-	<scope>meta.section.object.html</scope>
+	<scope>meta.tag.block.any.html</scope>
 	<description>selected</description>
 </snippet>

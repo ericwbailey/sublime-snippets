@@ -4,5 +4,5 @@ ins[datetime="${1:YYYY}-${2:MM}-${3:DD}T${4:HH}:${5:MM}-${6:HH}:${7:MM}"] $0
 ]]></content>
 	<tabTrigger>ins</tabTrigger>
 	<scope>text.slim</scope>
-	<description>ins</description>
+	<description>ins="YYYY-MM-DDThh:mm:ssTZD"</description>
 </snippet>

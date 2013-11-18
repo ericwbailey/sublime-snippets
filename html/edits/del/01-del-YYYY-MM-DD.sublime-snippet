@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>del</tabTrigger>
 	<scope>text.html</scope>
-	<description>del</description>
+	<description>del="YYYY-MM-DD"</description>
 </snippet>

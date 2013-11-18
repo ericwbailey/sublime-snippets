@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-autoplay $0
+autoplay$0
 ]]></content>
 	<tabTrigger>aut</tabTrigger>
-	<scope>meta.section.object.html</scope>
+	<scope>meta.tag.block.any.html</scope>
 	<description>autoplay</description>
 </snippet>

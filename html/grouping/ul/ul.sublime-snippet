@@ -2,8 +2,8 @@
 	<content><![CDATA[
 <ul>
 	<li>
-		$0
-	</li>
+		$1
+	</li>$0
 </ul>
 ]]></content>
 	<tabTrigger>ul</tabTrigger>

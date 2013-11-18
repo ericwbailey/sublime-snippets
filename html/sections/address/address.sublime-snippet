@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<!-- start of #$1
+<!-- start of #$1 -->
 <address id="$1" class="$1"> -->
 	$0
 </address>

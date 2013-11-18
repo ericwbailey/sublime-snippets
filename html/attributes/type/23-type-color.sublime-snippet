@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-type="color" $0
+type="color"$0
 ]]></content>
 	<tabTrigger>typ</tabTrigger>
-	<scope>meta.section.object.html</scope>
+	<scope>meta.tag.block.any.html</scope>
 	<description>type="color"</description>
 </snippet>

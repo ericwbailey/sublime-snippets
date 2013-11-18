@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-tabindex="$1" $0
+tabindex="$1"$0
 ]]></content>
 	<tabTrigger>tab</tabTrigger>
-	<scope>meta.section.object.html</scope>
+	<scope>meta.tag.block.any.html</scope>
 	<description>tabindex=""</description>
 </snippet>

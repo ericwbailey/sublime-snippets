@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-rowspan="$1" $0
+rowspan="$1"$0
 ]]></content>
 	<tabTrigger>row</tabTrigger>
-	<scope>meta.section.object.html</scope>
+	<scope>meta.tag.block.any.html</scope>
 	<description>rowspan=""</description>
 </snippet>

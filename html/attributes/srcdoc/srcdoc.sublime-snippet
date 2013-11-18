@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-srcdoc="${1:HTML Code}" $0
+srcdoc="${1:HTML Code}"$0
 ]]></content>
 	<tabTrigger>src</tabTrigger>
-	<scope>meta.section.object.html</scope>
+	<scope>meta.tag.block.any.html</scope>
 	<description>srcdoc=""</description>
 </snippet>

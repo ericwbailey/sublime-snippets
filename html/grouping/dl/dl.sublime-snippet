@@ -5,8 +5,8 @@
 		$1
 	</dt>
 	<dd>
-		$0
-	</dd>
+		$2
+	</dd>$0
 </dl>
 ]]></content>
 	<tabTrigger>dl</tabTrigger>

@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-role="form" $0
+role="form"$0
 ]]></content>
 	<tabTrigger>ariar</tabTrigger>
-	<scope>meta.section.object.html</scope>
+	<scope>meta.tag.block.any.html</scope>
 	<description>role="form" (Landmark)</description>
 </snippet>

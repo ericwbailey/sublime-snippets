@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-role="listitem" $0
+role="listitem"$0
 ]]></content>
 	<tabTrigger>ariar</tabTrigger>
-	<scope>meta.section.object.html</scope>
+	<scope>meta.tag.block.any.html</scope>
 	<description>role="listitem" (Document Structure)</description>
 </snippet>

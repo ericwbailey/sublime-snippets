@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-poster="$1" $0
+poster="$1"$0
 ]]></content>
 	<tabTrigger>pos</tabTrigger>
-	<scope>meta.section.object.html</scope>
+	<scope>meta.tag.block.any.html</scope>
 	<description>poster=""</description>
 </snippet>

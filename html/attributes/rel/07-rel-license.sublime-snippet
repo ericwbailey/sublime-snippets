@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-rel="license" $0
+rel="license"$0
 ]]></content>
 	<tabTrigger>rel</tabTrigger>
-	<scope>meta.section.object.html</scope>
+	<scope>meta.tag.block.any.html</scope>
 	<description>rel="license"</description>
 </snippet>

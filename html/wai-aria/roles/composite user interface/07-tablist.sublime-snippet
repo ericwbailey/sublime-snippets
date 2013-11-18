@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-role="tablist" $0
+role="tablist"$0
 ]]></content>
 	<tabTrigger>ariar</tabTrigger>
-	<scope>meta.section.object.html</scope>
+	<scope>meta.tag.block.any.html</scope>
 	<description>role="tablist" (Composite User Interface)</description>
 </snippet>

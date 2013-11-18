@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-buffered="$1" $0
+buffered="$1"$0
 ]]></content>
 	<tabTrigger>buf</tabTrigger>
-	<scope>meta.section.object.html</scope>
+	<scope>meta.tag.block.any.html</scope>
 	<description>buffered=""</description>
 </snippet>

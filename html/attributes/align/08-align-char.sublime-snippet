@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-align="char" $0
+align="char"$0
 ]]></content>
 	<tabTrigger>ali</tabTrigger>
-	<scope>meta.section.object.html</scope>
+	<scope>meta.tag.block.any.html</scope>
 	<description>align="char"</description>
 </snippet>

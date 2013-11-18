@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-list="${1:Parent Datalist's ID}" $0
+list="${1:Parent Datalist's ID}"$0
 ]]></content>
 	<tabTrigger>lis</tabTrigger>
-	<scope>meta.section.object.html</scope>
+	<scope>meta.tag.block.any.html</scope>
 	<description>list=""</description>
 </snippet>

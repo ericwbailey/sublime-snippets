@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-role="alert" $0
+role="alert"$0
 ]]></content>
 	<tabTrigger>ariar</tabTrigger>
-	<scope>meta.section.object.html</scope>
+	<scope>meta.tag.block.any.html</scope>
 	<description>role="alert" (Widget)</description>
 </snippet>

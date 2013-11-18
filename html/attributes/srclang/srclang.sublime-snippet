@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-srclang="${1:en}" $0
+srclang="${1:en}"$0
 ]]></content>
 	<tabTrigger>src</tabTrigger>
-	<scope>meta.section.object.html</scope>
+	<scope>meta.tag.block.any.html</scope>
 	<description>srclang=""</description>
 </snippet>

@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-default $0
+default$0
 ]]></content>
 	<tabTrigger>def</tabTrigger>
-	<scope>meta.section.object.html</scope>
+	<scope>meta.tag.block.any.html</scope>
 	<description>default</description>
 </snippet>

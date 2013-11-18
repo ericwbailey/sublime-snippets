@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-size="$1" $0
+size="$1"$0
 ]]></content>
 	<tabTrigger>siz</tabTrigger>
-	<scope>meta.section.object.html</scope>
+	<scope>meta.tag.block.any.html</scope>
 	<description>size=""</description>
 </snippet>

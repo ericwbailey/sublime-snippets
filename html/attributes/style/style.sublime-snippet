@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-style="$1" $0
+style="$1"$0
 ]]></content>
 	<tabTrigger>sty</tabTrigger>
-	<scope>meta.section.object.html</scope>
+	<scope>meta.tag.block.any.html</scope>
 	<description>style=""</description>
 </snippet>

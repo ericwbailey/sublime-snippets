@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-shape="rect" $0
+shape="rect"$0
 ]]></content>
 	<tabTrigger>sha</tabTrigger>
-	<scope>meta.section.object.html</scope>
+	<scope>meta.tag.block.any.html</scope>
 	<description>shape="rect"</description>
 </snippet>

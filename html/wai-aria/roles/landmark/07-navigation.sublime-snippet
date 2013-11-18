@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-role="navigation" $0
+role="navigation"$0
 ]]></content>
 	<tabTrigger>ariar</tabTrigger>
-	<scope>meta.section.object.html</scope>
+	<scope>meta.tag.block.any.html</scope>
 	<description>role="navigation" (Landmark)</description>
 </snippet>

@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-radiogroup="$1" $0
+radiogroup="$1"$0
 ]]></content>
 	<tabTrigger>rad</tabTrigger>
-	<scope>meta.section.object.html</scope>
+	<scope>meta.tag.block.any.html</scope>
 	<description>radiogroup=""</description>
 </snippet>

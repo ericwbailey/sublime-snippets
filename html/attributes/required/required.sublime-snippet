@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-required $0
+required$0
 ]]></content>
 	<tabTrigger>req</tabTrigger>
-	<scope>meta.section.object.html</scope>
+	<scope>meta.tag.block.any.html</scope>
 	<description>required</description>
 </snippet>

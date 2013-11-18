@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-type="date" $0
+type="date"$0
 ]]></content>
 	<tabTrigger>typ</tabTrigger>
-	<scope>meta.section.object.html</scope>
+	<scope>meta.tag.block.any.html</scope>
 	<description>type="date"</description>
 </snippet>

@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-manifest="${1:URL}" $0
+manifest="${1:URL}"$0
 ]]></content>
 	<tabTrigger>man</tabTrigger>
-	<scope>meta.section.object.html</scope>
+	<scope>meta.tag.block.any.html</scope>
 	<description>manifest=""</description>
 </snippet>

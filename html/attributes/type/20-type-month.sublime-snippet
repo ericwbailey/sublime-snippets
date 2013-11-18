@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-type="month" $0
+type="month"$0
 ]]></content>
 	<tabTrigger>typ</tabTrigger>
-	<scope>meta.section.object.html</scope>
+	<scope>meta.tag.block.any.html</scope>
 	<description>type="month"</description>
 </snippet>

@@ -4,5 +4,5 @@ img[src="img/$1" alt="$2" aria-describedby="$3-longdesc" height="$4" width="$5"]
 ]]></content>
 	<tabTrigger>img</tabTrigger>
 	<scope>text.slim</scope>
-	<description>img</description>
+	<description>img aria-describedby=""</description>
 </snippet>

@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-height="$1" $0
+height="$1"$0
 ]]></content>
 	<tabTrigger>hei</tabTrigger>
-	<scope>meta.section.object.html</scope>
+	<scope>meta.tag.block.any.html</scope>
 	<description>height=""</description>
 </snippet>

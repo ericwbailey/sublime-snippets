@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-scope="rowgroup" $0
+scope="rowgroup"$0
 ]]></content>
 	<tabTrigger>sco</tabTrigger>
-	<scope>meta.section.object.html</scope>
+	<scope>meta.tag.block.any.html</scope>
 	<description>scope="rowgroup"</description>
 </snippet>

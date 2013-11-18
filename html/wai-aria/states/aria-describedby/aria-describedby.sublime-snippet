@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-aria-describedby="${1:List of ID References}" $0
+aria-describedby="${1:List of ID References}"$0
 ]]></content>
 	<tabTrigger>arias</tabTrigger>
-	<scope>meta.section.object.html</scope>
+	<scope>meta.tag.block.any.html</scope>
 	<description>aria-describedby="" (Global State, Relationship)</description>
 </snippet>

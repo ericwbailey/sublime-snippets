@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 <!-- start of #$1 -->
-<video id="$1" class="$1" ${2:controls="true" }${3:autoplay="true" }${4:loop="true" }${5:muted="true" }${6:poster="img/$7"} preload="metadata">
+<video id="$1" class="$1" ${2:controls="true" }${3:autoplay="true" }${4:loop="true" }${5:muted="true" }${6:poster="img/$7" }preload="metadata">
 	<source type="video/$8" src="media/video/$9">$10
     <div class="notice-outdated">
         <h3>

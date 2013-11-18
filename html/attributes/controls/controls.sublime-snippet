@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-controls $0
+controls$0
 ]]></content>
 	<tabTrigger>con</tabTrigger>
-	<scope>meta.section.object.html</scope>
+	<scope>meta.tag.block.any.html</scope>
 	<description>controls</description>
 </snippet>

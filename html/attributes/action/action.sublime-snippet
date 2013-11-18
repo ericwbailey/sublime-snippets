@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-action="$1" $0
+action="$1"$0
 ]]></content>
 	<tabTrigger>act</tabTrigger>
-	<scope>meta.section.object.html</scope>
+	<scope>meta.tag.block.any.html</scope>
 	<description>action=""</description>
 </snippet>

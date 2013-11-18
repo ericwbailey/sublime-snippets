@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-border="${1:1}" $0
+border="${1:1}"$0
 ]]></content>
 	<tabTrigger>bor</tabTrigger>
-	<scope>meta.section.object.html</scope>
+	<scope>meta.tag.block.any.html</scope>
 	<description>border=""</description>
 </snippet>

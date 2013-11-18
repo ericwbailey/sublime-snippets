@@ -5,5 +5,5 @@ blockquote $1
 ]]></content>
 	<tabTrigger>blo</tabTrigger>
 	<scope>text.slim</scope>
-	<description>blockquote</description>
+	<description>blockquote cite</description>
 </snippet>

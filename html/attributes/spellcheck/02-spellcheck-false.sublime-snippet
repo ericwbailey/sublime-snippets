@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-spellcheck="false" $0
+spellcheck="false"$0
 ]]></content>
 	<tabTrigger>spe</tabTrigger>
-	<scope>meta.section.object.html</scope>
+	<scope>meta.tag.block.any.html</scope>
 	<description>spellcheck="false"</description>
 </snippet>

@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-download="$1" $0
+download="$1"$0
 ]]></content>
 	<tabTrigger>dow</tabTrigger>
-	<scope>meta.section.object.html</scope>
+	<scope>meta.tag.block.any.html</scope>
 	<description>download=""</description>
 </snippet>

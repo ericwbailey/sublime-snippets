@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-target="_blank" $0
+target="_blank"$0
 ]]></content>
 	<tabTrigger>tar</tabTrigger>
-	<scope>meta.section.object.html</scope>
+	<scope>meta.tag.block.any.html</scope>
 	<description>target="_blank"</description>
 </snippet>

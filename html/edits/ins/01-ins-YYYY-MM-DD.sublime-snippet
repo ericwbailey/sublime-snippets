@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>ins</tabTrigger>
 	<scope>text.html</scope>
-	<description>ins</description>
+	<description>ins="YYYY-MM-DD"</description>
 </snippet>

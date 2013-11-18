@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-keytype="rsa" $0
+keytype="rsa"$0
 ]]></content>
 	<tabTrigger>key</tabTrigger>
-	<scope>meta.section.object.html</scope>
+	<scope>meta.tag.block.any.html</scope>
 	<description>keytype="rsa"</description>
 </snippet>

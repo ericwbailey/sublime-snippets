@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-sizes="${1:H}x${2:W}" $0
+sizes="${1:H}x${2:W}"$0
 ]]></content>
 	<tabTrigger>siz</tabTrigger>
-	<scope>meta.section.object.html</scope>
+	<scope>meta.tag.block.any.html</scope>
 	<description>sizes="HxW"</description>
 </snippet>

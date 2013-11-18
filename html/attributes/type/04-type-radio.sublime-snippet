@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-type="radio" $0
+type="radio"$0
 ]]></content>
 	<tabTrigger>typ</tabTrigger>
-	<scope>meta.section.object.html</scope>
+	<scope>meta.tag.block.any.html</scope>
 	<description>type="radio"</description>
 </snippet>

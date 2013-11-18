@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
 <h6${1: id="$2" class="$2"}>
-	$0
-</h6>
+	$3
+</h6>$0
 ]]></content>
 	<tabTrigger>h6</tabTrigger>
 	<scope>text.html</scope>

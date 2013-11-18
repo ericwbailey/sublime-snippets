@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-data-$1="$2" $0
+data-$1="$2"$0
 ]]></content>
 	<tabTrigger>dat</tabTrigger>
-	<scope>meta.section.object.html</scope>
+	<scope>meta.tag.block.any.html</scope>
 	<description>data-=""</description>
 </snippet>

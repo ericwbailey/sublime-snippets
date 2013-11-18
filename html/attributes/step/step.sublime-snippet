@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-step="$1" $0
+step="$1"$0
 ]]></content>
 	<tabTrigger>ste</tabTrigger>
-	<scope>meta.section.object.html</scope>
+	<scope>meta.tag.block.any.html</scope>
 	<description>step=""</description>
 </snippet>

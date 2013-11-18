@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-accept="$1" $0
+accept="$1"$0
 ]]></content>
 	<tabTrigger>acc</tabTrigger>
-	<scope>meta.section.object.html</scope>
+	<scope>meta.tag.block.any.html</scope>
 	<description>accept=""</description>
 </snippet>

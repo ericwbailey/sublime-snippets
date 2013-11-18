@@ -2,7 +2,7 @@
 	<content><![CDATA[
 <optgroup label="$1">
 	<option value="$2">$3$2</option>
-	<option value="$4">$5$4$0</option>
+	<option value="$4">$5$4</option>$0
 </optgroup>
 ]]></content>
 	<tabTrigger>opt</tabTrigger>

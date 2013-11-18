@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-charset="ISO-8859-1" $0
+charset="ISO-8859-1"$0
 ]]></content>
 	<tabTrigger>cha</tabTrigger>
-	<scope>meta.section.object.html</scope>
+	<scope>meta.tag.block.any.html</scope>
 	<description>charset="ISO-8859-1"</description>
 </snippet>

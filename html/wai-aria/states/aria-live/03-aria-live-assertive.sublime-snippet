@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-aria-live="assertive" $0
+aria-live="assertive"$0
 ]]></content>
 	<tabTrigger>arias</tabTrigger>
-	<scope>meta.section.object.html</scope>
+	<scope>meta.tag.block.any.html</scope>
 	<description>aria-live="assertive" (Global State, Live Region)</description>
 </snippet>

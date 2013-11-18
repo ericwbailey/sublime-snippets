@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-charset="$1" $0
+charset="$1"$0
 ]]></content>
 	<tabTrigger>cha</tabTrigger>
-	<scope>meta.section.object.html</scope>
+	<scope>meta.tag.block.any.html</scope>
 	<description>charset=""</description>
 </snippet>

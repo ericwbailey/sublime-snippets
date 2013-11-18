@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-hreflang="${1:en}" $0
+hreflang="${1:en}"$0
 ]]></content>
 	<tabTrigger>hre</tabTrigger>
-	<scope>meta.section.object.html</scope>
+	<scope>meta.tag.block.any.html</scope>
 	<description>hreflang=""</description>
 </snippet>

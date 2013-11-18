@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-datetime="${1:YYYY}-${2:MM}-${3:DD}T${4:hh}:${5:mm}-${6:ss}${7:TZD}" $0
+datetime="${1:YYYY}-${2:MM}-${3:DD}T${4:hh}:${5:mm}-${6:ss}${7:TZD}"$0
 ]]></content>
 	<tabTrigger>dat</tabTrigger>
-	<scope>meta.section.object.html</scope>
+	<scope>meta.tag.block.any.html</scope>
 	<description>datetime="YYYY-MM-DDThh:mm:ssTZD"</description>
 </snippet>

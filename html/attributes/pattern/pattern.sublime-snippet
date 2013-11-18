@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-pattern="${1:http://html5pattern.com/}" $0
+pattern="${1:http://html5pattern.com/}"$0
 ]]></content>
 	<tabTrigger>pat</tabTrigger>
-	<scope>meta.section.object.html</scope>
+	<scope>meta.tag.block.any.html</scope>
 	<description>pattern=""</description>
 </snippet>

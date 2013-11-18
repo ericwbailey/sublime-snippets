@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-type="datetime-local" $0
+type="datetime-local"$0
 ]]></content>
 	<tabTrigger>typ</tabTrigger>
-	<scope>meta.section.object.html</scope>
+	<scope>meta.tag.block.any.html</scope>
 	<description>type="datetime-local"</description>
 </snippet>

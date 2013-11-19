@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+unicode-bidi: normal;$0
+]]></content>
+	<tabTrigger>uni</tabTrigger>
+	<scope>text.html</scope>
+	<description>unicode-bidi: normal</description>
+</snippet>

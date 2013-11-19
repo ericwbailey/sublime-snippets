@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+list-style-position: inside;$0
+]]></content>
+	<tabTrigger>lis</tabTrigger>
+	<scope>text.html</scope>
+	<description>list-style-position: inside</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+unicode-bidi: bidi-override;$0
+]]></content>
+	<tabTrigger>uni</tabTrigger>
+	<scope>text.html</scope>
+	<description>unicode-bidi: bidi-override</description>
+</snippet>

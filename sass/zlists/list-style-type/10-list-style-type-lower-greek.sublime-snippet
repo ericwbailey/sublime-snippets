@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+list-style-type: lower-greek;$0
+]]></content>
+	<tabTrigger>lis</tabTrigger>
+	<scope>text.html</scope>
+	<description>list-style-type: lower-greek (α)</description>
+</snippet>

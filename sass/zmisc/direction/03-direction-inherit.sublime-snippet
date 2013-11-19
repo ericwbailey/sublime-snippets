@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+direction: inherit;$0
+]]></content>
+	<tabTrigger>dir</tabTrigger>
+	<scope>text.html</scope>
+	<description>direction: inherit</description>
+</snippet>

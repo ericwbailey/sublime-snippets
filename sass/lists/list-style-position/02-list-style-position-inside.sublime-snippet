@@ -2,7 +2,7 @@
 	<content><![CDATA[
 list-style-position: inside;$0
 ]]></content>
-	<tabTrigger>lis</tabTrigger>
+	<tabTrigger>lisp</tabTrigger>
 	<scope>text.html</scope>
 	<description>list-style-position: inside</description>
 </snippet>

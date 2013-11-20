@@ -2,7 +2,7 @@
 	<content><![CDATA[
 border-collapse: separate;$0
 ]]></content>
-	<tabTrigger>bor</tabTrigger>
+	<tabTrigger>borc</tabTrigger>
 	<scope>text.html</scope>
 	<description>border-collapse: separate</description>
 </snippet>

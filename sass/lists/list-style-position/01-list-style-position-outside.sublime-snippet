@@ -2,7 +2,7 @@
 	<content><![CDATA[
 list-style-position: outside;$0
 ]]></content>
-	<tabTrigger>lis</tabTrigger>
+	<tabTrigger>lisp</tabTrigger>
 	<scope>text.html</scope>
 	<description>list-style-position: outside</description>
 </snippet>

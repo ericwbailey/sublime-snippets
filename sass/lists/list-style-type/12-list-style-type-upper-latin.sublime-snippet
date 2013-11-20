@@ -2,7 +2,7 @@
 	<content><![CDATA[
 list-style-type: upper-latin;$0
 ]]></content>
-	<tabTrigger>lis</tabTrigger>
+	<tabTrigger>list</tabTrigger>
 	<scope>text.html</scope>
 	<description>list-style-type: upper-latin (A)</description>
 </snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+orphans: $1;$0
+]]></content>
+	<tabTrigger>orp</tabTrigger>
+	<scope>text.html</scope>
+	<description>orphans</description>
+</snippet>

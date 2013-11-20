@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+page-break-inside: avoid;$0
+]]></content>
+	<tabTrigger>pag</tabTrigger>
+	<scope>text.html</scope>
+	<description>page-break-inside: avoid</description>
+</snippet>

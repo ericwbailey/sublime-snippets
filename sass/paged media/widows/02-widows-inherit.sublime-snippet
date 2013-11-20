@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+widows: inherit;$0
+]]></content>
+	<tabTrigger>wid</tabTrigger>
+	<scope>text.html</scope>
+	<description>widows: inherit</description>
+</snippet>

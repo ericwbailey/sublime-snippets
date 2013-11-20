@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+page-break-before: left;$0
+]]></content>
+	<tabTrigger>pag</tabTrigger>
+	<scope>text.html</scope>
+	<description>page-break-before: left</description>
+</snippet>

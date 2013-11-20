@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+page-break-after: auto;$0
+]]></content>
+	<tabTrigger>pag</tabTrigger>
+	<scope>text.html</scope>
+	<description>page-break-after: auto</description>
+</snippet>

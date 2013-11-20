@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+page-break-inside: inherit;$0
+]]></content>
+	<tabTrigger>pag</tabTrigger>
+	<scope>text.html</scope>
+	<description>page-break-inside: inherit</description>
+</snippet>

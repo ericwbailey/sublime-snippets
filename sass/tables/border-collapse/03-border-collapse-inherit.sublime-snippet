@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+border-collapse: inherit;$0
+]]></content>
+	<tabTrigger>bor</tabTrigger>
+	<scope>text.html</scope>
+	<description>border-collapse: inherit</description>
+</snippet>

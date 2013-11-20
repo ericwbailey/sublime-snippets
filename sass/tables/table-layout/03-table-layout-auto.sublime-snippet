@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+table-layout: auto;$0
+]]></content>
+	<tabTrigger>tab</tabTrigger>
+	<scope>text.html</scope>
+	<description>table-layout: auto</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+empty-cells: hide;$0
+]]></content>
+	<tabTrigger>emp</tabTrigger>
+	<scope>text.html</scope>
+	<description>empty-cells: hide</description>
+</snippet>

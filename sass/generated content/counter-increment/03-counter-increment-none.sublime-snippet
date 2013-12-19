@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+counter-increment: none;$0
+]]></content>
+	<tabTrigger>cont</tabTrigger>
+	<scope>text.html</scope>
+	<description>counter-increment: none</description>
+</snippet>

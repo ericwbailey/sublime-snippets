@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+content: url('$1');$0
+]]></content>
+	<tabTrigger>cont</tabTrigger>
+	<scope>text.html</scope>
+	<description>content: url</description>
+</snippet>

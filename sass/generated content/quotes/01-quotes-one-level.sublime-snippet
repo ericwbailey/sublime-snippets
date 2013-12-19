@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+quotes: '${1:opening quote}' '${2:closing quote}';$0
+]]></content>
+	<tabTrigger>cont</tabTrigger>
+	<scope>text.html</scope>
+	<description>quotes: one level</description>
+</snippet>

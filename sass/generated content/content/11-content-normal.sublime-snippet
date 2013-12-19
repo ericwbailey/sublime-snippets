@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+content: normal;$0
+]]></content>
+	<tabTrigger>cont</tabTrigger>
+	<scope>text.html</scope>
+	<description>content: normal</description>
+</snippet>

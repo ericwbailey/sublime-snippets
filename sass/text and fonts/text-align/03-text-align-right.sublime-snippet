@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+text-align: right;$0
+]]></content>
+	<tabTrigger>texa</tabTrigger>
+	<scope>text.html</scope>
+	<description>text-align: right</description>
+</snippet>

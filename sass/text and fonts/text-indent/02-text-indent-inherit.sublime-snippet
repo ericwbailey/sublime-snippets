@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+text-indent: inherit;$0
+]]></content>
+	<tabTrigger>texi</tabTrigger>
+	<scope>text.html</scope>
+	<description>text-indent: inherit</description>
+</snippet>

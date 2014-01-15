@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+visibility: visible;
+]]></content>
+	<tabTrigger>visi</tabTrigger>
+	<scope>text.html</scope>
+	<description>visibility: visible</description>
+</snippet>

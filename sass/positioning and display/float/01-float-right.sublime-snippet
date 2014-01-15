@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+float: right;
+]]></content>
+	<tabTrigger>floa</tabTrigger>
+	<scope>text.html</scope>
+	<description>float: right</description>
+</snippet>

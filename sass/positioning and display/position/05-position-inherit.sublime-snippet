@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+position: inherit;$0
+]]></content>
+	<tabTrigger>posi</tabTrigger>
+	<scope>text.html</scope>
+	<description>position: inherit</description>
+</snippet>

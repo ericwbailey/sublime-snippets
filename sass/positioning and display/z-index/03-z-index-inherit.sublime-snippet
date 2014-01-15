@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+z-index: inherit;
+]]></content>
+	<tabTrigger>zind</tabTrigger>
+	<scope>text.html</scope>
+	<description>z-index: inherit</description>
+</snippet>

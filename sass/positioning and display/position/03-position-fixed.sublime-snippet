@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+position: fixed;
+  top: $1;
+  left: $2;$0
+]]></content>
+	<tabTrigger>posi</tabTrigger>
+	<scope>text.html</scope>
+	<description>position: fixed</description>
+</snippet>

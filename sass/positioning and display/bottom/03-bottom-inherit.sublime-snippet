@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+bottom: inherit;$0
+]]></content>
+	<tabTrigger>bott</tabTrigger>
+	<scope>text.html</scope>
+	<description>bottom: inherit</description>
+</snippet>

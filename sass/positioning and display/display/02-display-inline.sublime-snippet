@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+display: inline;$0
+]]></content>
+	<tabTrigger>disp</tabTrigger>
+	<scope>text.html</scope>
+	<description>display: inline</description>
+</snippet>

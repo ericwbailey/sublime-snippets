@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+clear: both;
+]]></content>
+	<tabTrigger>clea</tabTrigger>
+	<scope>text.html</scope>
+	<description>clear: both</description>
+</snippet>

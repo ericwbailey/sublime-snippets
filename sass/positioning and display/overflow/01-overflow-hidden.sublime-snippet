@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+overflow: hidden;$0
+]]></content>
+	<tabTrigger>over</tabTrigger>
+	<scope>text.html</scope>
+	<description>overflow: hidden</description>
+</snippet>

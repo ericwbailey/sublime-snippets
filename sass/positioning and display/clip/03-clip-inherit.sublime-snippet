@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+clip: inherit;$0
+]]></content>
+	<tabTrigger>clip</tabTrigger>
+	<scope>text.html</scope>
+	<description>clip: inherit</description>
+</snippet>

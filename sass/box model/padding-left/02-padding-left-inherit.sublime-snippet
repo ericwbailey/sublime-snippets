@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+padding-left: inherit;$0
+]]></content>
+	<tabTrigger>padl</tabTrigger>
+	<scope>text.html</scope>
+	<description>padding-left: inherit</description>
+</snippet>

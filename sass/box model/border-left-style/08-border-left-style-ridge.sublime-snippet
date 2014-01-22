@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+border-left-style: ridge;$0
+]]></content>
+	<tabTrigger>borls</tabTrigger>
+	<scope>text.html</scope>
+	<description>border-left-style: ridge</description>
+</snippet>

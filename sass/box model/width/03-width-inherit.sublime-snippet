@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+width: inherit;$0
+]]></content>
+	<tabTrigger>widt</tabTrigger>
+	<scope>text.html</scope>
+	<description>width: inherit</description>
+</snippet>

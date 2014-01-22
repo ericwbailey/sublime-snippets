@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+outline-style: double;$0
+]]></content>
+	<tabTrigger>outs</tabTrigger>
+	<scope>text.html</scope>
+	<description>outline-style: double</description>
+</snippet>

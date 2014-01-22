@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+border-right-style: inset;$0
+]]></content>
+	<tabTrigger>borrs</tabTrigger>
+	<scope>text.html</scope>
+	<description>border-right-style: inset</description>
+</snippet>

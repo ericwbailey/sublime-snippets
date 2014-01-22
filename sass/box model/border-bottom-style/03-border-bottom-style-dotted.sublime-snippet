@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+border-bottom-style: dotted;$0
+]]></content>
+	<tabTrigger>borbs</tabTrigger>
+	<scope>text.html</scope>
+	<description>border-bottom-style: dotted</description>
+</snippet>

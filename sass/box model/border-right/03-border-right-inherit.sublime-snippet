@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+border-right: inherit;$0
+]]></content>
+	<tabTrigger>borr</tabTrigger>
+	<scope>text.html</scope>
+	<description>border-right: inherit</description>
+</snippet>

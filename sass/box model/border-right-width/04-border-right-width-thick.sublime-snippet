@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+border-right-width: thick;$0
+]]></content>
+	<tabTrigger>borrw</tabTrigger>
+	<scope>text.html</scope>
+	<description>border-right-width: thick</description>
+</snippet>

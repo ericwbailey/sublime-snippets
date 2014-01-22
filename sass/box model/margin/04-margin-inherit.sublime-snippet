@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+margin: inherit;$0
+]]></content>
+	<tabTrigger>marg</tabTrigger>
+	<scope>text.html</scope>
+	<description>margin: inherit</description>
+</snippet>

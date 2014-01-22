@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+border-right: ${1:width} ${2:style} ${3:color};$0
+]]></content>
+	<tabTrigger>borr</tabTrigger>
+	<scope>text.html</scope>
+	<description>border-right: shorthand</description>
+</snippet>

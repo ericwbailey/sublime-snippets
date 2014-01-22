@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+border-left-style: inherit;$0
+]]></content>
+	<tabTrigger>borls</tabTrigger>
+	<scope>text.html</scope>
+	<description>border-left-style: inherit</description>
+</snippet>

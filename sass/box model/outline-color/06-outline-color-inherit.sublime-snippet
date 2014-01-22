@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+outline-color: inherit;$0
+]]></content>
+	<tabTrigger>outc</tabTrigger>
+	<scope>text.html</scope>
+	<description>outline-color: inherit</description>
+</snippet>

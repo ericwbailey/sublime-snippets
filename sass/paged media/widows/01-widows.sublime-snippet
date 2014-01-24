@@ -2,7 +2,7 @@
 	<content><![CDATA[
 widows: $1;$0
 ]]></content>
-	<tabTrigger>wid</tabTrigger>
+	<tabTrigger>wido</tabTrigger>
 	<scope>text.html</scope>
 	<description>widows</description>
 </snippet>

@@ -2,7 +2,7 @@
 	<content><![CDATA[
 background-image: url('../img/$1');$0
 ]]></content>
-	<tabTrigger>back</tabTrigger>
+	<tabTrigger>backi</tabTrigger>
 	<scope>text.html</scope>
 	<description>background-image: url</description>
 </snippet>

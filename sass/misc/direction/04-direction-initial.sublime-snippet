@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+direction: initial;$0
+]]></content>
+	<tabTrigger>dire</tabTrigger>
+	<scope>text.html</scope>
+	<description>direction: initial</description>
+</snippet>

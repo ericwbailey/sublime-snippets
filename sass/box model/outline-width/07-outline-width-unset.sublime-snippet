@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+outline-width: unset;$0
+]]></content>
+	<tabTrigger>outw</tabTrigger>
+	<scope>text.html</scope>
+	<description>outline-width: unset</description>
+</snippet>

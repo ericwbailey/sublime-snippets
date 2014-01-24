@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+background-repeat: initial;$0
+]]></content>
+	<tabTrigger>backr</tabTrigger>
+	<scope>text.html</scope>
+	<description>background-repeat: initial</description>
+</snippet>

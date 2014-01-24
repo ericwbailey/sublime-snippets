@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+border-width: unset;$0
+]]></content>
+	<tabTrigger>borw</tabTrigger>
+	<scope>text.html</scope>
+	<description>border-width: unset</description>
+</snippet>

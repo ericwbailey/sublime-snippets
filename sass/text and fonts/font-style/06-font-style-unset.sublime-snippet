@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+font-style: unset;$0
+]]></content>
+	<tabTrigger>fons</tabTrigger>
+	<scope>text.html</scope>
+	<description>font-style: unset</description>
+</snippet>

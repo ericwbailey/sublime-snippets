@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+color: initial;$0
+]]></content>
+	<tabTrigger>colo</tabTrigger>
+	<scope>text.html</scope>
+	<description>color: initial</description>
+</snippet>

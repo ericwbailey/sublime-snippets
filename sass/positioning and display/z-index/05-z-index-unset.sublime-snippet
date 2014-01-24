@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+z-index: unset;$0
+]]></content>
+	<tabTrigger>zind</tabTrigger>
+	<scope>text.html</scope>
+	<description>z-index: unset</description>
+</snippet>

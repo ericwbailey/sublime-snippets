@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+border-style: unset;$0
+]]></content>
+	<tabTrigger>bors</tabTrigger>
+	<scope>text.html</scope>
+	<description>border-style: unset</description>
+</snippet>

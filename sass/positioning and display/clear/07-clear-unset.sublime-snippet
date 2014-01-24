@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+clear: unset;$0
+]]></content>
+	<tabTrigger>clea</tabTrigger>
+	<scope>text.html</scope>
+	<description>clear: unset</description>
+</snippet>

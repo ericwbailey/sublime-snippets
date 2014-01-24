@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+border-color: initial;$0
+]]></content>
+	<tabTrigger>borc</tabTrigger>
+	<scope>text.html</scope>
+	<description>border-color: initial</description>
+</snippet>

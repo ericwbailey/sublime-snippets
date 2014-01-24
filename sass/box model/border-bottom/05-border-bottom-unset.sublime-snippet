@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+border-bottom: unset;$0
+]]></content>
+	<tabTrigger>borb</tabTrigger>
+	<scope>text.html</scope>
+	<description>border-bottom: unset</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+outline-color: unset;$0
+]]></content>
+	<tabTrigger>outc</tabTrigger>
+	<scope>text.html</scope>
+	<description>outline-color: unset</description>
+</snippet>

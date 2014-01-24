@@ -2,7 +2,7 @@
 	<content><![CDATA[
 padding-right: inherit;$0
 ]]></content>
-	<tabTrigger>padl</tabTrigger>
+	<tabTrigger>padr</tabTrigger>
 	<scope>text.html</scope>
 	<description>padding-right: inherit</description>
 </snippet>

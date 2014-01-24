@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+float: initial;$0
+]]></content>
+	<tabTrigger>floa</tabTrigger>
+	<scope>text.html</scope>
+	<description>float: initial</description>
+</snippet>

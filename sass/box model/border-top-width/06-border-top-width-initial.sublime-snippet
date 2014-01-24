@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+border-top-width: initial;$0
+]]></content>
+	<tabTrigger>bortw</tabTrigger>
+	<scope>text.html</scope>
+	<description>border-top-width: initial</description>
+</snippet>

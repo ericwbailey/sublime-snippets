@@ -2,7 +2,7 @@
 	<content><![CDATA[
 table-layout: auto;$0
 ]]></content>
-	<tabTrigger>tab</tabTrigger>
+	<tabTrigger>tabl</tabTrigger>
 	<scope>text.html</scope>
 	<description>table-layout: auto</description>
 </snippet>

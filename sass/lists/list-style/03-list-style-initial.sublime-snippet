@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+list-style: initial;$0
+]]></content>
+	<tabTrigger>liss</tabTrigger>
+	<scope>text.html</scope>
+	<description>list-style: initial</description>
+</snippet>

@@ -2,7 +2,7 @@
 	<content><![CDATA[
 background-color: transparent;$0
 ]]></content>
-	<tabTrigger>back</tabTrigger>
+	<tabTrigger>backc</tabTrigger>
 	<scope>text.html</scope>
 	<description>background-color: transparent</description>
 </snippet>

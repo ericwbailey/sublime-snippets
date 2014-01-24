@@ -2,7 +2,7 @@
 	<content><![CDATA[
 counter-reset: ${1:id} ${2:number};$0
 ]]></content>
-	<tabTrigger>cont</tabTrigger>
+	<tabTrigger>cour</tabTrigger>
 	<scope>text.html</scope>
 	<description>counter-reset: id number</description>
 </snippet>

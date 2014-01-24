@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+list-style-position: unset;$0
+]]></content>
+	<tabTrigger>lissp</tabTrigger>
+	<scope>text.html</scope>
+	<description>list-style-position: unset</description>
+</snippet>

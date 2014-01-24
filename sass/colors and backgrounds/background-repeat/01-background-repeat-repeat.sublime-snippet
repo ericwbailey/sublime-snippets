@@ -2,7 +2,7 @@
 	<content><![CDATA[
 background-repeat: repeat;$0
 ]]></content>
-	<tabTrigger>back</tabTrigger>
+	<tabTrigger>backr</tabTrigger>
 	<scope>text.html</scope>
 	<description>background-repeat: repeat</description>
 </snippet>

@@ -2,7 +2,7 @@
 	<content><![CDATA[
 list-style: inherit;$0
 ]]></content>
-	<tabTrigger>lis</tabTrigger>
+	<tabTrigger>liss</tabTrigger>
 	<scope>text.html</scope>
 	<description>list-style: inherit</description>
 </snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+text-decoration: initial;$0
+]]></content>
+	<tabTrigger>texd</tabTrigger>
+	<scope>text.html</scope>
+	<description>text-decoration: initial</description>
+</snippet>

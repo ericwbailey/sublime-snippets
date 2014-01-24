@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+all: inherit;$0
+]]></content>
+	<tabTrigger>all</tabTrigger>
+	<scope>text.html</scope>
+	<description>all: inherit</description>
+</snippet>

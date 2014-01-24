@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+list-style-image: unset;$0
+]]></content>
+	<tabTrigger>lissi</tabTrigger>
+	<scope>text.html</scope>
+	<description>list-style-image: unset</description>
+</snippet>

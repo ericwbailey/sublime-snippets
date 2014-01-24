@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+unicode-bidi: unset;$0
+]]></content>
+	<tabTrigger>unic</tabTrigger>
+	<scope>text.html</scope>
+	<description>unicode-bidi: unset</description>
+</snippet>

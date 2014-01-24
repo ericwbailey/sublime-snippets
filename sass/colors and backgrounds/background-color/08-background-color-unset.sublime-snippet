@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+background-color: unset;$0
+]]></content>
+	<tabTrigger>backc</tabTrigger>
+	<scope>text.html</scope>
+	<description>background-color: unset</description>
+</snippet>

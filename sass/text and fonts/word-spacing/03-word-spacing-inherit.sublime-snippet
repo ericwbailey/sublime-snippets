@@ -2,7 +2,7 @@
 	<content><![CDATA[
 word-spacing: inherit;$0
 ]]></content>
-	<tabTrigger>lets</tabTrigger>
+	<tabTrigger>wors</tabTrigger>
 	<scope>text.html</scope>
 	<description>word-spacing: inherit</description>
 </snippet>

@@ -2,7 +2,7 @@
 	<content><![CDATA[
 table-layout: fixed;$0
 ]]></content>
-	<tabTrigger>tab</tabTrigger>
+	<tabTrigger>tabl</tabTrigger>
 	<scope>text.html</scope>
 	<description>table-layout: fixed</description>
 </snippet>

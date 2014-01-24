@@ -2,7 +2,7 @@
 	<content><![CDATA[
 background-position: ${1:0-100}% ${2:0-100}%;$0
 ]]></content>
-	<tabTrigger>back</tabTrigger>
+	<tabTrigger>backp</tabTrigger>
 	<scope>text.html</scope>
 	<description>background-position: percentage</description>
 </snippet>

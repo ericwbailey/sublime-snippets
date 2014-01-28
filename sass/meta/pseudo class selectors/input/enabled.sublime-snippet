@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+:enabled$0
+]]></content>
+	<tabTrigger>:</tabTrigger>
+	<scope>text.html</scope>
+	<description>:enabled</description>
+</snippet>

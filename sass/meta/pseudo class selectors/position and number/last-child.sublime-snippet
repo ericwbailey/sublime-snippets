@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+:last-child$0
+]]></content>
+	<tabTrigger>:</tabTrigger>
+	<scope>text.html</scope>
+	<description>:last-child</description>
+</snippet>

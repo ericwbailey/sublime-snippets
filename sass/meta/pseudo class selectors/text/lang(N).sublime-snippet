@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+:lang(${1:en-us})$0
+]]></content>
+	<tabTrigger>:</tabTrigger>
+	<scope>text.html</scope>
+	<description>:lang</description>
+</snippet>

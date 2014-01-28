@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+:visited$0
+]]></content>
+	<tabTrigger>:</tabTrigger>
+	<scope>text.html</scope>
+	<description>:visited</description>
+</snippet>

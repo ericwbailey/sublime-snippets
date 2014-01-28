@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+:selection$0
+]]></content>
+	<tabTrigger>:</tabTrigger>
+	<scope>text.html</scope>
+	<description>:selection</description>
+</snippet>

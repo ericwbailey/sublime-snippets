@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+:active$0
+]]></content>
+	<tabTrigger>:</tabTrigger>
+	<scope>text.html</scope>
+	<description>:active</description>
+</snippet>

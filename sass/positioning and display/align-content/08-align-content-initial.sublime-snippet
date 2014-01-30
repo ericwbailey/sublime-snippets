@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+align-content: initial;
+]]></content>
+	<tabTrigger>alic</tabTrigger>
+	<scope>text.html</scope>
+	<description>align-content: initial</description>
+</snippet>

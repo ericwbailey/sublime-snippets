@@ -2,7 +2,7 @@
 	<content><![CDATA[
 background-position: ${1:left/right/center} ${2:left/right/center};$0
 ]]></content>
-	<tabTrigger>backp</tabTrigger>
+	<tabTrigger>bacp</tabTrigger>
 	<scope>text.html</scope>
 	<description>background-position: dexis</description>
 </snippet>

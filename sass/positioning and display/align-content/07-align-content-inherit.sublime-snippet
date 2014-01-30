@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+align-content: inherit;
+]]></content>
+	<tabTrigger>alic</tabTrigger>
+	<scope>text.html</scope>
+	<description>align-content: inherit</description>
+</snippet>

@@ -2,7 +2,7 @@
 	<content><![CDATA[
 background-position: inherit;$0
 ]]></content>
-	<tabTrigger>backp</tabTrigger>
+	<tabTrigger>bacp</tabTrigger>
 	<scope>text.html</scope>
 	<description>background-position: inherit</description>
 </snippet>

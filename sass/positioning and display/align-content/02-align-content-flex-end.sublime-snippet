@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+align-content: flex-end;
+]]></content>
+	<tabTrigger>alic</tabTrigger>
+	<scope>text.html</scope>
+	<description>align-content: flex-end</description>
+</snippet>

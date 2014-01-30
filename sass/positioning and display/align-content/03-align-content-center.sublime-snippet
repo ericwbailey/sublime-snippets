@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+align-content: center;
+]]></content>
+	<tabTrigger>alic</tabTrigger>
+	<scope>text.html</scope>
+	<description>align-content: center</description>
+</snippet>

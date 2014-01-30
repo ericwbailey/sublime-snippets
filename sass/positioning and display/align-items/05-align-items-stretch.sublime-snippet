@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+align-items: stretch;
+]]></content>
+	<tabTrigger>alii</tabTrigger>
+	<scope>text.html</scope>
+	<description>align-items: stretch</description>
+</snippet>

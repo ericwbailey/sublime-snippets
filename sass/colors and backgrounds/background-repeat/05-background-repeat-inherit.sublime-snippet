@@ -2,7 +2,7 @@
 	<content><![CDATA[
 background-repeat: inherit;$0
 ]]></content>
-	<tabTrigger>backr</tabTrigger>
+	<tabTrigger>bacr</tabTrigger>
 	<scope>text.html</scope>
 	<description>background-repeat: inherit</description>
 </snippet>

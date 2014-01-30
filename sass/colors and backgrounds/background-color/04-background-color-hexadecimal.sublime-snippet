@@ -2,7 +2,7 @@
 	<content><![CDATA[
 background-color: #$1;$0
 ]]></content>
-	<tabTrigger>backc</tabTrigger>
+	<tabTrigger>bacc</tabTrigger>
 	<scope>text.html</scope>
 	<description>background-color: hexadecimal</description>
 </snippet>

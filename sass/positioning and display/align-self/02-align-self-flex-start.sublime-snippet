@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+align-self: flex-start;
+]]></content>
+	<tabTrigger>alis</tabTrigger>
+	<scope>text.html</scope>
+	<description>align-self: flex-start</description>
+</snippet>

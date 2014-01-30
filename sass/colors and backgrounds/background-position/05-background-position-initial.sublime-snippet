@@ -2,7 +2,7 @@
 	<content><![CDATA[
 background-position: initial;$0
 ]]></content>
-	<tabTrigger>backp</tabTrigger>
+	<tabTrigger>bacp</tabTrigger>
 	<scope>text.html</scope>
 	<description>background-position: initial</description>
 </snippet>

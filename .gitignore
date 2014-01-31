@@ -1,0 +1,52 @@
+## Project-specific files and folders #########################################
+/Icon.png
+
+
+## Generic files to ignore ####################################################
+*~
+*.DS_Store
+._*
+*.lock
+*.out
+*.swp
+ehthumbs.db
+Icon?
+Thumbs.db
+
+
+## Project Files ##############################################################
+*.project
+*.settings
+*.tmproj
+*.sublime-project
+*.sublime-workspace
+*.esproj
+*.expressostorage
+_notes
+dwsync.xml
+
+
+## Compiled source ############################################################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+
+## Logs and databases #########################################################
+*.log
+*.sql
+*.sqlite
+
+
+## Packages (better to unpack these files and commit the raw source) ##########
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip

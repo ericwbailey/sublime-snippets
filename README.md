@@ -1,23 +1,25 @@
 sublime-snippets
 ================
 
-A comprehensive snippet library for [Sublime Text](http://www.sublimetext.com/) built with thoroughness and accessibility in mind. This collection of snippets tries to capture sensible presets for web design/development, in the order of what I would consider most useful for my day-to-day work.
+*This repo is by no means a finished work. Snippets will be added, removed, and updated periodically*
 
-As opposed to something like [Emmet](http://emmet.io/) (which is an absolutely wonderful plugin), this strives to be a little slower, more verbose, and more opinionated. The cleverness of, and gains in speed with Emmet-style string expansion are oftentimes at the expense of a sloppier, more inaccessible greater whole. 
+A comprehensive snippet library for [Sublime Text](http://www.sublimetext.com/), built with thoroughness and accessibility in mind. This collection tries to capture sensible presets for web design/development, in the order of what I would personally consider most useful for my day-to-day work.
+
+As opposed to something like [Emmet](http://emmet.io/) (which is an absolutely wonderful plugin), this library strives to be a little slower, more verbose, and more *opinionated*. The cleverness of, and gains with in-the-moment speed with Emmet-style expansion are oftentimes at the expense of a sloppier, more inaccessible greater whole. 
 
 
 ## Approach
 
 ### Modular
-Because I am ~~bad at coding~~ a fan of modular-based approaches, each snippet is self-contained so the project can be a little more adaptable and portable for future efforts.
+Because I am ~~bad at coding~~ a fan of modular-based approaches, each snippet is a self-contained file so the project can be a little more adaptable and portable for future efforts. This project's origin was a [TextMate](http://macromates.com/) snippet library, after all
 
 ### Commenting and legibility
-Verbosity is nice. Major HTML sectioning elements and complicated embeds/forms/etc. have start of/end of commenting to help when wayfinding when coding or inspecting. Remove if you need to shave size for larger-scale sites. 
+Verbosity is nice. Major HTML sectioning elements and complicated embeds/forms/etc. have start of/end of commenting to help when wayfinding when coding or inspecting. Remove to shave size off for larger-scale sites. 
 
-Indentation is generous. Code that is legible makes for easier, better understanding and interpretation.
+Indentation is generous. Space is cheap and code written with legibility in mind makes for easier understanding and interpretation.
 
 ### Ordering and naming
-Sublime lists snippets in alphabetical order. Each snippet's filename has an `xx-name-attribute` convention, to allow for manual ordering of snippets. Commonly used code patterns are put first, but alternatives are always available.
+Sublime lists snippets with a common Tab Trigger in alphabetical order. Each snippet's filename has an `xx-name-attribute` convention, to allow for manual ordering of snippets. Commonly used code patterns are put first, but alternatives are always available.
 
 ### Paths
 Suggested file paths (ex: `url('../img/')`) are baked in where they're commonly needed.
@@ -43,18 +45,14 @@ Tab triggers are three characters long.
 Ordering inspired by [HTML Dog](http://htmldog.com/guides/css/)'s CSS Properties.
 
 #### Tab Triggers
-Tab triggers are four characters long. If a tag is one word long, the trigger is its first four letter.
+Tab triggers are four characters long. If a tag is one word long, the trigger is its first four letters:
 
 **Ex:** `quotes` is triggered by `quot`.
 
-If the tag is hyphenated, the trigger is the first three letters of the first word, followed by the first letter of the second word.
+If the tag's name is hyphenated, the trigger is the first three letters of the first word, followed by the first letter of the second word:
 
 **Ex:** `align-items` is triggered by `alii`.
 
-Less commonly used tags are five characters long, allowing (relatively) quick expansion, but keeping the namespace free for more commonly-used properties.
+Less commonly used tags are five characters long, allowing (relatively) quick expansion, but keeping the namespace free for more commonly-used properties:
 
 **Ex:** `border-bottom-width` is triggered by `borbw`.
-
-
-## Evolution
-*This repo is by no means a finished work*. Snippets will be added, removed, and updated as my workflow improves. 

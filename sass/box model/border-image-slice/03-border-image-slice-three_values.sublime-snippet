@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+border-image-slice: ${1:1-4, %, or fill} ${2:1-4, %, or fill} ${3:1-4, %, or fill};$0
+]]></content>
+	<tabTrigger>boris</tabTrigger>
+	<scope>text.html</scope>
+	<description>border-image-slice: three values</description>
+</snippet>

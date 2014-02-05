@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-border-image: url('../img/$1') ${2:W} ${3:W} ${4:round, repeat, stretch};
+border-image: url('../img/$1') ${2:W} ${3:W} ${4:round, repeat, stretch};$0
 ]]></content>
 	<tabTrigger>bori</tabTrigger>
 	<scope>text.html</scope>

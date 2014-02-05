@@ -18,11 +18,14 @@ Verbosity is nice. Major HTML sectioning elements and complicated embeds/forms/e
 
 Indentation is generous. Space is cheap and code written with legibility in mind makes for easier understanding and interpretation.
 
-### Ordering and naming
+### Snippet ordering and naming
 Sublime lists snippets with a common Tab Trigger in alphabetical order. Each snippet's filename has an `xx-name-attribute` convention, to allow for manual ordering of snippets. Commonly used code patterns are put first, but alternatives are always available.
 
 ### Paths
 Suggested file paths (ex: `url('../img/')`) are baked in where they're commonly needed.
+
+### Placeholders
+Plain language placeholders help remember what is being modified, and if accidentally left in will usually trigger an error when a preprocessor fires, helping to eliminate difficult to find errors resulting from unintended iterpretation. 
 
 ### Exit Points
 Snippet exit points (`$0`) are explicitly declared. This is helpful for longer, more complicated snippets where it might not be more advantageous for the exit point to be at the end of the snippet, instead placing the cursor where further work is commonly needed.
@@ -40,6 +43,8 @@ Ordering inspired by via [HTML5 Doctor's Element Index](http://html5doctor.com/)
 Tab triggers are three characters long. 
 
 **Ex:** `<meta>` is triggered by `met`.
+
+Attributes can only be triggered within a tag. 
 
 ### [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) / [SASS](http://sass-lang.com/)
 Ordering inspired by [HTML Dog](http://htmldog.com/guides/css/)'s CSS Properties.

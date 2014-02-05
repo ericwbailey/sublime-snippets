@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+border-image-outset: $1;$0
+]]></content>
+	<tabTrigger>borio</tabTrigger>
+	<scope>text.html</scope>
+	<description>border-image-outset: value</description>
+</snippet>

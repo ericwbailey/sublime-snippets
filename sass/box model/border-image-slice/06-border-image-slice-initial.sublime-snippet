@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+border-image-slice: initial;$0
+]]></content>
+	<tabTrigger>boris</tabTrigger>
+	<scope>text.html</scope>
+	<description>border-image-slice: initial</description>
+</snippet>

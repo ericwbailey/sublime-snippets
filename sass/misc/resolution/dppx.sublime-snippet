@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+dppx
+]]></content>
+	<tabTrigger>res</tabTrigger>
+	<scope>constant.other.unit.sass</scope>
+	<description>dppx</description>
+</snippet>

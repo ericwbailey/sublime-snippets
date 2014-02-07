@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+dpi
+]]></content>
+	<tabTrigger>res</tabTrigger>
+	<scope>constant.other.unit.sass</scope>
+	<description>dpi</description>
+</snippet>

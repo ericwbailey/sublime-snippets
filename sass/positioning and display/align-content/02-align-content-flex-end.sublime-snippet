@@ -3,6 +3,6 @@
 align-content: flex-end;
 ]]></content>
 	<tabTrigger>alic</tabTrigger>
-	<scope>text.html</scope>
+	<scope>text.sass</scope>
 	<description>align-content: flex-end</description>
 </snippet>

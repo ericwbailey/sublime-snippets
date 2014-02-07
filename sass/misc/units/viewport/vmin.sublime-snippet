@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+vmin
+]]></content>
+	<tabTrigger>m</tabTrigger>
+	<scope>constant.other.unit.sass</scope>
+	<description>vmin</description>
+</snippet>

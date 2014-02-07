@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+box-sizing: border-box;$0
+]]></content>
+	<tabTrigger>boxs</tabTrigger>
+	<scope>text.sass</scope>
+	<description>box-sizing: border-box</description>
+</snippet>

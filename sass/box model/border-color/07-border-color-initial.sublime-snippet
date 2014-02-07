@@ -3,6 +3,6 @@
 border-color: initial;$0
 ]]></content>
 	<tabTrigger>borc</tabTrigger>
-	<scope>text.html</scope>
+	<scope>text.sass</scope>
 	<description>border-color: initial</description>
 </snippet>

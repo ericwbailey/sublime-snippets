@@ -3,6 +3,6 @@
 border-left-width: medium;$0
 ]]></content>
 	<tabTrigger>borlw</tabTrigger>
-	<scope>text.html</scope>
+	<scope>text.sass</scope>
 	<description>border-left-width: medium</description>
 </snippet>

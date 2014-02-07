@@ -3,6 +3,6 @@
 page-break-after: inherit;$0
 ]]></content>
 	<tabTrigger>pagba</tabTrigger>
-	<scope>text.html</scope>
+	<scope>text.sass</scope>
 	<description>page-break-after: inherit</description>
 </snippet>

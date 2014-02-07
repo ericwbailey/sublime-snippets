@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+box-sizing: unset;$0
+]]></content>
+	<tabTrigger>boxs</tabTrigger>
+	<scope>text.sass</scope>
+	<description>box-sizing: unset</description>
+</snippet>

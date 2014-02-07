@@ -3,6 +3,6 @@
 list-style-type: disc;$0
 ]]></content>
 	<tabTrigger>lisst</tabTrigger>
-	<scope>text.html</scope>
+	<scope>text.sass</scope>
 	<description>list-style-type: disc (●)</description>
 </snippet>

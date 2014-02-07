@@ -3,6 +3,6 @@
 float: right;
 ]]></content>
 	<tabTrigger>floa</tabTrigger>
-	<scope>text.html</scope>
+	<scope>text.sass</scope>
 	<description>float: right</description>
 </snippet>

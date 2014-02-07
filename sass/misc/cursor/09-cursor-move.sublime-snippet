@@ -3,6 +3,6 @@
 cursor: move;$0
 ]]></content>
 	<tabTrigger>cur</tabTrigger>
-	<scope>text.html</scope>
+	<scope>text.sass</scope>
 	<description>cursor: move</description>
 </snippet>

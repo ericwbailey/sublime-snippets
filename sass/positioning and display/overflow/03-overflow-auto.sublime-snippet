@@ -3,6 +3,6 @@
 overflow: auto;$0
 ]]></content>
 	<tabTrigger>over</tabTrigger>
-	<scope>text.html</scope>
+	<scope>text.sass</scope>
 	<description>overflow: auto</description>
 </snippet>

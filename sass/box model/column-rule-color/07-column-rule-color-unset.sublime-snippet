@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+column-rule-color: unset;$0
+]]></content>
+	<tabTrigger>colurc</tabTrigger>
+	<scope>text.sass</scope>
+	<description>column-rule-color: unset</description>
+</snippet>

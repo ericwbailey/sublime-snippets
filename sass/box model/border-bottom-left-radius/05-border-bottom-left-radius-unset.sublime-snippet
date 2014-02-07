@@ -3,6 +3,6 @@
 border-bottom-left-radius: unset;$0
 ]]></content>
 	<tabTrigger>borblr</tabTrigger>
-	<scope>text.html</scope>
+	<scope>text.sass</scope>
 	<description>border-bottom-left-radius: unset</description>
 </snippet>

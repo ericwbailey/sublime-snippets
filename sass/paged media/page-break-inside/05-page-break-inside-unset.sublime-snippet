@@ -3,6 +3,6 @@
 page-break-inside: unset;$0
 ]]></content>
 	<tabTrigger>pagbi</tabTrigger>
-	<scope>text.html</scope>
+	<scope>text.sass</scope>
 	<description>page-break-inside: unset</description>
 </snippet>

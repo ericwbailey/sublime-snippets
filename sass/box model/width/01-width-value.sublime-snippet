@@ -3,6 +3,6 @@
 width: $1;$0
 ]]></content>
 	<tabTrigger>widt</tabTrigger>
-	<scope>text.html</scope>
+	<scope>text.sass</scope>
 	<description>width: value</description>
 </snippet>

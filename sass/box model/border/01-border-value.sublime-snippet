@@ -3,6 +3,6 @@
 border: $1;$0
 ]]></content>
 	<tabTrigger>bord</tabTrigger>
-	<scope>text.html</scope>
+	<scope>text.sass</scope>
 	<description>border: value</description>
 </snippet>

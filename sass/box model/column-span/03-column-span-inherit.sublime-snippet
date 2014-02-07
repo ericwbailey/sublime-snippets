@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+column-span: inherit;$0
+]]></content>
+	<tabTrigger>cols</tabTrigger>
+	<scope>text.sass</scope>
+	<description>column-span: inherit</description>
+</snippet>

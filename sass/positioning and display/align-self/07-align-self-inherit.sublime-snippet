@@ -3,6 +3,6 @@
 align-self: inherit;
 ]]></content>
 	<tabTrigger>alis</tabTrigger>
-	<scope>text.html</scope>
+	<scope>text.sass</scope>
 	<description>align-self: inherit</description>
 </snippet>

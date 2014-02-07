@@ -3,6 +3,6 @@
 font: inherit;$0
 ]]></content>
 	<tabTrigger>font</tabTrigger>
-	<scope>text.html</scope>
+	<scope>text.sass</scope>
 	<description>font: inherit</description>
 </snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+hsla(${1:H}, ${2:S}, ${3:L}, ${4:0-1})
+]]></content>
+	<tabTrigger>#</tabTrigger>
+	<scope>constant.other.rgb-value.sass</scope>
+	<description>HSLa</description>
+</snippet>

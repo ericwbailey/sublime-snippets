@@ -3,6 +3,6 @@
 orphans: unset;$0
 ]]></content>
 	<tabTrigger>orph</tabTrigger>
-	<scope>text.html</scope>
+	<scope>text.sass</scope>
 	<description>orphans: unset</description>
 </snippet>

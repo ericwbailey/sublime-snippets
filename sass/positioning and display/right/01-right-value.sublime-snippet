@@ -3,6 +3,6 @@
 right: $0;
 ]]></content>
 	<tabTrigger>righ</tabTrigger>
-	<scope>text.html</scope>
+	<scope>text.sass</scope>
 	<description>right: value</description>
 </snippet>

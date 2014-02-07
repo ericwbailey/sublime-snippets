@@ -3,6 +3,6 @@
 z-index: auto;
 ]]></content>
 	<tabTrigger>zind</tabTrigger>
-	<scope>text.html</scope>
+	<scope>text.sass</scope>
 	<description>z-index: auto</description>
 </snippet>

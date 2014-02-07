@@ -3,6 +3,6 @@
 :disabled$0
 ]]></content>
 	<tabTrigger>:</tabTrigger>
-	<scope>text.html</scope>
+	<scope>text.sass</scope>
 	<description>:disabled</description>
 </snippet>

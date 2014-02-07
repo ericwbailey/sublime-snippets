@@ -61,3 +61,6 @@ If the tag's name is hyphenated, the trigger is the first three letters of the f
 Less commonly used tags are five characters long, allowing (relatively) quick expansion, but keeping the namespace free for more commonly-used properties:
 
 **Ex:** `border-bottom-width` is triggered by `borbw`.
+
+##### Measurements and Colors
+Measurement units and color declarations can be triggered via `m` or `#`, respectively.

@@ -3,6 +3,6 @@
 align-items: center;
 ]]></content>
 	<tabTrigger>alii</tabTrigger>
-	<scope>text.html</scope>
+	<scope>text.sass</scope>
 	<description>align-items: center</description>
 </snippet>

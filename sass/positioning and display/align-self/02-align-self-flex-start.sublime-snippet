@@ -3,6 +3,6 @@
 align-self: flex-start;
 ]]></content>
 	<tabTrigger>alis</tabTrigger>
-	<scope>text.html</scope>
+	<scope>text.sass</scope>
 	<description>align-self: flex-start</description>
 </snippet>

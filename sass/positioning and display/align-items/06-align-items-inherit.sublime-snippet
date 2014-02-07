@@ -3,6 +3,6 @@
 align-items: inherit;
 ]]></content>
 	<tabTrigger>alii</tabTrigger>
-	<scope>text.html</scope>
+	<scope>text.sass</scope>
 	<description>align-items: inherit</description>
 </snippet>

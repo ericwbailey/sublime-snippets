@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+transparent
+]]></content>
+	<tabTrigger>#</tabTrigger>
+	<scope>constant.other.rgb-value.sass</scope>
+	<description>transparent</description>
+</snippet>

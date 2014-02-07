@@ -3,6 +3,6 @@
 align-content: center;
 ]]></content>
 	<tabTrigger>alic</tabTrigger>
-	<scope>text.html</scope>
+	<scope>text.sass</scope>
 	<description>align-content: center</description>
 </snippet>

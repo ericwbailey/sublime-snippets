@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+em
+]]></content>
+	<tabTrigger>m</tabTrigger>
+	<scope>constant.other.unit.sass</scope>
+	<description>em</description>
+</snippet>

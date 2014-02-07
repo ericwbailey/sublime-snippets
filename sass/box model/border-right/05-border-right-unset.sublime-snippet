@@ -3,6 +3,6 @@
 border-right: unset;$0
 ]]></content>
 	<tabTrigger>borr</tabTrigger>
-	<scope>text.html</scope>
+	<scope>text.sass</scope>
 	<description>border-right: unset</description>
 </snippet>

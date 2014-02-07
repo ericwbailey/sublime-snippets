@@ -3,6 +3,6 @@
 height: $1;$0
 ]]></content>
 	<tabTrigger>heig</tabTrigger>
-	<scope>text.html</scope>
+	<scope>text.sass</scope>
 	<description>height: value</description>
 </snippet>

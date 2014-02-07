@@ -3,6 +3,6 @@
 direction: inherit;$0
 ]]></content>
 	<tabTrigger>dire</tabTrigger>
-	<scope>text.html</scope>
+	<scope>text.sass</scope>
 	<description>direction: inherit</description>
 </snippet>

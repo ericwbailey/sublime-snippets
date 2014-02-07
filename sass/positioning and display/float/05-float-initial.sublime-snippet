@@ -3,6 +3,6 @@
 float: initial;$0
 ]]></content>
 	<tabTrigger>floa</tabTrigger>
-	<scope>text.html</scope>
+	<scope>text.sass</scope>
 	<description>float: initial</description>
 </snippet>

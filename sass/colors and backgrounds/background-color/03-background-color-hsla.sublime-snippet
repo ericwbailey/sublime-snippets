@@ -3,6 +3,6 @@
 background-color: rgba(${1:H}, {$2:S}, ${B:L}, ${A (0.0-1.0)});$0
 ]]></content>
 	<tabTrigger>bacc</tabTrigger>
-	<scope>text.html</scope>
+	<scope>text.sass</scope>
 	<description>background-color: hsla</description>
 </snippet>

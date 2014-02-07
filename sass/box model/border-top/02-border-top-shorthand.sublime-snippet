@@ -3,6 +3,6 @@
 border-top: ${1:width} ${2:style} ${3:color};$0
 ]]></content>
 	<tabTrigger>bort</tabTrigger>
-	<scope>text.html</scope>
+	<scope>text.sass</scope>
 	<description>border-top: shorthand</description>
 </snippet>

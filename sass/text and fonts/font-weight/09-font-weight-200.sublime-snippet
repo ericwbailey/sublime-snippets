@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+font-weight: 200;$0
+]]></content>
+	<tabTrigger>fonw</tabTrigger>
+	<scope>text.sass</scope>
+	<description>font-weight: 200</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+filter: grayscale(${1:0-100}%);$0
+]]></content>
+	<tabTrigger>filt</tabTrigger>
+	<scope>text.sass</scope>
+	<description>filter: grayscale()</description>
+</snippet>

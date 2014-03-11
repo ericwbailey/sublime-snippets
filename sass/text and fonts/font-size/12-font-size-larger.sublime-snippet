@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+font-size: larger;$0
+]]></content>
+	<tabTrigger>fons</tabTrigger>
+	<scope>text.sass</scope>
+	<description>font-size: larger</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+flex-shrink: $1;$0
+]]></content>
+	<tabTrigger>flexs</tabTrigger>
+	<scope>text.sass</scope>
+	<description>flex-shrink: value</description>
+</snippet>

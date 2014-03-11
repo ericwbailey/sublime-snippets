@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+flex-wrap: unset;$0
+]]></content>
+	<tabTrigger>flexw</tabTrigger>
+	<scope>text.sass</scope>
+	<description>flex-wrap: unset</description>
+</snippet>

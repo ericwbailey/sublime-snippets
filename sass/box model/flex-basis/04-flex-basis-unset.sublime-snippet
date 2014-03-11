@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+flex-basis: unset;$0
+]]></content>
+	<tabTrigger>flexb</tabTrigger>
+	<scope>text.sass</scope>
+	<description>flex-basis: unset</description>
+</snippet>

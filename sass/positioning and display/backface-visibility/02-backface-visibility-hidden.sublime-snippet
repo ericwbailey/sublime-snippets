@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+backface-visibility: hidden;$0
+]]></content>
+	<tabTrigger>bacv</tabTrigger>
+	<scope>text.sass</scope>
+	<description>backface-visibility: hidden</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+background-size: ${1:auto, length/percentage, cover, contain};$0
+]]></content>
+	<tabTrigger>bacs</tabTrigger>
+	<scope>text.sass</scope>
+	<description>background-size: value value</description>
+</snippet>

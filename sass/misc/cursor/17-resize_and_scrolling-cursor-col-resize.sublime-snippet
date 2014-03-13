@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-cursor: se-resize;$0
+cursor: col-resize;$0
 ]]></content>
 	<tabTrigger>cur</tabTrigger>
 	<scope>text.sass</scope>
-	<description>cursor: se-resize</description>
+	<description>cursor: col-resize</description>
 </snippet>

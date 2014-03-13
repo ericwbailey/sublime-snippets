@@ -16,7 +16,7 @@ Because I am ~~bad at coding~~ a fan of modular-based approaches, each snippet i
 ### Commenting and legibility
 Verbosity is nice. Major HTML sectioning elements and complicated embeds/forms/etc. have start of/end of commenting to help when wayfinding when coding or inspecting. Remove to shave size off for larger-scale sites. 
 
-Indentation is generous. Space is cheap and code written with legibility in mind makes for easier understanding and interpretation.
+Indentation is generous. Space is cheap, should be minified, and code written with legibility in mind makes for easier understanding and interpretation.
 
 ### Snippet ordering and naming
 Sublime lists snippets with a common Tab Trigger in alphabetical order. Each snippet's filename has an `xx-name-attribute` convention, to allow for manual ordering of snippets. Commonly used code patterns are put first, but alternatives are always available.

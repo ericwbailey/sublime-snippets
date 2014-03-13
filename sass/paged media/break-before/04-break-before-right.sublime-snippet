@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+break-before: right;$0
+]]></content>
+	<tabTrigger>breb</tabTrigger>
+	<scope>text.sass</scope>
+	<description>break-before: right</description>
+</snippet>

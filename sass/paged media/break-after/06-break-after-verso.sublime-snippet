@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+break-after: verso;$0
+]]></content>
+	<tabTrigger>brea</tabTrigger>
+	<scope>text.sass</scope>
+	<description>break-after: verso</description>
+</snippet>

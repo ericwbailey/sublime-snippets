@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-:before$0
+::before$0
 ]]></content>
 	<tabTrigger>:</tabTrigger>
 	<scope>text.sass</scope>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+image-rendering: unset;$0
+]]></content>
+	<tabTrigger>imar</tabTrigger>
+	<scope>text.sass</scope>
+	<description>image-rendering: unset</description>
+</snippet>

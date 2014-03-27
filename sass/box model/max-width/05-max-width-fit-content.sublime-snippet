@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+max-width: fit-content;$0
+]]></content>
+	<tabTrigger>maxw</tabTrigger>
+	<scope>text.sass</scope>
+	<description>max-width: fit-content</description>
+</snippet>

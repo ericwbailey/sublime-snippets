@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+hyphens: inherit;$0
+]]></content>
+	<tabTrigger>hyp</tabTrigger>
+	<scope>text.sass</scope>
+	<description>hyphens: inherit</description>
+</snippet>

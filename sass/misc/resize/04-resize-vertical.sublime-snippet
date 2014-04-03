@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+resize: vertical;$0
+]]></content>
+	<tabTrigger>resi</tabTrigger>
+	<scope>text.sass</scope>
+	<description>resize: vertical</description>
+</snippet>

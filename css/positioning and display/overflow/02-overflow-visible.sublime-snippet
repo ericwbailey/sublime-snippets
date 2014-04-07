@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+overflow: visible;$0
+]]></content>
+	<tabTrigger>over</tabTrigger>
+	<scope>text.css</scope>
+	<description>overflow: visible</description>
+</snippet>

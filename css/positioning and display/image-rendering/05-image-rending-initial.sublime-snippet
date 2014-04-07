@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+image-rendering: initial;$0
+]]></content>
+	<tabTrigger>imar</tabTrigger>
+	<scope>text.css</scope>
+	<description>image-rendering: initial</description>
+</snippet>

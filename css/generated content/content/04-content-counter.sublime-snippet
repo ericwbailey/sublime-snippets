@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+content: counter($1);$0
+]]></content>
+	<tabTrigger>cont</tabTrigger>
+	<scope>text.css</scope>
+	<description>content: counter</description>
+</snippet>

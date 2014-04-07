@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+max-width: none;$0
+]]></content>
+	<tabTrigger>maxw</tabTrigger>
+	<scope>text.css</scope>
+	<description>max-width: none</description>
+</snippet>

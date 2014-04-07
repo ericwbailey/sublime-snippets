@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+margin-right: unset;$0
+]]></content>
+	<tabTrigger>marr</tabTrigger>
+	<scope>text.css</scope>
+	<description>margin-right: unset</description>
+</snippet>

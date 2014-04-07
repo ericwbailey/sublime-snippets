@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+border-image-repeat: initial;$0
+]]></content>
+	<tabTrigger>borir</tabTrigger>
+	<scope>text.css</scope>
+	<description>border-image-repeat: initial</description>
+</snippet>

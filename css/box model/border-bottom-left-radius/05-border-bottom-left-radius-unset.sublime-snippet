@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+border-bottom-left-radius: unset;$0
+]]></content>
+	<tabTrigger>borblr</tabTrigger>
+	<scope>text.css</scope>
+	<description>border-bottom-left-radius: unset</description>
+</snippet>

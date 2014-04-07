@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+align-items: center;
+]]></content>
+	<tabTrigger>alii</tabTrigger>
+	<scope>text.css</scope>
+	<description>align-items: center</description>
+</snippet>

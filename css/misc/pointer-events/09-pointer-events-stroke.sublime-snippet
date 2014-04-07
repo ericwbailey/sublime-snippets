@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+pointer-events: stroke;$0
+]]></content>
+	<tabTrigger>poie</tabTrigger>
+	<scope>text.css</scope>
+	<description>pointer-events: stroke (SVG only)</description>
+</snippet>

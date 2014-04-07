@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+padding-bottom: unset;$0
+]]></content>
+	<tabTrigger>padb</tabTrigger>
+	<scope>text.css</scope>
+	<description>padding-bottom: unset</description>
+</snippet>

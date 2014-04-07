@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+background-clip: inherit;$0
+]]></content>
+	<tabTrigger>bacc</tabTrigger>
+	<scope>text.css</scope>
+	<description>background-clip: inherit</description>
+</snippet>

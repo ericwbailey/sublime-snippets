@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+list-style: inherit;$0
+]]></content>
+	<tabTrigger>liss</tabTrigger>
+	<scope>text.css</scope>
+	<description>list-style: inherit</description>
+</snippet>

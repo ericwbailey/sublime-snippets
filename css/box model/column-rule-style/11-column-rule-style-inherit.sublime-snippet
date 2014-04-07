@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+column-rule-style: inherit;$0
+]]></content>
+	<tabTrigger>colurs</tabTrigger>
+	<scope>text.css</scope>
+	<description>column-rule-style: inherit</description>
+</snippet>

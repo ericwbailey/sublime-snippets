@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+content: no-close-quote;$0
+]]></content>
+	<tabTrigger>cont</tabTrigger>
+	<scope>text.css</scope>
+	<description>content: no-close-quote</description>
+</snippet>

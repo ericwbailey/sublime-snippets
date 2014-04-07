@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+order: unset;$0
+]]></content>
+	<tabTrigger>orde</tabTrigger>
+	<scope>text.css</scope>
+	<description>order: unset</description>
+</snippet>

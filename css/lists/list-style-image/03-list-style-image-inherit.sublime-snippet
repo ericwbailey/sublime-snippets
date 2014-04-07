@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+list-style-image: inherit;$0
+]]></content>
+	<tabTrigger>lissi</tabTrigger>
+	<scope>text.css</scope>
+	<description>list-style-type: inherit</description>
+</snippet>

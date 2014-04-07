@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+cursor: n-resize;$0
+]]></content>
+	<tabTrigger>cur</tabTrigger>
+	<scope>text.css</scope>
+	<description>cursor: n-resize</description>
+</snippet>

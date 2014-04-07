@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+width: fit-content;$0
+]]></content>
+	<tabTrigger>widt</tabTrigger>
+	<scope>text.css</scope>
+	<description>width: fit-content</description>
+</snippet>

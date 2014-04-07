@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+overflow: inherit;$0
+]]></content>
+	<tabTrigger>over</tabTrigger>
+	<scope>text.css</scope>
+	<description>overflow: inherit</description>
+</snippet>

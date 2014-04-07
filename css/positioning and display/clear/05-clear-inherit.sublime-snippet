@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+clear: inherit;
+]]></content>
+	<tabTrigger>clea</tabTrigger>
+	<scope>text.css</scope>
+	<description>clear: inherit</description>
+</snippet>

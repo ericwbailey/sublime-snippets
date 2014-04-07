@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+float: unset;$0
+]]></content>
+	<tabTrigger>floa</tabTrigger>
+	<scope>text.css</scope>
+	<description>float: unset</description>
+</snippet>

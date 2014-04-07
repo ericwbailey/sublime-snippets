@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+vertical-align: bottom;$0
+]]></content>
+	<tabTrigger>vera</tabTrigger>
+	<scope>text.css</scope>
+	<description>vertical-align: bottom</description>
+</snippet>

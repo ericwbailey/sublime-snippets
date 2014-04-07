@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+align-self: baseline;
+]]></content>
+	<tabTrigger>alis</tabTrigger>
+	<scope>text.css</scope>
+	<description>align-self: baseline</description>
+</snippet>

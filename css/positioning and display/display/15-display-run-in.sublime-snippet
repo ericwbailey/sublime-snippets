@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+display: run-in;$0
+]]></content>
+	<tabTrigger>disp</tabTrigger>
+	<scope>text.css</scope>
+	<description>display: run-in</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+word-break: unset;$0
+]]></content>
+	<tabTrigger>worb</tabTrigger>
+	<scope>text.css</scope>
+	<description>word-break: unset</description>
+</snippet>

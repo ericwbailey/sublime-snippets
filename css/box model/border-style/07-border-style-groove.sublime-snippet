@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+border-style: groove;$0
+]]></content>
+	<tabTrigger>bors</tabTrigger>
+	<scope>text.css</scope>
+	<description>border-style: groove</description>
+</snippet>

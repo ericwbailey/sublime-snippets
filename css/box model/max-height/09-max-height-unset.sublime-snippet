@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+max-height: unset;$0
+]]></content>
+	<tabTrigger>maxh</tabTrigger>
+	<scope>text.css</scope>
+	<description>max-height: unset</description>
+</snippet>

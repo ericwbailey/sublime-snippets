@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+align-self: center;
+]]></content>
+	<tabTrigger>alis</tabTrigger>
+	<scope>text.css</scope>
+	<description>align-self: center</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+outline: ${1:color} ${2:style} ${3:width};$0
+]]></content>
+	<tabTrigger>outl</tabTrigger>
+	<scope>text.css</scope>
+	<description>outline: shorthand</description>
+</snippet>

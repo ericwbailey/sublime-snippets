@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+height: auto;$0
+]]></content>
+	<tabTrigger>heig</tabTrigger>
+	<scope>text.css</scope>
+	<description>height: auto</description>
+</snippet>

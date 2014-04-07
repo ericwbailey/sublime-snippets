@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+min-width: unset;$0
+]]></content>
+	<tabTrigger>minw</tabTrigger>
+	<scope>text.css</scope>
+	<description>min-width: unset</description>
+</snippet>

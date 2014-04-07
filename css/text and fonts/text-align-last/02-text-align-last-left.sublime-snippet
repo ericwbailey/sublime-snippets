@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+text-align-last: left;$0
+]]></content>
+	<tabTrigger>texal</tabTrigger>
+	<scope>text.css</scope>
+	<description>text-align-last: left</description>
+</snippet>

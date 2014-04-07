@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+align-self: auto;
+]]></content>
+	<tabTrigger>alis</tabTrigger>
+	<scope>text.css</scope>
+	<description>align-self: auto</description>
+</snippet>

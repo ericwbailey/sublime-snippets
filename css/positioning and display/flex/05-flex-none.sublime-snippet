@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+flex: none;$0
+]]></content>
+	<tabTrigger>flex</tabTrigger>
+	<scope>text.css</scope>
+	<description>flex: none</description>
+</snippet>

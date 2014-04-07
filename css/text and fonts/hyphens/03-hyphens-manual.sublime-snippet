@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+hyphens: manual;$0
+]]></content>
+	<tabTrigger>hyp</tabTrigger>
+	<scope>text.css</scope>
+	<description>hyphens: manual</description>
+</snippet>

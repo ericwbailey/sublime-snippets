@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+rgba(${1:R}, ${2:G}, ${3:B}, ${4:0-1})
+]]></content>
+	<tabTrigger>#</tabTrigger>
+	<scope>constant.other.rgb-value.sass</scope>
+	<description>RGBa</description>
+</snippet>

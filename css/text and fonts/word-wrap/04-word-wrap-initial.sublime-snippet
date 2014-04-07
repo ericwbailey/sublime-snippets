@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+word-wrap: initial;$0
+]]></content>
+	<tabTrigger>worw</tabTrigger>
+	<scope>text.css</scope>
+	<description>word-wrap: initial</description>
+</snippet>

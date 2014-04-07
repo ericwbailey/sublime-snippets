@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+caption-side: unset;$0
+]]></content>
+	<tabTrigger>caps</tabTrigger>
+	<scope>text.css</scope>
+	<description>caption-side: unset</description>
+</snippet>

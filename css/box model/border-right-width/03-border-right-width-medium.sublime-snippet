@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+border-right-width: medium;$0
+]]></content>
+	<tabTrigger>borrw</tabTrigger>
+	<scope>text.css</scope>
+	<description>border-right-width: medium</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+border-color: inherit;$0
+]]></content>
+	<tabTrigger>borc</tabTrigger>
+	<scope>text.css</scope>
+	<description>border-color: inherit</description>
+</snippet>

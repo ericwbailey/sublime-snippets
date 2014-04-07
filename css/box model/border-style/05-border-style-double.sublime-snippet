@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+border-style: double;$0
+]]></content>
+	<tabTrigger>bors</tabTrigger>
+	<scope>text.css</scope>
+	<description>border-style: double</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+filter: brightness(${1:0.0-1.0});$0
+]]></content>
+	<tabTrigger>filt</tabTrigger>
+	<scope>text.css</scope>
+	<description>filter: brightness()</description>
+</snippet>

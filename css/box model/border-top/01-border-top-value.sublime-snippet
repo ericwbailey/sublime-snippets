@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+border-top: $1;$0
+]]></content>
+	<tabTrigger>bort</tabTrigger>
+	<scope>text.css</scope>
+	<description>border-top: value</description>
+</snippet>

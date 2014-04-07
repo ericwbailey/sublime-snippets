@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+column-fill: inherit;$0
+]]></content>
+	<tabTrigger>colf</tabTrigger>
+	<scope>text.css</scope>
+	<description>column-fill: inherit</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+border-top-right-radius: initial;$0
+]]></content>
+	<tabTrigger>bortrr</tabTrigger>
+	<scope>text.css</scope>
+	<description>border-top-right-radius: initial</description>
+</snippet>

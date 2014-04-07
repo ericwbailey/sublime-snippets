@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+cursor: grabbing;$0
+]]></content>
+	<tabTrigger>cur</tabTrigger>
+	<scope>text.css</scope>
+	<description>cursor: grabbing</description>
+</snippet>

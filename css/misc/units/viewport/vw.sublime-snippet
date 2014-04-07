@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+vw
+]]></content>
+	<tabTrigger>m</tabTrigger>
+	<scope>constant.other.unit.sass</scope>
+	<description>vw</description>
+</snippet>

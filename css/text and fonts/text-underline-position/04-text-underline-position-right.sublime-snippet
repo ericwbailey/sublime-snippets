@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+text-underline-position: right;$0
+]]></content>
+	<tabTrigger>texup</tabTrigger>
+	<scope>text.css</scope>
+	<description>text-underline-position: right</description>
+</snippet>

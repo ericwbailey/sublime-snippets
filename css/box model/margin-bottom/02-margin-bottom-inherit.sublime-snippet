@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+margin-bottom: inherit;$0
+]]></content>
+	<tabTrigger>marb</tabTrigger>
+	<scope>text.css</scope>
+	<description>margin-bottom: inherit</description>
+</snippet>

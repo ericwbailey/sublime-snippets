@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+white-space: inherit;$0
+]]></content>
+	<tabTrigger>whis</tabTrigger>
+	<scope>text.css</scope>
+	<description>white-space: inherit</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+border-bottom-width: medium;$0
+]]></content>
+	<tabTrigger>borbw</tabTrigger>
+	<scope>text.css</scope>
+	<description>border-bottom-width: medium</description>
+</snippet>

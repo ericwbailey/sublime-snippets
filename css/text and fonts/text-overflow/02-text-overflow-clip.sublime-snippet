@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+text-overflow: clip;$0
+]]></content>
+	<tabTrigger>texo</tabTrigger>
+	<scope>text.css</scope>
+	<description>text-overflow: clip</description>
+</snippet>

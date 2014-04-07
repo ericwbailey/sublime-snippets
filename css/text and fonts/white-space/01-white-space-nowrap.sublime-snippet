@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+white-space: nowrap;$0
+]]></content>
+	<tabTrigger>whis</tabTrigger>
+	<scope>text.css</scope>
+	<description>white-space: nowrap</description>
+</snippet>

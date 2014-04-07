@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+:invalid$0
+]]></content>
+	<tabTrigger>:</tabTrigger>
+	<scope>text.css</scope>
+	<description>:invalid</description>
+</snippet>

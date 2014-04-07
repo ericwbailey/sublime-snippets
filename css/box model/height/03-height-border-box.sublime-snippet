@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+height: border-box;$0
+]]></content>
+	<tabTrigger>heig</tabTrigger>
+	<scope>text.css</scope>
+	<description>height: border-box</description>
+</snippet>

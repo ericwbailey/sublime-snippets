@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+align-items: initial;$0
+]]></content>
+	<tabTrigger>alii</tabTrigger>
+	<scope>text.css</scope>
+	<description>align-items: initial</description>
+</snippet>

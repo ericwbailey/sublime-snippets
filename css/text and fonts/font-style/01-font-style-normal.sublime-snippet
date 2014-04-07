@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+font-style: normal;$0
+]]></content>
+	<tabTrigger>fons</tabTrigger>
+	<scope>text.css</scope>
+	<description>font-style: normal</description>
+</snippet>

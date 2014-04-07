@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+break-before: avoid-column;$0
+]]></content>
+	<tabTrigger>breb</tabTrigger>
+	<scope>text.css</scope>
+	<description>break-before: avoid-column</description>
+</snippet>

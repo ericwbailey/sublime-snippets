@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+vmax
+]]></content>
+	<tabTrigger>m</tabTrigger>
+	<scope>constant.other.unit.sass</scope>
+	<description>vmax</description>
+</snippet>

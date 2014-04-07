@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+align-content: unset;
+]]></content>
+	<tabTrigger>alic</tabTrigger>
+	<scope>text.css</scope>
+	<description>align-content: unset</description>
+</snippet>

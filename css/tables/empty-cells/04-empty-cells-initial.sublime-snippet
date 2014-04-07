@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+empty-cells: initial;$0
+]]></content>
+	<tabTrigger>empc</tabTrigger>
+	<scope>text.css</scope>
+	<description>empty-cells: initial</description>
+</snippet>

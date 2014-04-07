@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+calc: ($1 - $2);$0
+]]></content>
+	<tabTrigger>calc</tabTrigger>
+	<scope>text.css</scope>
+	<description>calc: subtraction</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+letter-spacing: inherit;$0
+]]></content>
+	<tabTrigger>lets</tabTrigger>
+	<scope>text.css</scope>
+	<description>letter-spacing: inherit</description>
+</snippet>

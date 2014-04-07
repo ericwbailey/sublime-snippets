@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+filter: url('../img/$1${2:#}');$0
+]]></content>
+	<tabTrigger>filt</tabTrigger>
+	<scope>text.css</scope>
+	<description>filter: url()</description>
+</snippet>

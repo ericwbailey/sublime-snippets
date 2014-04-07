@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+direction: ltr;$0
+]]></content>
+	<tabTrigger>dire</tabTrigger>
+	<scope>text.css</scope>
+	<description>direction: ltr</description>
+</snippet>

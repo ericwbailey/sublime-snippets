@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+unicode-bidi: embed;$0
+]]></content>
+	<tabTrigger>unib</tabTrigger>
+	<scope>text.css</scope>
+	<description>unicode-bidi: embed</description>
+</snippet>

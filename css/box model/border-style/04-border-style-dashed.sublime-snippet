@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+border-style: dashed;$0
+]]></content>
+	<tabTrigger>bors</tabTrigger>
+	<scope>text.css</scope>
+	<description>border-style: dashed</description>
+</snippet>

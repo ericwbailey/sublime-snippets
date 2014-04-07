@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+pointer-events: visible;$0
+]]></content>
+	<tabTrigger>poie</tabTrigger>
+	<scope>text.css</scope>
+	<description>pointer-events: visible (SVG only)</description>
+</snippet>

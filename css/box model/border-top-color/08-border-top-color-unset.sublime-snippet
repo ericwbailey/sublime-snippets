@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+border-top-color: unset;$0
+]]></content>
+	<tabTrigger>bortc</tabTrigger>
+	<scope>text.css</scope>
+	<description>border-top-color: unset</description>
+</snippet>

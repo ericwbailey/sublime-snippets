@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+clip: initial;$0
+]]></content>
+	<tabTrigger>clip</tabTrigger>
+	<scope>text.css</scope>
+	<description>clip: initial</description>
+</snippet>

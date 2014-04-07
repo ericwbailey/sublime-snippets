@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+column-rule-width: thin;$0
+]]></content>
+	<tabTrigger>colurw</tabTrigger>
+	<scope>text.css</scope>
+	<description>column-rule-width: thin</description>
+</snippet>

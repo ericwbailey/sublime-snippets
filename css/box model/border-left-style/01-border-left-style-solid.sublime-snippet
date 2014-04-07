@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+border-left-style: solid;$0
+]]></content>
+	<tabTrigger>borls</tabTrigger>
+	<scope>text.css</scope>
+	<description>border-left-style: solid</description>
+</snippet>

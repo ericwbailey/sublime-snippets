@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+break-before: auto;$0
+]]></content>
+	<tabTrigger>breb</tabTrigger>
+	<scope>text.css</scope>
+	<description>break-before: auto</description>
+</snippet>

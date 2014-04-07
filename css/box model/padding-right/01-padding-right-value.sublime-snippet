@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+padding-right: $1;$0
+]]></content>
+	<tabTrigger>padr</tabTrigger>
+	<scope>text.css</scope>
+	<description>padding-right: value</description>
+</snippet>

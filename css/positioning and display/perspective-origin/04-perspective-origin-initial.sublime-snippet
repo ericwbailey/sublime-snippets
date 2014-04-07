@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+perspective-origin: initial;$0
+]]></content>
+	<tabTrigger>pero</tabTrigger>
+	<scope>text.css</scope>
+	<description>perspective-origin: initial</description>
+</snippet>

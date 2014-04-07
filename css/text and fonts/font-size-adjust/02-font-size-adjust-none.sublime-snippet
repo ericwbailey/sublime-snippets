@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+font-size-adjust: none;$0
+]]></content>
+	<tabTrigger>fonsa</tabTrigger>
+	<scope>text.css</scope>
+	<description>font-size-adjust: none</description>
+</snippet>

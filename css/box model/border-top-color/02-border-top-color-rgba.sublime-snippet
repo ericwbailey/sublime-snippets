@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+border-top-color: rgba(${1:R}, {$2:G}, ${B:B}, ${A (0.0-1.0)});$0
+]]></content>
+	<tabTrigger>bortc</tabTrigger>
+	<scope>text.css</scope>
+	<description>border-top-color: rgba</description>
+</snippet>

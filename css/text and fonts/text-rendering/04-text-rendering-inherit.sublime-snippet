@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+text-rendering: inherit;$0
+]]></content>
+	<tabTrigger>texr</tabTrigger>
+	<scope>text.css</scope>
+	<description>text-rendering: inherit</description>
+</snippet>

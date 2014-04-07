@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+:last-of-type$0
+]]></content>
+	<tabTrigger>:</tabTrigger>
+	<scope>text.css</scope>
+	<description>:last-of-type</description>
+</snippet>

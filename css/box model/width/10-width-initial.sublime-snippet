@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+width: initial;$0
+]]></content>
+	<tabTrigger>widt</tabTrigger>
+	<scope>text.css</scope>
+	<description>width: initial</description>
+</snippet>

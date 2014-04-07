@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+columns: ${1:width} ${2:count};$0
+]]></content>
+	<tabTrigger>colu</tabTrigger>
+	<scope>text.css</scope>
+	<description>columns: width and count</description>
+</snippet>

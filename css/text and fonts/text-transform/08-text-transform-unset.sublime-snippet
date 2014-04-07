@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+text-transform: unset;$0
+]]></content>
+	<tabTrigger>text</tabTrigger>
+	<scope>text.css</scope>
+	<description>text-transform: unset</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+float: inherit;
+]]></content>
+	<tabTrigger>floa</tabTrigger>
+	<scope>text.css</scope>
+	<description>float: inherit</description>
+</snippet>

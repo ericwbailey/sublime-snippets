@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+counter-reset: none;$0
+]]></content>
+	<tabTrigger>cour</tabTrigger>
+	<scope>text.css</scope>
+	<description>counter-reset: none</description>
+</snippet>

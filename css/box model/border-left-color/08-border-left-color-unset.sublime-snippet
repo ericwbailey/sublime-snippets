@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+border-left-color: unset;$0
+]]></content>
+	<tabTrigger>borlc</tabTrigger>
+	<scope>text.css</scope>
+	<description>border-left-color: unset</description>
+</snippet>

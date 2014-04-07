@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+justify-content: initial;$0
+]]></content>
+	<tabTrigger>jusc</tabTrigger>
+	<scope>text.css</scope>
+	<description>justify-content: initial</description>
+</snippet>

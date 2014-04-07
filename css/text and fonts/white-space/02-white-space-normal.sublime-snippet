@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+white-space: normal;$0
+]]></content>
+	<tabTrigger>whis</tabTrigger>
+	<scope>text.css</scope>
+	<description>white-space: normal</description>
+</snippet>

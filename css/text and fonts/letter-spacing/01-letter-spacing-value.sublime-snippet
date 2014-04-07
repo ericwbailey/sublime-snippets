@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+letter-spacing: $1;$0
+]]></content>
+	<tabTrigger>lets</tabTrigger>
+	<scope>text.css</scope>
+	<description>letter-spacing: value</description>
+</snippet>

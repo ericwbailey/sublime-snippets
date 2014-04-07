@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+pointer-events: painted;$0
+]]></content>
+	<tabTrigger>poie</tabTrigger>
+	<scope>text.css</scope>
+	<description>pointer-events: painted (SVG only)</description>
+</snippet>

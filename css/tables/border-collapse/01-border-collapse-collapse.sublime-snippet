@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+border-collapse: collapse;$0
+]]></content>
+	<tabTrigger>borc</tabTrigger>
+	<scope>text.css</scope>
+	<description>border-collapse: collapse</description>
+</snippet>

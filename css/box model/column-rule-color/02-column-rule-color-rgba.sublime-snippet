@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+column-rule-color: rgba(${1:R}, {$2:G}, ${B:B}, ${A (0.0-1.0)});$0
+]]></content>
+	<tabTrigger>colurc</tabTrigger>
+	<scope>text.css</scope>
+	<description>column-rule-color: rgba</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+min-height: fit-content;$0
+]]></content>
+	<tabTrigger>minh</tabTrigger>
+	<scope>text.css</scope>
+	<description>min-height: fit-content</description>
+</snippet>

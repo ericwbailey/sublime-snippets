@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+quotes: unset;$0
+]]></content>
+	<tabTrigger>quot</tabTrigger>
+	<scope>text.css</scope>
+	<description>quotes: unset</description>
+</snippet>

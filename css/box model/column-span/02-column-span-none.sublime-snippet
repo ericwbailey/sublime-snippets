@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+column-span: none;$0
+]]></content>
+	<tabTrigger>cols</tabTrigger>
+	<scope>text.css</scope>
+	<description>column-span: none</description>
+</snippet>

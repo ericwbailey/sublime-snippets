@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+border-top: inherit;$0
+]]></content>
+	<tabTrigger>bort</tabTrigger>
+	<scope>text.css</scope>
+	<description>border-top: inherit</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+tab-size: unset;$0
+]]></content>
+	<tabTrigger>tabs</tabTrigger>
+	<scope>text.css</scope>
+	<description>tab-size: unset</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+opacity: inherit;$0
+]]></content>
+	<tabTrigger>opac</tabTrigger>
+	<scope>text.css</scope>
+	<description>opacity: inherit</description>
+</snippet>

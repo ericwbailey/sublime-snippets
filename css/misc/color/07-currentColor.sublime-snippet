@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+currentColor
+]]></content>
+	<tabTrigger>#</tabTrigger>
+	<scope>constant.other.rgb-value.sass</scope>
+	<description>currentColor</description>
+</snippet>

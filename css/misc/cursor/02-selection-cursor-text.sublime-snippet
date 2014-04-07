@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+cursor: text;$0
+]]></content>
+	<tabTrigger>cur</tabTrigger>
+	<scope>text.css</scope>
+	<description>cursor: text</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+min-width: inherit;$0
+]]></content>
+	<tabTrigger>minw</tabTrigger>
+	<scope>text.css</scope>
+	<description>min-width: inherit</description>
+</snippet>

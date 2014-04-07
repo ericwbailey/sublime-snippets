@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+z-index: auto;
+]]></content>
+	<tabTrigger>zind</tabTrigger>
+	<scope>text.css</scope>
+	<description>z-index: auto</description>
+</snippet>

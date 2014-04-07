@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+column-fill: unset;$0
+]]></content>
+	<tabTrigger>colf</tabTrigger>
+	<scope>text.css</scope>
+	<description>column-fill: unset</description>
+</snippet>

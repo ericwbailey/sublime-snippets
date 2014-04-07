@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+align-self: inherit;
+]]></content>
+	<tabTrigger>alis</tabTrigger>
+	<scope>text.css</scope>
+	<description>align-self: inherit</description>
+</snippet>

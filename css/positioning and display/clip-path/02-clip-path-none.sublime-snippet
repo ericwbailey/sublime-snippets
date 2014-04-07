@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+clip-path: none;$0
+]]></content>
+	<tabTrigger>clipp</tabTrigger>
+	<scope>text.css</scope>
+	<description>clip-path: none</description>
+</snippet>

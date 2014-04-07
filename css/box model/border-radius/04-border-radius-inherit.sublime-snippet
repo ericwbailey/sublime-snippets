@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+border-radius: inherit;$0
+]]></content>
+	<tabTrigger>bordr</tabTrigger>
+	<scope>text.css</scope>
+	<description>border-radius: inherit</description>
+</snippet>

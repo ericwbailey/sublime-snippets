@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+clip-path: url('../img/${1:image.svg}#${2:c1}');$0
+]]></content>
+	<tabTrigger>clipp</tabTrigger>
+	<scope>text.css</scope>
+	<description>clip-path: svg image</description>
+</snippet>

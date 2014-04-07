@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+counter-increment: unset;$0
+]]></content>
+	<tabTrigger>coui</tabTrigger>
+	<scope>text.css</scope>
+	<description>counter-increment: unset</description>
+</snippet>

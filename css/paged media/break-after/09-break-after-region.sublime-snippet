@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+break-after: region;$0
+]]></content>
+	<tabTrigger>brea</tabTrigger>
+	<scope>text.css</scope>
+	<description>break-after: region</description>
+</snippet>

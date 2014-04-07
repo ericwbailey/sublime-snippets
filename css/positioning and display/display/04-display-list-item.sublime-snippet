@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+display: list-item;$0
+]]></content>
+	<tabTrigger>disp</tabTrigger>
+	<scope>text.css</scope>
+	<description>display: list-item</description>
+</snippet>

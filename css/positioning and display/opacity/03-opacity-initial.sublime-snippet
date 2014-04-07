@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+opacity: initial;$0
+]]></content>
+	<tabTrigger>opac</tabTrigger>
+	<scope>text.css</scope>
+	<description>opacity: initial</description>
+</snippet>

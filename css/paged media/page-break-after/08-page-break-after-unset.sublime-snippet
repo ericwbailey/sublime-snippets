@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+page-break-after: unset;$0
+]]></content>
+	<tabTrigger>pagba</tabTrigger>
+	<scope>text.css</scope>
+	<description>page-break-after: unset</description>
+</snippet>

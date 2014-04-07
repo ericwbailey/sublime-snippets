@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+:out-of-range$0
+]]></content>
+	<tabTrigger>:</tabTrigger>
+	<scope>text.css</scope>
+	<description>:out-of-range</description>
+</snippet>

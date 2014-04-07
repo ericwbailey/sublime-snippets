@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+empty-cells: inherit;$0
+]]></content>
+	<tabTrigger>empc</tabTrigger>
+	<scope>text.css</scope>
+	<description>empty-cells: inherit</description>
+</snippet>

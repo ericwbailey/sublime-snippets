@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+outline-style: inset;$0
+]]></content>
+	<tabTrigger>outs</tabTrigger>
+	<scope>text.css</scope>
+	<description>outline-style: inset</description>
+</snippet>

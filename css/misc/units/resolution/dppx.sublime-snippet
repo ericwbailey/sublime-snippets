@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-dpcm
+dppx
 ]]></content>
-	<tabTrigger>res</tabTrigger>
+	<tabTrigger>m</tabTrigger>
 	<scope>constant.other.unit.sass</scope>
-	<description>dpcm</description>
+	<description>dppx</description>
 </snippet>

@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-dppx
+dpi
 ]]></content>
-	<tabTrigger>res</tabTrigger>
+	<tabTrigger>m</tabTrigger>
 	<scope>constant.other.unit.sass</scope>
-	<description>dppx</description>
+	<description>dpi</description>
 </snippet>

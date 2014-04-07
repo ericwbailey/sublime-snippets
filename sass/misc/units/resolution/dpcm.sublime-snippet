@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-dpi
+dpcm
 ]]></content>
-	<tabTrigger>res</tabTrigger>
+	<tabTrigger>m</tabTrigger>
 	<scope>constant.other.unit.sass</scope>
-	<description>dpi</description>
+	<description>dpcm</description>
 </snippet>

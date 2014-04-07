@@ -11,12 +11,12 @@ As opposed to something like [Emmet](http://emmet.io/) (which is an absolutely w
 ## Approach
 
 ### Modular
-Because I am ~~bad at coding~~ a fan of modular-based approaches, each snippet is a self-contained file so the project can be a little more adaptable and portable for future efforts. This project's origin was a [TextMate](http://macromates.com/) snippet library, after all
+Because I am ~~bad at coding~~ a fan of modular-based approaches, each snippet is a self-contained file so the project can be a little more adaptable, expandable, and mallable with future efforts. This project's origin was a [TextMate](http://macromates.com/) snippet library, so there's that.
 
 ### Commenting and legibility
-Verbosity is nice. Major HTML sectioning elements and complicated embeds/forms/etc. have start of/end of commenting to help when wayfinding when coding or inspecting. Remove to shave size off for larger-scale sites. 
+Verbosity is nice. Major HTML sectioning elements and complicated embeds/forms/etc. have start of/end of commenting to help when wayfinding when coding or inspecting. 
 
-Indentation is generous. Space is cheap, should be minified, and code written with legibility in mind makes for easier understanding and interpretation.
+Indentation is generous. Space is cheap, should be minified, and code written with legibility and consistency in mind makes for easier understanding and interpretation.
 
 ### Snippet ordering and naming
 Sublime lists snippets with a common Tab Trigger in alphabetical order. Each snippet's filename has an `xx-name-attribute` convention, to allow for manual ordering of snippets. Commonly used code patterns are put first, but alternatives are always available.

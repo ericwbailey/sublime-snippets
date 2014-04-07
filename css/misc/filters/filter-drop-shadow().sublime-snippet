@@ -4,5 +4,5 @@ filter: drop-shadow(${1:offset-x>} ${2:offset-y} ${3:blur-radius (optional)} ${4
 ]]></content>
 	<tabTrigger>filt</tabTrigger>
 	<scope>text.css</scope>
-	<description>filter: drop-shadow()
+	<description>filter: drop-shadow()</description>
 </snippet>

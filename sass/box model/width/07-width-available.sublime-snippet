@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+width: available;$0
+]]></content>
+	<tabTrigger>widt</tabTrigger>
+	<scope>text.sass</scope>
+	<description>width: available</description>
+</snippet>

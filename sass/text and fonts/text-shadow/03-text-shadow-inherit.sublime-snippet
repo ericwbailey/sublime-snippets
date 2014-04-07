@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+text-shadow: inherit;$0
+]]></content>
+	<tabTrigger>texs</tabTrigger>
+	<scope>text.sass</scope>
+	<description>text-shadow: inherit</description>
+</snippet>

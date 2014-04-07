@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+text-transform: full-width;$0
+]]></content>
+	<tabTrigger>text</tabTrigger>
+	<scope>text.sass</scope>
+	<description>text-transform: full-width</description>
+</snippet>

@@ -2,7 +2,7 @@
 	<content><![CDATA[
 unicode-bidi: bidi-override;$0
 ]]></content>
-	<tabTrigger>unic</tabTrigger>
+	<tabTrigger>unib</tabTrigger>
 	<scope>text.sass</scope>
 	<description>unicode-bidi: bidi-override</description>
 </snippet>

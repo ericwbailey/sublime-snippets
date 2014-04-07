@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+unicode-range: U+$1;$0
+]]></content>
+	<tabTrigger>unir</tabTrigger>
+	<scope>text.sass</scope>
+	<description>unicode-range: single codepoint</description>
+</snippet>

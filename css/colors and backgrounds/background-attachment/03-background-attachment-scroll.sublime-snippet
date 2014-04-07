@@ -3,6 +3,6 @@
 background-attachment: scroll;$0
 ]]></content>
 	<tabTrigger>baca</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>background-attachment: scroll</description>
 </snippet>

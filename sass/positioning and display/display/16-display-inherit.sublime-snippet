@@ -3,6 +3,6 @@
 display: inherit;$0
 ]]></content>
 	<tabTrigger>disp</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>display: inherit</description>
 </snippet>

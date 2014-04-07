@@ -3,6 +3,6 @@
 break-before: verso;$0
 ]]></content>
 	<tabTrigger>breb</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>break-before: verso</description>
 </snippet>

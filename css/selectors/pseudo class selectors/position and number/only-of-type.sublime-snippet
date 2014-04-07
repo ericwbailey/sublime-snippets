@@ -3,6 +3,6 @@
 :only-of-type$0
 ]]></content>
 	<tabTrigger>:</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>:only-of-type</description>
 </snippet>

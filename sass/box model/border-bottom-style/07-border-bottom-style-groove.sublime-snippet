@@ -3,6 +3,6 @@
 border-bottom-style: groove;$0
 ]]></content>
 	<tabTrigger>borbs</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>border-bottom-style: groove</description>
 </snippet>

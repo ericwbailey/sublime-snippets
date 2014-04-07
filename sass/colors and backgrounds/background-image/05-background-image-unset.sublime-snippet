@@ -3,6 +3,6 @@
 background-image: unset;$0
 ]]></content>
 	<tabTrigger>baci</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>background-image: unset</description>
 </snippet>

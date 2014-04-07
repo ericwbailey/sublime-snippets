@@ -3,6 +3,6 @@
 margin-right: unset;$0
 ]]></content>
 	<tabTrigger>marr</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>margin-right: unset</description>
 </snippet>

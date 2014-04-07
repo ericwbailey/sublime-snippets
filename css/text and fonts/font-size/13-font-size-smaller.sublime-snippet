@@ -3,6 +3,6 @@
 font-size: smaller;$0
 ]]></content>
 	<tabTrigger>fons</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>font-size: smaller</description>
 </snippet>

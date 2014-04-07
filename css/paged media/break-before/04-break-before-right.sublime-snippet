@@ -3,6 +3,6 @@
 break-before: right;$0
 ]]></content>
 	<tabTrigger>breb</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>break-before: right</description>
 </snippet>

@@ -3,6 +3,6 @@
 background-attachment: unset;$0
 ]]></content>
 	<tabTrigger>baca</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>background-attachment: unset</description>
 </snippet>

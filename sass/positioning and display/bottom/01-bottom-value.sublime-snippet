@@ -3,6 +3,6 @@
 bottom: $0;
 ]]></content>
 	<tabTrigger>bott</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>bottom: value</description>
 </snippet>

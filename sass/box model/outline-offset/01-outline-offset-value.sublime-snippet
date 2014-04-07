@@ -3,6 +3,6 @@
 outline-offset: $1;$0
 ]]></content>
 	<tabTrigger>outo</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>outline-offset: value</description>
 </snippet>

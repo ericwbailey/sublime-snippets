@@ -3,6 +3,6 @@
 z-index: unset;$0
 ]]></content>
 	<tabTrigger>zind</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>z-index: unset</description>
 </snippet>

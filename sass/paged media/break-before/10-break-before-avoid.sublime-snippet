@@ -3,6 +3,6 @@
 break-before: avoid;$0
 ]]></content>
 	<tabTrigger>breb</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>break-before: avoid</description>
 </snippet>

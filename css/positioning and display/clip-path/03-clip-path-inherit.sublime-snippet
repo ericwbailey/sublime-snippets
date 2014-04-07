@@ -3,6 +3,6 @@
 clip-path: inherit;$0
 ]]></content>
 	<tabTrigger>clipp</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>clip-path: inherit</description>
 </snippet>

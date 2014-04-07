@@ -3,6 +3,6 @@
 background-repeat: inherit;$0
 ]]></content>
 	<tabTrigger>bacr</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>background-repeat: inherit</description>
 </snippet>

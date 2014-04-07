@@ -3,6 +3,6 @@
 flex-wrap: inherit;$0
 ]]></content>
 	<tabTrigger>flexw</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>flex-wrap: inherit</description>
 </snippet>

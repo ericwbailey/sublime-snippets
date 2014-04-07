@@ -3,6 +3,6 @@
 orphans: $1;$0
 ]]></content>
 	<tabTrigger>orph</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>orphans</description>
 </snippet>

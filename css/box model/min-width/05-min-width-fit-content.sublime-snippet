@@ -3,6 +3,6 @@
 min-width: fit-content;$0
 ]]></content>
 	<tabTrigger>minw</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>min-width: fit-content</description>
 </snippet>

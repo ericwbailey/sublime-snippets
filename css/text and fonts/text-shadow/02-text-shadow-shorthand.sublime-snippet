@@ -3,6 +3,6 @@
 text-shadow: ${1:color} ${2:offset-x} ${3:offset-y} ${4:blur-radius};$0
 ]]></content>
 	<tabTrigger>texs</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>text-shadow: shorthand</description>
 </snippet>

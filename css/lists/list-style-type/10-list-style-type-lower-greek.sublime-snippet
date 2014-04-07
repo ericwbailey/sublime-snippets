@@ -3,6 +3,6 @@
 list-style-type: lower-greek;$0
 ]]></content>
 	<tabTrigger>lisst</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>list-style-type: lower-greek (α)</description>
 </snippet>

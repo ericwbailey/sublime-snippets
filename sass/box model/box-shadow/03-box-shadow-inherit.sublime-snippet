@@ -3,6 +3,6 @@
 box-shadow: inherit;$0
 ]]></content>
 	<tabTrigger>boxs</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>box-shadow: inherit</description>
 </snippet>

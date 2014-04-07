@@ -3,6 +3,6 @@
 caption-side: bottom;$0
 ]]></content>
 	<tabTrigger>caps</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>caption-side: bottom</description>
 </snippet>

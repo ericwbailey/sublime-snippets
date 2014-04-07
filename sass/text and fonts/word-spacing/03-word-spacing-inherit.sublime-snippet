@@ -3,6 +3,6 @@
 word-spacing: inherit;$0
 ]]></content>
 	<tabTrigger>wors</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>word-spacing: inherit</description>
 </snippet>

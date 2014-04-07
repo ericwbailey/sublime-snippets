@@ -3,6 +3,6 @@
 list-style: unset;$0
 ]]></content>
 	<tabTrigger>liss</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>list-style: unset</description>
 </snippet>

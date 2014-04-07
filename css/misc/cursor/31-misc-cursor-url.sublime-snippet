@@ -3,6 +3,6 @@
 cursor: url('../img/$1.cur')${2:, $3{:x-coord: 1-32 or auto} $4{:y-coord: 1-32 or auto}};$0
 ]]></content>
 	<tabTrigger>cur</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>cursor: url</description>
 </snippet>

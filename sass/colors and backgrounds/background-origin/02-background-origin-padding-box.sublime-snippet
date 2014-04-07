@@ -3,6 +3,6 @@
 background-origin: padding-box;$0
 ]]></content>
 	<tabTrigger>baco</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>background-origin: padding-box</description>
 </snippet>

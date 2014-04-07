@@ -3,6 +3,6 @@
 column-rule-color: inherit;$0
 ]]></content>
 	<tabTrigger>colurc</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>column-rule-color: inherit</description>
 </snippet>

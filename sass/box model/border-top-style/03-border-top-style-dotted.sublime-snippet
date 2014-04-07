@@ -3,6 +3,6 @@
 border-top-style: dotted;$0
 ]]></content>
 	<tabTrigger>borts</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>border-top-style: dotted</description>
 </snippet>

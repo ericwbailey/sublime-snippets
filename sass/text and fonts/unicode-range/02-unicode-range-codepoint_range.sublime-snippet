@@ -3,6 +3,6 @@
 unicode-range: U+$1-$2;$0
 ]]></content>
 	<tabTrigger>unir</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>unicode-range: codepoint range</description>
 </snippet>

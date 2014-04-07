@@ -3,6 +3,6 @@
 content: none;$0
 ]]></content>
 	<tabTrigger>cont</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>content: none</description>
 </snippet>

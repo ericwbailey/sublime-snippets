@@ -3,6 +3,6 @@
 height: available;$0
 ]]></content>
 	<tabTrigger>heig</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>height: available</description>
 </snippet>

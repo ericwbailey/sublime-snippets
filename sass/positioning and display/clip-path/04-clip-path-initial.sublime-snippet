@@ -3,6 +3,6 @@
 clip-path: initial;$0
 ]]></content>
 	<tabTrigger>clipp</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>clip-path: initial</description>
 </snippet>

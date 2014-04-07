@@ -3,6 +3,6 @@
 margin-right: $1;$0
 ]]></content>
 	<tabTrigger>marr</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>margin-right: value</description>
 </snippet>

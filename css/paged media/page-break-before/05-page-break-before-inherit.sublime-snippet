@@ -3,6 +3,6 @@
 page-break-before: inherit;$0
 ]]></content>
 	<tabTrigger>pagbb</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>page-break-before: inherit</description>
 </snippet>

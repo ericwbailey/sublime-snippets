@@ -3,6 +3,6 @@
 counter-increment: none;$0
 ]]></content>
 	<tabTrigger>coui</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>counter-increment: none</description>
 </snippet>

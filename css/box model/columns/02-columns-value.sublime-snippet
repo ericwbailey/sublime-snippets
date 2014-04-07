@@ -3,6 +3,6 @@
 columns: $1;$0
 ]]></content>
 	<tabTrigger>colu</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>columns: value</description>
 </snippet>

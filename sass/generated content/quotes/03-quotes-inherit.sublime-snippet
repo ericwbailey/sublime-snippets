@@ -3,6 +3,6 @@
 quotes: inherit;$0
 ]]></content>
 	<tabTrigger>quot</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>quotes: inherit</description>
 </snippet>

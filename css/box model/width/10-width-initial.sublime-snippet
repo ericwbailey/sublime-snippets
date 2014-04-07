@@ -3,6 +3,6 @@
 width: initial;$0
 ]]></content>
 	<tabTrigger>widt</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>width: initial</description>
 </snippet>

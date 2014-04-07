@@ -3,6 +3,6 @@
 font-size-adjust: initial;$0
 ]]></content>
 	<tabTrigger>fonsa</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>font-size-adjust: initial</description>
 </snippet>

@@ -3,6 +3,6 @@
 border-radius: initial;$0
 ]]></content>
 	<tabTrigger>bordr</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>border-radius: initial</description>
 </snippet>

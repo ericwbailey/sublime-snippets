@@ -3,6 +3,6 @@
 box-sizing: inherit;$0
 ]]></content>
 	<tabTrigger>boxs</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>box-sizing: inherit</description>
 </snippet>

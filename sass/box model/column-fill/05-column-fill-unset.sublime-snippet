@@ -3,6 +3,6 @@
 column-fill: unset;$0
 ]]></content>
 	<tabTrigger>colf</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>column-fill: unset</description>
 </snippet>

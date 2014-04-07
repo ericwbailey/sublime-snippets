@@ -3,6 +3,6 @@
 background-repeat: round;$0
 ]]></content>
 	<tabTrigger>bacr</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>background-repeat: round</description>
 </snippet>

@@ -3,6 +3,6 @@
 border-bottom-style: unset;$0
 ]]></content>
 	<tabTrigger>borbs</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>border-bottom-style: unset</description>
 </snippet>

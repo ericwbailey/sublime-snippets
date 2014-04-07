@@ -3,6 +3,6 @@
 position: sticky;$0
 ]]></content>
 	<tabTrigger>posi</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>position: sticky</description>
 </snippet>

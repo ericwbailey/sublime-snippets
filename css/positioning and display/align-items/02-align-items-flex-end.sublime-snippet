@@ -3,6 +3,6 @@
 align-items: flex-end;
 ]]></content>
 	<tabTrigger>alii</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>align-items: flex-end</description>
 </snippet>

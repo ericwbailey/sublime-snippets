@@ -3,6 +3,6 @@
 tab-size: initial;$0
 ]]></content>
 	<tabTrigger>tabs</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>tab-size: initial</description>
 </snippet>

@@ -3,6 +3,6 @@
 white-space: initial;$0
 ]]></content>
 	<tabTrigger>whis</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>white-space: initial</description>
 </snippet>

@@ -3,6 +3,6 @@
 z-index: inherit;
 ]]></content>
 	<tabTrigger>zind</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>z-index: inherit</description>
 </snippet>

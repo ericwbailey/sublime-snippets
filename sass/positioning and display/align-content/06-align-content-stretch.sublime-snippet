@@ -3,6 +3,6 @@
 align-content: stretch;
 ]]></content>
 	<tabTrigger>alic</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>align-content: stretch</description>
 </snippet>

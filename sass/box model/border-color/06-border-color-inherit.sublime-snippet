@@ -3,6 +3,6 @@
 border-color: inherit;$0
 ]]></content>
 	<tabTrigger>borc</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>border-color: inherit</description>
 </snippet>

@@ -3,6 +3,6 @@
 margin-top: unset;$0
 ]]></content>
 	<tabTrigger>mart</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>margin-top: unset</description>
 </snippet>

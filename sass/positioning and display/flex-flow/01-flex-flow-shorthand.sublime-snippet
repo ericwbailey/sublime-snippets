@@ -3,6 +3,6 @@
 flex-flow: ${1:flex-direction} ${2:flex-wrap};$0
 ]]></content>
 	<tabTrigger>flexf</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>flex-flow: shorthand</description>
 </snippet>

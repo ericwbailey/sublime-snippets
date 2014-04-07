@@ -3,6 +3,6 @@
 border-left-style: double;$0
 ]]></content>
 	<tabTrigger>borls</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>border-left-style: double</description>
 </snippet>

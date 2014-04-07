@@ -3,6 +3,6 @@
 flex-wrap: wrap-reverse;$0
 ]]></content>
 	<tabTrigger>flexw</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>flex-wrap: wrap-reverse</description>
 </snippet>

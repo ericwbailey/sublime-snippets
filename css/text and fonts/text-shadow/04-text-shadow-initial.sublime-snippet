@@ -3,6 +3,6 @@
 text-shadow: initial;$0
 ]]></content>
 	<tabTrigger>texs</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>text-shadow: initial</description>
 </snippet>

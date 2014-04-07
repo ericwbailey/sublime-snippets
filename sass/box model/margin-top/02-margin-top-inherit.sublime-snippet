@@ -3,6 +3,6 @@
 margin-top: inherit;$0
 ]]></content>
 	<tabTrigger>mart</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>margin-top: inherit</description>
 </snippet>

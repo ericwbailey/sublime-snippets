@@ -3,6 +3,6 @@
 outline-style: inherit;$0
 ]]></content>
 	<tabTrigger>outs</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>outline-style: inherit</description>
 </snippet>

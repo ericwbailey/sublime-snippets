@@ -3,6 +3,6 @@
 background-size: inherit;$0
 ]]></content>
 	<tabTrigger>bacs</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>background-size: inherit</description>
 </snippet>

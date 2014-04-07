@@ -3,6 +3,6 @@
 list-style-image: initial;$0
 ]]></content>
 	<tabTrigger>lissi</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>list-style-image: initial</description>
 </snippet>

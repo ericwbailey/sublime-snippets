@@ -3,6 +3,6 @@
 cursor: help;$0
 ]]></content>
 	<tabTrigger>cur</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>cursor: help</description>
 </snippet>

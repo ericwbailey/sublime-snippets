@@ -3,6 +3,6 @@
 background: initial;$0
 ]]></content>
 	<tabTrigger>back</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>background: initial</description>
 </snippet>

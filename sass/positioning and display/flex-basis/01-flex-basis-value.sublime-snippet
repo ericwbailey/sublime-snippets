@@ -3,6 +3,6 @@
 flex-basis: ${1:absolute length or percentage};$0
 ]]></content>
 	<tabTrigger>flexb</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>flex-basis: value</description>
 </snippet>

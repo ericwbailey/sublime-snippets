@@ -3,6 +3,6 @@
 column-rule-color: initial;$0
 ]]></content>
 	<tabTrigger>colurc</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>column-rule-color: initial</description>
 </snippet>

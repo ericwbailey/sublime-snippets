@@ -3,6 +3,6 @@
 clip: rect(${1:top}, ${2:right}, ${3:bottom}, ${4:left});$0
 ]]></content>
 	<tabTrigger>clip</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>clip: shape</description>
 </snippet>

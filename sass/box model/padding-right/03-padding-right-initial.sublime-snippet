@@ -3,6 +3,6 @@
 padding-right: initial;$0
 ]]></content>
 	<tabTrigger>padr</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>padding-right: initial</description>
 </snippet>

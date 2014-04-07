@@ -3,6 +3,6 @@
 text-transform: uppercase;$0
 ]]></content>
 	<tabTrigger>text</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>text-transform: uppercase</description>
 </snippet>

@@ -3,6 +3,6 @@
 image-rendering: auto;$0
 ]]></content>
 	<tabTrigger>imar</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>image-rendering: auto</description>
 </snippet>

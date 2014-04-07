@@ -3,6 +3,6 @@
 flex-wrap: initial;$0
 ]]></content>
 	<tabTrigger>flexw</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>flex-wrap: initial</description>
 </snippet>

@@ -3,6 +3,6 @@
 top: $0;
 ]]></content>
 	<tabTrigger>top</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>top: value</description>
 </snippet>

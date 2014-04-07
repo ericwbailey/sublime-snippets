@@ -3,6 +3,6 @@
 clip: auto;$0
 ]]></content>
 	<tabTrigger>clip</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>clip: auto</description>
 </snippet>

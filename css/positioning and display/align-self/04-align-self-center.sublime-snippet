@@ -3,6 +3,6 @@
 align-self: center;
 ]]></content>
 	<tabTrigger>alis</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>align-self: center</description>
 </snippet>

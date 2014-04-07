@@ -3,6 +3,6 @@
 color: unset;$0
 ]]></content>
 	<tabTrigger>colo</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>color: unset</description>
 </snippet>

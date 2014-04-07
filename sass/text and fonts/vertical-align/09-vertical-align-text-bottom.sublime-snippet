@@ -3,6 +3,6 @@
 vertical-align: text-bottom;$0
 ]]></content>
 	<tabTrigger>vera</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>vertical-align: text-bottom</description>
 </snippet>

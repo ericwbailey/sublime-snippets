@@ -3,6 +3,6 @@
 border-radius: unset;$0
 ]]></content>
 	<tabTrigger>bordr</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>border-radius: unset</description>
 </snippet>

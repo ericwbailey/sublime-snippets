@@ -3,6 +3,6 @@
 border-left-style: outset;$0
 ]]></content>
 	<tabTrigger>borls</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>border-left-style: outset</description>
 </snippet>

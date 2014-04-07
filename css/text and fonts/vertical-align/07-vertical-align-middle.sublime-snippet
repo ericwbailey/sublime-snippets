@@ -3,6 +3,6 @@
 vertical-align: middle;$0
 ]]></content>
 	<tabTrigger>vera</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>vertical-align: middle</description>
 </snippet>

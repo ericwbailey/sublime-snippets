@@ -3,6 +3,6 @@
 unicode-bidi: initial;$0
 ]]></content>
 	<tabTrigger>unib</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>unicode-bidi: initial</description>
 </snippet>

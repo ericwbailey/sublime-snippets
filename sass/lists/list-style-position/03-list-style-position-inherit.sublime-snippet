@@ -3,6 +3,6 @@
 list-style-position: inherit;$0
 ]]></content>
 	<tabTrigger>lissp</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>list-style-position: inherit</description>
 </snippet>

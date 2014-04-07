@@ -3,6 +3,6 @@
 flex: ${1:flex-grow} ${2:flex-basis/flex-shrink};$0
 ]]></content>
 	<tabTrigger>flex</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>flex: flex-grow flex-basis/flex-shrink</description>
 </snippet>

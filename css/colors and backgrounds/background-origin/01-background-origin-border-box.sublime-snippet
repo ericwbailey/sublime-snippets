@@ -3,6 +3,6 @@
 background-origin: border-box;$0
 ]]></content>
 	<tabTrigger>baco</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>background-origin: border-box</description>
 </snippet>

@@ -3,6 +3,6 @@
 border-left-color: initial;$0
 ]]></content>
 	<tabTrigger>borlc</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>border-left-color: initial</description>
 </snippet>

@@ -3,6 +3,6 @@
 word-break: inherit;$0
 ]]></content>
 	<tabTrigger>worb</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>word-break: inherit</description>
 </snippet>

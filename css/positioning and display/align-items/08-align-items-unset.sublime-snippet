@@ -3,6 +3,6 @@
 align-items: unset;$0
 ]]></content>
 	<tabTrigger>alii</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>align-items: unset</description>
 </snippet>

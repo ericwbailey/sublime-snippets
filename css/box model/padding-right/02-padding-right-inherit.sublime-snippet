@@ -3,6 +3,6 @@
 padding-right: inherit;$0
 ]]></content>
 	<tabTrigger>padr</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>padding-right: inherit</description>
 </snippet>

@@ -3,6 +3,6 @@
 background-repeat: no-repeat;$0
 ]]></content>
 	<tabTrigger>bacr</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>background-repeat: no-repeat</description>
 </snippet>

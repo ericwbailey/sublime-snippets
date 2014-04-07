@@ -3,6 +3,6 @@
 flex-basis: unset;$0
 ]]></content>
 	<tabTrigger>flexb</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>flex-basis: unset</description>
 </snippet>

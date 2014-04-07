@@ -3,6 +3,6 @@
 font-size: xx-large;$0
 ]]></content>
 	<tabTrigger>fons</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>font-size: xx-large</description>
 </snippet>

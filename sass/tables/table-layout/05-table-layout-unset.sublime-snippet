@@ -3,6 +3,6 @@
 table-layout: unset;$0
 ]]></content>
 	<tabTrigger>tabl</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>table-layout: unset</description>
 </snippet>

@@ -3,6 +3,6 @@
 padding-left: unset;$0
 ]]></content>
 	<tabTrigger>padl</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>padding-left: unset</description>
 </snippet>

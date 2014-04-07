@@ -3,6 +3,6 @@
 border-bottom-style: ridge;$0
 ]]></content>
 	<tabTrigger>borbs</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>border-bottom-style: ridge</description>
 </snippet>

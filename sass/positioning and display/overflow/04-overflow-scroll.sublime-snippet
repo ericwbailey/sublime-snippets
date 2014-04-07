@@ -3,6 +3,6 @@
 overflow: scroll;$0
 ]]></content>
 	<tabTrigger>over</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>overflow: scroll</description>
 </snippet>

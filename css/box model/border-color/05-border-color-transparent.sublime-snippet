@@ -3,6 +3,6 @@
 border-color: transparent;$0
 ]]></content>
 	<tabTrigger>borc</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>border-color: transparent</description>
 </snippet>

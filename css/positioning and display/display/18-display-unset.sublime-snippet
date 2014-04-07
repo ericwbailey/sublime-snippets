@@ -3,6 +3,6 @@
 display: unset;$0
 ]]></content>
 	<tabTrigger>disp</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>display: unset</description>
 </snippet>

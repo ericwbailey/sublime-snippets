@@ -3,6 +3,6 @@
 border-right-style: inherit;$0
 ]]></content>
 	<tabTrigger>borrs</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>border-right-style: inherit</description>
 </snippet>

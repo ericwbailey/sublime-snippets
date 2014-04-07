@@ -3,6 +3,6 @@
 hyphens: unset;$0
 ]]></content>
 	<tabTrigger>hyp</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>hyphens: unset</description>
 </snippet>

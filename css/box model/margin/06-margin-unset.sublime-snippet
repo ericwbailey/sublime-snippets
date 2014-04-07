@@ -3,6 +3,6 @@
 margin: unset;$0
 ]]></content>
 	<tabTrigger>marg</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>margin: unset</description>
 </snippet>

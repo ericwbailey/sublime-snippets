@@ -3,6 +3,6 @@
 border-image-width: ${1:top} ${2:right} ${3:bottom} ${4:left};$0
 ]]></content>
 	<tabTrigger>boriw</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>border-image-width: top, right, bottom, left</description>
 </snippet>

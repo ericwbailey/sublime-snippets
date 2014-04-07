@@ -3,6 +3,6 @@
 white-space: pre-wrap;$0
 ]]></content>
 	<tabTrigger>whis</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>white-space: pre-wrap</description>
 </snippet>

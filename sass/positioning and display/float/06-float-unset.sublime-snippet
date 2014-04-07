@@ -3,6 +3,6 @@
 float: unset;$0
 ]]></content>
 	<tabTrigger>floa</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>float: unset</description>
 </snippet>

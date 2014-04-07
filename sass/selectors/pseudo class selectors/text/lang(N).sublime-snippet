@@ -3,6 +3,6 @@
 :lang(${1:en-us})$0
 ]]></content>
 	<tabTrigger>:</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>:lang</description>
 </snippet>

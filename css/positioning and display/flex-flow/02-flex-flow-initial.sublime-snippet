@@ -3,6 +3,6 @@
 flex-flow: initial;$0
 ]]></content>
 	<tabTrigger>flexf</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>flex-flow: initial</description>
 </snippet>

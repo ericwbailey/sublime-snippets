@@ -3,6 +3,6 @@
 column-rule-width: initial;$0
 ]]></content>
 	<tabTrigger>colurw</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>column-rule-width: initial</description>
 </snippet>

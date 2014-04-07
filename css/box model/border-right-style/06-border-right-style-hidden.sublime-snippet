@@ -3,6 +3,6 @@
 border-right-style: hidden;$0
 ]]></content>
 	<tabTrigger>borrs</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>border-right-style: hidden</description>
 </snippet>

@@ -3,6 +3,6 @@
 cursor: not-allowed;$0
 ]]></content>
 	<tabTrigger>cur</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>cursor: not-allowed</description>
 </snippet>

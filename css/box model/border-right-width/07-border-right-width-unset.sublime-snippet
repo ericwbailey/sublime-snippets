@@ -3,6 +3,6 @@
 border-right-width: unset;$0
 ]]></content>
 	<tabTrigger>borrw</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>border-right-width: unset</description>
 </snippet>

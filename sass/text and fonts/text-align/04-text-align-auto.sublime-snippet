@@ -3,6 +3,6 @@
 text-align: auto;$0
 ]]></content>
 	<tabTrigger>texa</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>text-align: auto</description>
 </snippet>

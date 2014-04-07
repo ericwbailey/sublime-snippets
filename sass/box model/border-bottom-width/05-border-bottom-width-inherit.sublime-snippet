@@ -3,6 +3,6 @@
 border-bottom-width: inherit;$0
 ]]></content>
 	<tabTrigger>borbw</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>border-bottom-width: inherit</description>
 </snippet>

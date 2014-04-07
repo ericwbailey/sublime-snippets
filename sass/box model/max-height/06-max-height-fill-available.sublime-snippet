@@ -3,6 +3,6 @@
 max-height: fill-available;$0
 ]]></content>
 	<tabTrigger>maxw</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>max-height: fill-available</description>
 </snippet>

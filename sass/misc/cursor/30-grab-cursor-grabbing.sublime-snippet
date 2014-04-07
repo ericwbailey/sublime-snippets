@@ -3,6 +3,6 @@
 cursor: grabbing;$0
 ]]></content>
 	<tabTrigger>cur</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>cursor: grabbing</description>
 </snippet>

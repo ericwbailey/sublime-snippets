@@ -3,6 +3,6 @@
 clear: inherit;
 ]]></content>
 	<tabTrigger>clea</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>clear: inherit</description>
 </snippet>

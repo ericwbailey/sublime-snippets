@@ -3,6 +3,6 @@
 overflow-y: visible;$0
 ]]></content>
 	<tabTrigger>overy</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>overflow-y: visible</description>
 </snippet>

@@ -3,6 +3,6 @@
 max-width: initial;$0
 ]]></content>
 	<tabTrigger>maxw</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>max-width: initial</description>
 </snippet>

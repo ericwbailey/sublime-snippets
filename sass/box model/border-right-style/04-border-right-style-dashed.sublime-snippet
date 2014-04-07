@@ -3,6 +3,6 @@
 border-right-style: dashed;$0
 ]]></content>
 	<tabTrigger>borrs</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>border-right-style: dashed</description>
 </snippet>

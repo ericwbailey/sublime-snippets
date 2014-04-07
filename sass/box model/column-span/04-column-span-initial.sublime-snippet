@@ -3,6 +3,6 @@
 column-span: initial;$0
 ]]></content>
 	<tabTrigger>cols</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>column-span: initial</description>
 </snippet>

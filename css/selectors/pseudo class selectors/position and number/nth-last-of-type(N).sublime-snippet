@@ -3,6 +3,6 @@
 :nth-last-of-type($1)$0
 ]]></content>
 	<tabTrigger>:</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>:nth-last-of-type(N)</description>
 </snippet>

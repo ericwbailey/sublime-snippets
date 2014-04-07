@@ -3,6 +3,6 @@
 order: unset;$0
 ]]></content>
 	<tabTrigger>orde</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>order: unset</description>
 </snippet>

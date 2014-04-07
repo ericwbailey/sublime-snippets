@@ -3,6 +3,6 @@
 text-overflow: inherit;$0
 ]]></content>
 	<tabTrigger>texo</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>text-overflow: inherit</description>
 </snippet>

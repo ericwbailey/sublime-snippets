@@ -3,6 +3,6 @@
 letter-spacing: unset;$0
 ]]></content>
 	<tabTrigger>lets</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>letter-spacing: unset</description>
 </snippet>

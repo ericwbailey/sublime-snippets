@@ -3,6 +3,6 @@
 background-image: url('../img/$1');$0
 ]]></content>
 	<tabTrigger>baci</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>background-image: url</description>
 </snippet>

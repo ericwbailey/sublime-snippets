@@ -3,6 +3,6 @@
 :nth-of-type($1)$0
 ]]></content>
 	<tabTrigger>:</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>:nth-of-type(N)</description>
 </snippet>

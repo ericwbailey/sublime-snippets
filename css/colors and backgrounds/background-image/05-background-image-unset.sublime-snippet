@@ -3,6 +3,6 @@
 background-image: unset;$0
 ]]></content>
 	<tabTrigger>baci</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>background-image: unset</description>
 </snippet>

@@ -3,6 +3,6 @@
 background-size: ${1:auto, length/percentage, cover, contain};$0
 ]]></content>
 	<tabTrigger>bacs</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>background-size: value value</description>
 </snippet>

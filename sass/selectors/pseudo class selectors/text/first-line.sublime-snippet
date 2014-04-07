@@ -3,6 +3,6 @@
 ::first-line$0
 ]]></content>
 	<tabTrigger>:</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>:first-line</description>
 </snippet>

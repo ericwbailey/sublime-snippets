@@ -3,6 +3,6 @@
 border-bottom-style: hidden;$0
 ]]></content>
 	<tabTrigger>borbs</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>border-bottom-style: hidden</description>
 </snippet>

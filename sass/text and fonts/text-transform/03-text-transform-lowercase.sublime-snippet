@@ -3,6 +3,6 @@
 text-transform: lowercase;$0
 ]]></content>
 	<tabTrigger>text</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>text-transform: lowercase</description>
 </snippet>

@@ -3,6 +3,6 @@
 image-rendering: pixelated;$0
 ]]></content>
 	<tabTrigger>imar</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>image-rendering: pixelated</description>
 </snippet>

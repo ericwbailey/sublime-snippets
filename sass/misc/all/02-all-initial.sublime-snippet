@@ -3,6 +3,6 @@
 all: initial;$0
 ]]></content>
 	<tabTrigger>all</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>all: initial</description>
 </snippet>

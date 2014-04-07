@@ -3,6 +3,6 @@
 page-break-after: always;$0
 ]]></content>
 	<tabTrigger>pagba</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>page-break-after: always</description>
 </snippet>

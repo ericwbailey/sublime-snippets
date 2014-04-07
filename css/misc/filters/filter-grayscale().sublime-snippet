@@ -3,6 +3,6 @@
 filter: grayscale(${1:0-100}%);$0
 ]]></content>
 	<tabTrigger>filt</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>filter: grayscale()</description>
 </snippet>

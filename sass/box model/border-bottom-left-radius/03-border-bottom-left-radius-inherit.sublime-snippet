@@ -3,6 +3,6 @@
 border-bottom-left-radius: inherit;$0
 ]]></content>
 	<tabTrigger>borblr</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>border-bottom-left-radius: inherit</description>
 </snippet>

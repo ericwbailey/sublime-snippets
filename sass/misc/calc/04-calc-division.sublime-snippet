@@ -3,6 +3,6 @@
 calc: ($1 / ${2:must be a number});$0
 ]]></content>
 	<tabTrigger>calc</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>calc: division</description>
 </snippet>

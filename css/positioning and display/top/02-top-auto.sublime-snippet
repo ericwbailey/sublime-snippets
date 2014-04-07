@@ -3,6 +3,6 @@
 top: auto;$0
 ]]></content>
 	<tabTrigger>top</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>top: auto</description>
 </snippet>

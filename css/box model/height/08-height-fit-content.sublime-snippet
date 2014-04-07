@@ -3,6 +3,6 @@
 height: fit-content;$0
 ]]></content>
 	<tabTrigger>heig</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>height: fit-content</description>
 </snippet>

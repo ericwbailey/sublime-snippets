@@ -3,6 +3,6 @@
 background-color: initial;$0
 ]]></content>
 	<tabTrigger>bacc</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>background-color: initial</description>
 </snippet>

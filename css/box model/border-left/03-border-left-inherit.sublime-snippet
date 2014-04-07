@@ -3,6 +3,6 @@
 border-left: inherit;$0
 ]]></content>
 	<tabTrigger>borl</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>border-left: inherit</description>
 </snippet>

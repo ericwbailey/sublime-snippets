@@ -3,6 +3,6 @@
 empty-cells: unset;$0
 ]]></content>
 	<tabTrigger>empc</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>empty-cells: unset</description>
 </snippet>

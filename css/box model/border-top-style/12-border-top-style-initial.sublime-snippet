@@ -3,6 +3,6 @@
 border-top-style: initial;$0
 ]]></content>
 	<tabTrigger>borts</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>border-top-style: initial</description>
 </snippet>

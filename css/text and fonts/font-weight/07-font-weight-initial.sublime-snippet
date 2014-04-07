@@ -3,6 +3,6 @@
 font-weight: initial;$0
 ]]></content>
 	<tabTrigger>fonw</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>font-weight: initial</description>
 </snippet>

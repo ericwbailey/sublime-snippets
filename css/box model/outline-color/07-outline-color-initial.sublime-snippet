@@ -3,6 +3,6 @@
 outline-color: initial;$0
 ]]></content>
 	<tabTrigger>outc</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>outline-color: initial</description>
 </snippet>

@@ -3,6 +3,6 @@
 caption-side: inherit;$0
 ]]></content>
 	<tabTrigger>caps</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>caption-side: inherit</description>
 </snippet>

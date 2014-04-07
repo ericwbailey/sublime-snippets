@@ -3,6 +3,6 @@
 pointer-events: visibleFill;$0
 ]]></content>
 	<tabTrigger>poie</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>pointer-events: visibleFill (SVG only)</description>
 </snippet>

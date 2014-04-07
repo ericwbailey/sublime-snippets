@@ -3,6 +3,6 @@
 font-variant: initial;$0
 ]]></content>
 	<tabTrigger>fonv</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>font-variant: initial</description>
 </snippet>

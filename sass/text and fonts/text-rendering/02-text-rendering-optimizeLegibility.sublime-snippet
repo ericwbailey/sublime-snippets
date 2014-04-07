@@ -3,6 +3,6 @@
 text-rendering: optimizeLegibility;$0
 ]]></content>
 	<tabTrigger>texr</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>text-rendering: optimizeLegibility</description>
 </snippet>

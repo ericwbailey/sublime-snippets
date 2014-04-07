@@ -3,6 +3,6 @@
 flex-direction: initial;$0
 ]]></content>
 	<tabTrigger>flexd</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>flex-direction: initial</description>
 </snippet>

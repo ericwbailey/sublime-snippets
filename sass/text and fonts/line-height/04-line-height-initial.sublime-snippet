@@ -3,6 +3,6 @@
 line-height: initial;$0
 ]]></content>
 	<tabTrigger>linh</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>line-height: initial</description>
 </snippet>

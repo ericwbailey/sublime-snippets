@@ -3,6 +3,6 @@
 border: unset;$0
 ]]></content>
 	<tabTrigger>bord</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>border: unset</description>
 </snippet>

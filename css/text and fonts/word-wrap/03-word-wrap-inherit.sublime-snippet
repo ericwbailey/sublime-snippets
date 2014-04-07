@@ -3,6 +3,6 @@
 word-wrap: inherit;$0
 ]]></content>
 	<tabTrigger>worw</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>word-wrap: inherit</description>
 </snippet>

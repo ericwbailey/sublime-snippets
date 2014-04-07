@@ -3,6 +3,6 @@
 border-image-source: inherit;$0
 ]]></content>
 	<tabTrigger>boris</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>border-image-source: inherit</description>
 </snippet>

@@ -3,6 +3,6 @@
 flex-wrap: wrap;$0
 ]]></content>
 	<tabTrigger>flexw</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>flex-wrap: wrap</description>
 </snippet>

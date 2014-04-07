@@ -3,6 +3,6 @@
 font-variant: small-caps;$0
 ]]></content>
 	<tabTrigger>fonv</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>font-variant: small-caps</description>
 </snippet>

@@ -3,6 +3,6 @@
 align-self: stretch;
 ]]></content>
 	<tabTrigger>alis</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>align-self: stretch</description>
 </snippet>

@@ -3,6 +3,6 @@
 max-height: initial;$0
 ]]></content>
 	<tabTrigger>maxh</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>max-height: initial</description>
 </snippet>

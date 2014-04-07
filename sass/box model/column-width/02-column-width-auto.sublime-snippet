@@ -3,6 +3,6 @@
 column-width: auto;$0
 ]]></content>
 	<tabTrigger>colw</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>column-width: auto</description>
 </snippet>

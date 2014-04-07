@@ -3,6 +3,6 @@
 text-rendering: optimizeSpeed;$0
 ]]></content>
 	<tabTrigger>texr</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>text-rendering: optimizeSpeed</description>
 </snippet>

@@ -3,6 +3,6 @@
 padding-bottom: inherit;$0
 ]]></content>
 	<tabTrigger>padb</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>padding-bottom: inherit</description>
 </snippet>

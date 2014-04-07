@@ -3,6 +3,6 @@
 visibility: hidden;
 ]]></content>
 	<tabTrigger>visi</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>visibility: hidden</description>
 </snippet>

@@ -3,6 +3,6 @@
 border-bottom-width: unset;$0
 ]]></content>
 	<tabTrigger>borbw</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>border-bottom-width: unset</description>
 </snippet>

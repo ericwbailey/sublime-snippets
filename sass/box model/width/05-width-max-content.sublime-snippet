@@ -3,6 +3,6 @@
 width: max-content;$0
 ]]></content>
 	<tabTrigger>widt</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>width: max-content</description>
 </snippet>

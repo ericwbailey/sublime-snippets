@@ -3,6 +3,6 @@
 align-self: auto;
 ]]></content>
 	<tabTrigger>alis</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>align-self: auto</description>
 </snippet>

@@ -3,6 +3,6 @@
 justify-content: center;$0
 ]]></content>
 	<tabTrigger>jusc</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>justify-content: center</description>
 </snippet>

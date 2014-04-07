@@ -3,6 +3,6 @@
 justify-content: space-between;$0
 ]]></content>
 	<tabTrigger>jusc</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>justify-content: space-between</description>
 </snippet>

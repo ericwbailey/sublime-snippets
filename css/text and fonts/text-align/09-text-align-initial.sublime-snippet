@@ -3,6 +3,6 @@
 text-align: initial;$0
 ]]></content>
 	<tabTrigger>texa</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>text-align: initial</description>
 </snippet>

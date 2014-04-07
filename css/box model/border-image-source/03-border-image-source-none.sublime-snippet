@@ -3,6 +3,6 @@
 border-image-source: none;$0
 ]]></content>
 	<tabTrigger>boris</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>border-image-source: none</description>
 </snippet>

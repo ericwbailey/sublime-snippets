@@ -3,6 +3,6 @@
 border-top-color: transparent;$0
 ]]></content>
 	<tabTrigger>bortc</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>border-top-color: transparent</description>
 </snippet>

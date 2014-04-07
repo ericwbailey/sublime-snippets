@@ -3,6 +3,6 @@
 border-color: rgba(${1:H}, {$2:S}, ${B:L}, ${A (0.0-1.0)});$0
 ]]></content>
 	<tabTrigger>borc</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>border-color: hsla</description>
 </snippet>

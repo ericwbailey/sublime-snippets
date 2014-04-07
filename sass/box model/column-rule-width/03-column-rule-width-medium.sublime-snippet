@@ -3,6 +3,6 @@
 column-rule-width: medium;$0
 ]]></content>
 	<tabTrigger>colurw</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>column-rule-width: medium</description>
 </snippet>

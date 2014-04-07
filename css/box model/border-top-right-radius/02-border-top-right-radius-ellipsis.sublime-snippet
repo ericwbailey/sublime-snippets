@@ -3,6 +3,6 @@
 border-top-right-radius: ${1:horizontal} ${2:vertical};$0
 ]]></content>
 	<tabTrigger>bortrr</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>border-top-right-radius: ellipsis</description>
 </snippet>

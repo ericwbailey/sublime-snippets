@@ -3,6 +3,6 @@
 break-after: right;$0
 ]]></content>
 	<tabTrigger>brea</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>break-after: right</description>
 </snippet>

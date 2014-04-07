@@ -3,6 +3,6 @@
 widows: inherit;$0
 ]]></content>
 	<tabTrigger>wido</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>widows: inherit</description>
 </snippet>

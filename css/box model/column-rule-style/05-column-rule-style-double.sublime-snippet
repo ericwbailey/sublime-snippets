@@ -3,6 +3,6 @@
 column-rule-style: double;$0
 ]]></content>
 	<tabTrigger>colurs</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>column-rule-style: double</description>
 </snippet>

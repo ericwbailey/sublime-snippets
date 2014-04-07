@@ -3,6 +3,6 @@
 clip: initial;$0
 ]]></content>
 	<tabTrigger>clip</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>clip: initial</description>
 </snippet>

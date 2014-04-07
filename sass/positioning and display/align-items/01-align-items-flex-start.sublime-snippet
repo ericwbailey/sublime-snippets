@@ -3,6 +3,6 @@
 align-items: flex-start;
 ]]></content>
 	<tabTrigger>alii</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>align-items: flex-start</description>
 </snippet>

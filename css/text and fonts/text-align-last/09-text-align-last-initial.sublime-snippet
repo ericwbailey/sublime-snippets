@@ -3,6 +3,6 @@
 text-align-last: initial;$0
 ]]></content>
 	<tabTrigger>texal</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>text-align-last: initial</description>
 </snippet>

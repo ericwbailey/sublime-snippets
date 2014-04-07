@@ -3,6 +3,6 @@
 font-weight: ${1:100-900 (400 is normal, 700 is bold)};$0
 ]]></content>
 	<tabTrigger>fonw</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>font-weight: value</description>
 </snippet>

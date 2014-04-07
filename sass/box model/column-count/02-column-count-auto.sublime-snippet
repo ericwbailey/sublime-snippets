@@ -3,6 +3,6 @@
 column-count: auto;$0
 ]]></content>
 	<tabTrigger>colc</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>column-count: auto</description>
 </snippet>

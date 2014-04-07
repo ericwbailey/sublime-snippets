@@ -3,6 +3,6 @@
 border-width: $1;$0
 ]]></content>
 	<tabTrigger>borw</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>border-width: value</description>
 </snippet>

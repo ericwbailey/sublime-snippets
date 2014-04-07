@@ -3,6 +3,6 @@
 column-gap: normal;$0
 ]]></content>
 	<tabTrigger>colg</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>column-gap: normal</description>
 </snippet>

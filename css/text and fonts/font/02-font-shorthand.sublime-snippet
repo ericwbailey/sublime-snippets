@@ -3,6 +3,6 @@
 font: ${1:font-style} ${2:font-variant} ${3:font-weight} ${4:font-size}/${5:line-height} ${1:font-family};$0
 ]]></content>
 	<tabTrigger>font</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>font: shorthand</description>
 </snippet>

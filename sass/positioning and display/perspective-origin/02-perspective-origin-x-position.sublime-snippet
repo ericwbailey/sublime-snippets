@@ -3,6 +3,6 @@
 perspective-origin: ${1:percentage, length, center, left, right, top, bottom};$0
 ]]></content>
 	<tabTrigger>pero</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>perspective-origin: x-position</description>
 </snippet>

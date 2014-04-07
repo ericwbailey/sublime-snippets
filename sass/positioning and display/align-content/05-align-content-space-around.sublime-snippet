@@ -3,6 +3,6 @@
 align-content: space-around;
 ]]></content>
 	<tabTrigger>alic</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>align-content: space-around</description>
 </snippet>

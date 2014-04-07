@@ -3,6 +3,6 @@
 page-break-inside: initial;$0
 ]]></content>
 	<tabTrigger>pagbi</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>page-break-inside: initial</description>
 </snippet>

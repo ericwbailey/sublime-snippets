@@ -3,6 +3,6 @@
 :last-child$0
 ]]></content>
 	<tabTrigger>:</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>:last-child</description>
 </snippet>

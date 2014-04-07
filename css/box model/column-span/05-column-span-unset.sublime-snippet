@@ -3,6 +3,6 @@
 column-span: unset;$0
 ]]></content>
 	<tabTrigger>cols</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>column-span: unset</description>
 </snippet>

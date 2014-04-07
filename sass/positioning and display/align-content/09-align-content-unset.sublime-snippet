@@ -3,6 +3,6 @@
 align-content: unset;
 ]]></content>
 	<tabTrigger>alic</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>align-content: unset</description>
 </snippet>

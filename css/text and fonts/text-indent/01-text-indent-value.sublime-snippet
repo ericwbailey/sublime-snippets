@@ -3,6 +3,6 @@
 text-indent: $1;$0
 ]]></content>
 	<tabTrigger>texi</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>text-indent: value</description>
 </snippet>

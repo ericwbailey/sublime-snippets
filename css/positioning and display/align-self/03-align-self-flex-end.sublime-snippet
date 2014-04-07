@@ -3,6 +3,6 @@
 align-self: flex-end;
 ]]></content>
 	<tabTrigger>alis</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>align-self: flex-end</description>
 </snippet>

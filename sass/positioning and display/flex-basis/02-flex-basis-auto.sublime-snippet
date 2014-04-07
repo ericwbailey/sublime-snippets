@@ -3,6 +3,6 @@
 flex-basis: auto;$0
 ]]></content>
 	<tabTrigger>flexb</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>flex-basis: auto</description>
 </snippet>

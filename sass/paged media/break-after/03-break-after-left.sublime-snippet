@@ -3,6 +3,6 @@
 break-after: left;$0
 ]]></content>
 	<tabTrigger>brea</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>break-after: left</description>
 </snippet>

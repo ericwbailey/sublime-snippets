@@ -3,6 +3,6 @@
 counter-reset: inherit;$0
 ]]></content>
 	<tabTrigger>cour</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>counter-reset: inherit</description>
 </snippet>

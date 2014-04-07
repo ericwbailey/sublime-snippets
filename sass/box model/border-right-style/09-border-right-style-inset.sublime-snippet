@@ -3,6 +3,6 @@
 border-right-style: inset;$0
 ]]></content>
 	<tabTrigger>borrs</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>border-right-style: inset</description>
 </snippet>

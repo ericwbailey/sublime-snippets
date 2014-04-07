@@ -3,6 +3,6 @@
 border: unset;$0
 ]]></content>
 	<tabTrigger>bord</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>border: unset</description>
 </snippet>

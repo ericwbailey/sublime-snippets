@@ -3,6 +3,6 @@
 columns: ${1:width} ${2:count};$0
 ]]></content>
 	<tabTrigger>colu</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>columns: width and count</description>
 </snippet>

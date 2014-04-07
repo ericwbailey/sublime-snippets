@@ -3,6 +3,6 @@
 column-width: unset;$0
 ]]></content>
 	<tabTrigger>colw</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>column-width: unset</description>
 </snippet>

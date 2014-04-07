@@ -3,6 +3,6 @@
 content: "$1";$0
 ]]></content>
 	<tabTrigger>cont</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>content: string</description>
 </snippet>

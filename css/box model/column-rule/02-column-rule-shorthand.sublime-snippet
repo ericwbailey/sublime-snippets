@@ -3,6 +3,6 @@
 column-rule: ${1:width} ${2:style} ${3:color};$0
 ]]></content>
 	<tabTrigger>colur</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>column-rule: shorthand</description>
 </snippet>

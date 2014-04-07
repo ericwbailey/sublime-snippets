@@ -3,6 +3,6 @@
 break-before: left;$0
 ]]></content>
 	<tabTrigger>breb</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>break-before: left</description>
 </snippet>

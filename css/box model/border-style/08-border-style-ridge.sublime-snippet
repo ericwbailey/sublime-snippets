@@ -3,6 +3,6 @@
 border-style: ridge;$0
 ]]></content>
 	<tabTrigger>bors</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>border-style: ridge</description>
 </snippet>

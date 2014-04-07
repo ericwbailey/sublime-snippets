@@ -3,6 +3,6 @@
 outline-width: medium;$0
 ]]></content>
 	<tabTrigger>outw</tabTrigger>
-	<scope>text.sass</scope>
+	<scope>source.sass</scope>
 	<description>outline-width: medium</description>
 </snippet>

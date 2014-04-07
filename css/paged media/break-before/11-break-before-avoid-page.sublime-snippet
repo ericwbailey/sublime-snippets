@@ -3,6 +3,6 @@
 break-before: avoid-page;$0
 ]]></content>
 	<tabTrigger>breb</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>break-before: avoid-page</description>
 </snippet>

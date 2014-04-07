@@ -3,6 +3,6 @@
 align-content: initial;
 ]]></content>
 	<tabTrigger>alic</tabTrigger>
-	<scope>text.css</scope>
+	<scope>source.css</scope>
 	<description>align-content: initial</description>
 </snippet>

@@ -3,17 +3,17 @@
 /! start of #$1
 audio#$1.$1[${2:controls="true" }${3:autoplay="true" }${4:loop="true" }${5:muted="true" }preload="none"]
 	source[type="audio/$6" src="media/audio/$7"]$8
-    <div class="notice-outdated">
-        <h3>
-            You are using an outdated browser
-        </h3>
-        <p>
-            Please <a rel="external" href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.
-        </p>
-        <p>
-            If you prefer, <a rel="download" "data-size"="$9" href="media/audio/$10" title="Download $10, $9">a copy of this audio file can be downloaded</a> for offline listening.
-        </p>
-    </div>
+	<div class="notice-outdated">
+		<h3>
+			You are using an outdated browser
+		</h3>
+		<p>
+			Please <a rel="external" href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.
+		</p>
+		<p>
+			If you prefer, <a rel="download" "data-size"="$9" href="media/audio/$10" title="Download $10, $9">a copy of this audio file can be downloaded</a> for offline listening.
+		</p>
+	</div>
 /! end of #$1$0
 ]]></content>
 	<tabTrigger>aud</tabTrigger>

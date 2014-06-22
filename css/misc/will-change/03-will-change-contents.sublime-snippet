@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+will-change: contents;$0
+]]></content>
+	<tabTrigger>wilc</tabTrigger>
+	<scope>source.css</scope>
+	<description>will-change: contents</description>
+</snippet>

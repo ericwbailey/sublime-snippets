@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+input[name="${1:email}" type="email" value="$2" placeholder="$3" pattern="[^ @]*@[^ @]*" autocorrect="off" autocapitalize="off" spellcheck="false" autocomplete="email"] $0
+]]></content>
+	<tabTrigger>inp</tabTrigger>
+	<scope>text.slim</scope>
+	<description>input type="email"</description>
+</snippet>

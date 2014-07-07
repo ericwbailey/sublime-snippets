@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+input[name="${1:cvc}" type="number" maxlength="4" placeholder="$2" autocomplete="cc-csc"] $0
+]]></content>
+	<tabTrigger>inp</tabTrigger>
+	<scope>text.slim</scope>
+	<description>input type="creditcard, cvc"</description>
+</snippet>

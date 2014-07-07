@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+input[name="${1:ccyear}" type="number" maxlength="4" placeholder="$2" autocomplete="cc-exp-year"] $0
+]]></content>
+	<tabTrigger>inp</tabTrigger>
+	<scope>text.slim</scope>
+	<description>input type="creditcard, ccyear"</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+input[name="${1:zip}" type="number" placeholder="$2"${3: pattern="(\d{5}([\-]\d{4})?)"} autocomplete="postal-code"] $0
+]]></content>
+	<tabTrigger>inp</tabTrigger>
+	<scope>text.slim</scope>
+	<description>input type="address, zip"</description>
+</snippet>

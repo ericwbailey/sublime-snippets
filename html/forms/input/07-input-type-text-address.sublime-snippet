@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<input name="${1:address}" type="text" value="$2" placeholder="$3" autocorrect="off" autocapitalize="on" spellcheck="false" autocomplete="street-address">$0
+]]></content>
+	<tabTrigger>inp</tabTrigger>
+	<scope>text.html</scope>
+	<description>input type="address, street address"</description>
+</snippet>

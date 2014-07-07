@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+input[name="${1:lname}" type="text" value="$2" placeholder="$3"${4: pattern="[a-zA-Z0-9]+"} autocorrect="off" autocapitalize="on" spellcheck="false" autocomplete="name"] $0
+]]></content>
+	<tabTrigger>inp</tabTrigger>
+	<scope>text.slim</scope>
+	<description>input type="name, last name"</description>
+</snippet>

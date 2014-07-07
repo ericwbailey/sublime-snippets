@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-<input name="$1" type="tel" value="$2" placeholder="$3">$0
+<input name="$1" type="number" placeholder="$2">$0
 ]]></content>
 	<tabTrigger>inp</tabTrigger>
 	<scope>text.html</scope>
-	<description>input type="tel"</description>
+	<description>input type="number"</description>
 </snippet>

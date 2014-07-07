@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<input name="${1:ccmonth}" type="number" maxlength="2" placeholder="$2" autocomplete="cc-exp-month">$0
+]]></content>
+	<tabTrigger>inp</tabTrigger>
+	<scope>text.html</scope>
+	<description>input type="creditcard, ccmonth"</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<input name="${1:cardnumber}" type="number" maxlength="19" placeholder="$2"${3: pattern="[0-9]{13,16}"} autocomplete="cc-number">$0
+]]></content>
+	<tabTrigger>inp</tabTrigger>
+	<scope>text.html</scope>
+	<description>input type="creditcard, cardnumber"</description>
+</snippet>

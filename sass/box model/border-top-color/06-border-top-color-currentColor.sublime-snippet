@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+border-top-color: currentColor;$0
+]]></content>
+	<tabTrigger>bortc</tabTrigger>
+	<scope>source.sass</scope>
+	<description>border-top-color: currentColor</description>
+</snippet>

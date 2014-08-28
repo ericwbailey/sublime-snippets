@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<!-- start of #$1 -->
+<div id="$1" class="$1">
+	$0
+</div>
+<!-- end of #$1 -->
+]]></content>
+	<tabTrigger>d</tabTrigger>
+	<scope>text.html</scope>
+	<description>div</description>
+</snippet>

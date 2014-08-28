@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<$1>
+    $0
+</$1>
+]]></content>
+	<tabTrigger>tag</tabTrigger>
+	<scope>text.html</scope>
+	<description>Generic Tag</description>
+</snippet>

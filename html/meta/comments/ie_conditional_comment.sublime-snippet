@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<!--[if IE]>
+	$0
+<![endif]-->
+]]></content>
+	<tabTrigger>/ie</tabTrigger>
+	<scope>text.html</scope>
+	<description>IE Conditional Comment</description>
+</snippet>

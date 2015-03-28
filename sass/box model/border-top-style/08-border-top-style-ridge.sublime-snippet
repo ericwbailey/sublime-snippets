@@ -3,6 +3,6 @@
 border-top-style: ridge;$0
 ]]></content>
 	<tabTrigger>borts</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>border-top-style: ridge</description>
 </snippet>

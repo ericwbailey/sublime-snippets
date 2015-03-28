@@ -3,6 +3,6 @@
 display: inline-table;$0
 ]]></content>
 	<tabTrigger>disp</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>display: inline-table</description>
 </snippet>

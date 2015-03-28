@@ -3,6 +3,6 @@
 column-span: none;$0
 ]]></content>
 	<tabTrigger>cols</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>column-span: none</description>
 </snippet>

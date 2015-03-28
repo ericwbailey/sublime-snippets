@@ -3,6 +3,6 @@
 tab-size: inherit;$0
 ]]></content>
 	<tabTrigger>tabs</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>tab-size: inherit</description>
 </snippet>

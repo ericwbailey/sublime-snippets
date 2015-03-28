@@ -3,6 +3,6 @@
 color: rgba(${1:R}, ${2:G}, ${3:B}, ${4:A (0.0-1.0)});$0
 ]]></content>
 	<tabTrigger>colo</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>color: rgba</description>
 </snippet>

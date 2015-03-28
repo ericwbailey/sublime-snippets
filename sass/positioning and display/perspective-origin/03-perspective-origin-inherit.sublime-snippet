@@ -3,6 +3,6 @@
 perspective-origin: inherit;$0
 ]]></content>
 	<tabTrigger>pero</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>perspective-origin: inherit</description>
 </snippet>

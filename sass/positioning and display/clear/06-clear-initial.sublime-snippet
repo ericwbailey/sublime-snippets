@@ -3,6 +3,6 @@
 clear: initial;$0
 ]]></content>
 	<tabTrigger>clea</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>clear: initial</description>
 </snippet>

@@ -3,6 +3,6 @@
 border-color: unset;$0
 ]]></content>
 	<tabTrigger>borc</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>border-color: unset</description>
 </snippet>

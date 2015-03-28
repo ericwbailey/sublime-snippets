@@ -3,6 +3,6 @@
 break-after: avoid;$0
 ]]></content>
 	<tabTrigger>brea</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>break-after: avoid</description>
 </snippet>

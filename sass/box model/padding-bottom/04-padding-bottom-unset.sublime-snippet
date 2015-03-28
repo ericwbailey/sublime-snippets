@@ -3,6 +3,6 @@
 padding-bottom: unset;$0
 ]]></content>
 	<tabTrigger>padb</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>padding-bottom: unset</description>
 </snippet>

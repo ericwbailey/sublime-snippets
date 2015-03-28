@@ -3,6 +3,6 @@
 margin: inherit;$0
 ]]></content>
 	<tabTrigger>marg</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>margin: inherit</description>
 </snippet>

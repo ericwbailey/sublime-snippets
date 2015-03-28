@@ -3,6 +3,6 @@
 border-top-style: inherit;$0
 ]]></content>
 	<tabTrigger>borts</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>border-top-style: inherit</description>
 </snippet>

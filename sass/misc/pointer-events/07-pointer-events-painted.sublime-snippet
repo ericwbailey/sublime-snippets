@@ -3,6 +3,6 @@
 pointer-events: painted;$0
 ]]></content>
 	<tabTrigger>poie</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>pointer-events: painted (SVG only)</description>
 </snippet>

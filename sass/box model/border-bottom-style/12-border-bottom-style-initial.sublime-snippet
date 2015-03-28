@@ -3,6 +3,6 @@
 border-bottom-style: initial;$0
 ]]></content>
 	<tabTrigger>borbs</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>border-bottom-style: initial</description>
 </snippet>

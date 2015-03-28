@@ -3,6 +3,6 @@
 calc($1 + $2);$0
 ]]></content>
 	<tabTrigger>calc</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>calc: addition</description>
 </snippet>

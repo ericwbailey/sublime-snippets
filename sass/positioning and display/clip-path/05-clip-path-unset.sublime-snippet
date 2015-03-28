@@ -3,6 +3,6 @@
 clip-path: unset;$0
 ]]></content>
 	<tabTrigger>clipp</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>clip-path: unset</description>
 </snippet>

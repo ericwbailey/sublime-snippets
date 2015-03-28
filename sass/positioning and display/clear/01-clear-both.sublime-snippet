@@ -3,6 +3,6 @@
 clear: both;
 ]]></content>
 	<tabTrigger>clea</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>clear: both</description>
 </snippet>

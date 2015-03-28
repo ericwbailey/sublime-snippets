@@ -3,6 +3,6 @@
 content: unset;$0
 ]]></content>
 	<tabTrigger>cont</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>content: unset</description>
 </snippet>

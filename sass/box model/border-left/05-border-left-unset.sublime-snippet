@@ -3,6 +3,6 @@
 border-left: unset;$0
 ]]></content>
 	<tabTrigger>borl</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>border-left: unset</description>
 </snippet>

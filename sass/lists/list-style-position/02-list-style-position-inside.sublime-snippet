@@ -3,6 +3,6 @@
 list-style-position: inside;$0
 ]]></content>
 	<tabTrigger>lissp</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>list-style-position: inside</description>
 </snippet>

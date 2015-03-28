@@ -3,6 +3,6 @@
 border-bottom-width: thick;$0
 ]]></content>
 	<tabTrigger>borbw</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>border-bottom-width: thick</description>
 </snippet>

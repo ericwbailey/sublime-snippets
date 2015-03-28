@@ -3,6 +3,6 @@
 word-wrap: unset;$0
 ]]></content>
 	<tabTrigger>worw</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>word-wrap: unset</description>
 </snippet>

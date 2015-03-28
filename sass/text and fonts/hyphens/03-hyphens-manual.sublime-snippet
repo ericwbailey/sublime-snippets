@@ -3,6 +3,6 @@
 hyphens: manual;$0
 ]]></content>
 	<tabTrigger>hyp</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>hyphens: manual</description>
 </snippet>

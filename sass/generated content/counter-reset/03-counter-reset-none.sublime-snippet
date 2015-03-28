@@ -3,6 +3,6 @@
 counter-reset: none;$0
 ]]></content>
 	<tabTrigger>cour</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>counter-reset: none</description>
 </snippet>

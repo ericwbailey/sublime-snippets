@@ -3,6 +3,6 @@
 cursor: sw-resize;$0
 ]]></content>
 	<tabTrigger>cur</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>cursor: sw-resize</description>
 </snippet>

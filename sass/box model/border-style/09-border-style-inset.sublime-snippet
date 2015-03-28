@@ -3,6 +3,6 @@
 border-style: inset;$0
 ]]></content>
 	<tabTrigger>bors</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>border-style: inset</description>
 </snippet>

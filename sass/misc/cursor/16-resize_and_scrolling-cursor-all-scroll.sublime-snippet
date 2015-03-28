@@ -3,6 +3,6 @@
 cursor: all-scroll;$0
 ]]></content>
 	<tabTrigger>cur</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>cursor: all-scroll</description>
 </snippet>

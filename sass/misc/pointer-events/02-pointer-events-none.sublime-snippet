@@ -3,6 +3,6 @@
 pointer-events: none;$0
 ]]></content>
 	<tabTrigger>poie</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>pointer-events: none</description>
 </snippet>

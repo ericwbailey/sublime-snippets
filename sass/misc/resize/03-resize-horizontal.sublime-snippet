@@ -3,6 +3,6 @@
 resize: horizontal;$0
 ]]></content>
 	<tabTrigger>resi</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>resize: horizontal</description>
 </snippet>

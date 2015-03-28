@@ -3,6 +3,6 @@
 text-align-last: justify;$0
 ]]></content>
 	<tabTrigger>texal</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>text-align-last: justify</description>
 </snippet>

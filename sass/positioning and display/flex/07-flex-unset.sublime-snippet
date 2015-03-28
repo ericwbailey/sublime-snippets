@@ -3,6 +3,6 @@
 flex: unset;$0
 ]]></content>
 	<tabTrigger>flex</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>flex: unset</description>
 </snippet>

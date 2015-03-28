@@ -3,6 +3,6 @@
 word-spacing: initial;$0
 ]]></content>
 	<tabTrigger>wors</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>word-spacing: initial</description>
 </snippet>

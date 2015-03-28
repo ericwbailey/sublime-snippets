@@ -3,6 +3,6 @@
 text-align-last: unset;$0
 ]]></content>
 	<tabTrigger>texal</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>text-align-last: unset</description>
 </snippet>

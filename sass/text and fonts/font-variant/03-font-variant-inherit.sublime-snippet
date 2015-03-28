@@ -3,6 +3,6 @@
 font-variant: inherit;$0
 ]]></content>
 	<tabTrigger>fonv</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>font-variant: inherit</description>
 </snippet>

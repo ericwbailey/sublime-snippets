@@ -3,6 +3,6 @@
 column-fill: balance;$0
 ]]></content>
 	<tabTrigger>colf</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>column-fill: balance</description>
 </snippet>

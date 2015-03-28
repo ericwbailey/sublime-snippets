@@ -3,6 +3,6 @@
 !important
 ]]></content>
 	<tabTrigger>!i</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>!important</description>
 </snippet>

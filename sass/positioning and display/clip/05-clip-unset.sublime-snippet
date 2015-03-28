@@ -3,6 +3,6 @@
 clip: unset;$0
 ]]></content>
 	<tabTrigger>clip</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>clip: unset</description>
 </snippet>

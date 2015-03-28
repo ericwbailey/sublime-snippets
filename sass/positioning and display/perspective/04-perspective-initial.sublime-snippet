@@ -3,6 +3,6 @@
 perspective: initial;$0
 ]]></content>
 	<tabTrigger>pers</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>perspective: initial</description>
 </snippet>

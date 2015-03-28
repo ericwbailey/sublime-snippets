@@ -3,6 +3,6 @@
 border-top-color: unset;$0
 ]]></content>
 	<tabTrigger>bortc</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>border-top-color: unset</description>
 </snippet>

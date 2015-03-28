@@ -3,6 +3,6 @@
 font-style: oblique;$0
 ]]></content>
 	<tabTrigger>fons</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>font-style: oblique</description>
 </snippet>

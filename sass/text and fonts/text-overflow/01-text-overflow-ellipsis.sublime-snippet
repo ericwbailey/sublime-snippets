@@ -3,6 +3,6 @@
 text-overflow: ellipsis;$0
 ]]></content>
 	<tabTrigger>texo</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>text-overflow: ellipsis</description>
 </snippet>

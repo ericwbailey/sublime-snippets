@@ -3,6 +3,6 @@
 text-align: justify;$0
 ]]></content>
 	<tabTrigger>texa</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>text-align: justify</description>
 </snippet>

@@ -3,6 +3,6 @@
 max-height: inherit;$0
 ]]></content>
 	<tabTrigger>maxh</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>max-height: inherit</description>
 </snippet>

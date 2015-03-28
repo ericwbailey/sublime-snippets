@@ -3,6 +3,6 @@
 border-image-outset: $1;$0
 ]]></content>
 	<tabTrigger>borio</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>border-image-outset: value</description>
 </snippet>

@@ -3,6 +3,6 @@
 backface-visibility: hidden;$0
 ]]></content>
 	<tabTrigger>bacv</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>backface-visibility: hidden</description>
 </snippet>

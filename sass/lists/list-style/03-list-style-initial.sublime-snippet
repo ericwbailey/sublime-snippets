@@ -3,6 +3,6 @@
 list-style: initial;$0
 ]]></content>
 	<tabTrigger>liss</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>list-style: initial</description>
 </snippet>

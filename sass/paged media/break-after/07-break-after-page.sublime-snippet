@@ -3,6 +3,6 @@
 break-after: page;$0
 ]]></content>
 	<tabTrigger>brea</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>break-after: page</description>
 </snippet>

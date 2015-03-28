@@ -3,6 +3,6 @@
 orphans: inherit;$0
 ]]></content>
 	<tabTrigger>orph</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>orphans: inherit</description>
 </snippet>

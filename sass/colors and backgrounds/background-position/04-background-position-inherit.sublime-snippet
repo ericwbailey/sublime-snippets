@@ -3,6 +3,6 @@
 background-position: inherit;$0
 ]]></content>
 	<tabTrigger>bacp</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>background-position: inherit</description>
 </snippet>

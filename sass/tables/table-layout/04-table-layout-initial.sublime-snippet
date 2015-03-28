@@ -3,6 +3,6 @@
 table-layout: initial;$0
 ]]></content>
 	<tabTrigger>tabl</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>table-layout: initial</description>
 </snippet>

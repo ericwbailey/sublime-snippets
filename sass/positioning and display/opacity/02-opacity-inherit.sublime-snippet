@@ -3,6 +3,6 @@
 opacity: inherit;$0
 ]]></content>
 	<tabTrigger>opac</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>opacity: inherit</description>
 </snippet>

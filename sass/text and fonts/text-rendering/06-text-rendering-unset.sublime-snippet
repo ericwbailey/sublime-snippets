@@ -3,6 +3,6 @@
 text-rendering: unset;$0
 ]]></content>
 	<tabTrigger>texr</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>text-rendering: unset</description>
 </snippet>

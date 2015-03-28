@@ -3,6 +3,6 @@
 filter: opacity(${1:0-100}%);$0
 ]]></content>
 	<tabTrigger>filt</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>filter: opacity()</description>
 </snippet>

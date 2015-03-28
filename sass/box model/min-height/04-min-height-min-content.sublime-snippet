@@ -3,6 +3,6 @@
 min-height: min-content;$0
 ]]></content>
 	<tabTrigger>minh</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>min-height: min-content</description>
 </snippet>

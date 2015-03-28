@@ -3,6 +3,6 @@
 margin: ${1:top} ${2:right} ${3:bottom} ${4:left};$0
 ]]></content>
 	<tabTrigger>marg</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>margin: top, right, bottom, left</description>
 </snippet>

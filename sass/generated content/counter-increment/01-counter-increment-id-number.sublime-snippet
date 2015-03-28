@@ -3,6 +3,6 @@
 counter-increment: ${1:id} ${2:number};$0
 ]]></content>
 	<tabTrigger>coui</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>counter-increment: id number</description>
 </snippet>

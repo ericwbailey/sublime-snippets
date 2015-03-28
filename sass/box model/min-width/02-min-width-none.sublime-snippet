@@ -3,6 +3,6 @@
 min-width: none;$0
 ]]></content>
 	<tabTrigger>minw</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>min-width: none</description>
 </snippet>

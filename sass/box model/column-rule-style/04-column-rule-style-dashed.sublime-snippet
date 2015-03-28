@@ -3,6 +3,6 @@
 column-rule-style: dashed;$0
 ]]></content>
 	<tabTrigger>colurs</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>column-rule-style: dashed</description>
 </snippet>

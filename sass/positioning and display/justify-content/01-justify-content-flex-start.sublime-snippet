@@ -3,6 +3,6 @@
 justify-content: flex-start;$0
 ]]></content>
 	<tabTrigger>jusc</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>justify-content: flex-start</description>
 </snippet>

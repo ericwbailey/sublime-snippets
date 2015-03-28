@@ -3,6 +3,6 @@
 empty-cells: inherit;$0
 ]]></content>
 	<tabTrigger>empc</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>empty-cells: inherit</description>
 </snippet>

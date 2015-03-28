@@ -3,6 +3,6 @@
 clear: right;
 ]]></content>
 	<tabTrigger>clea</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>clear: right</description>
 </snippet>

@@ -3,6 +3,6 @@
 border-left: ${1:width} ${2:style} ${3:color};$0
 ]]></content>
 	<tabTrigger>borl</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>border-left: shorthand</description>
 </snippet>

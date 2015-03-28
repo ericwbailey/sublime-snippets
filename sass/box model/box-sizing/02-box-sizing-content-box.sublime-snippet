@@ -3,6 +3,6 @@
 box-sizing: content-box;$0
 ]]></content>
 	<tabTrigger>boxs</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>box-sizing: content-box</description>
 </snippet>

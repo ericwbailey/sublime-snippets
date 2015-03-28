@@ -3,6 +3,6 @@
 filter: blur(${1:length greater than 0, no percentage values});$0
 ]]></content>
 	<tabTrigger>filt</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>filter: blur()</description>
 </snippet>

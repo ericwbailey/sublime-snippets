@@ -3,6 +3,6 @@
 outline-style: inset;$0
 ]]></content>
 	<tabTrigger>outs</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>outline-style: inset</description>
 </snippet>

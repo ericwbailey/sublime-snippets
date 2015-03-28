@@ -3,6 +3,6 @@
 visibility: inherit;
 ]]></content>
 	<tabTrigger>visi</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>visibility: inherit</description>
 </snippet>

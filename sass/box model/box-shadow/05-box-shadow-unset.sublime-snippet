@@ -3,6 +3,6 @@
 box-shadow: unset;$0
 ]]></content>
 	<tabTrigger>boxs</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>box-shadow: unset</description>
 </snippet>

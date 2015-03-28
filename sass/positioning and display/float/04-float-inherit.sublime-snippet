@@ -3,6 +3,6 @@
 float: inherit;
 ]]></content>
 	<tabTrigger>floa</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>float: inherit</description>
 </snippet>

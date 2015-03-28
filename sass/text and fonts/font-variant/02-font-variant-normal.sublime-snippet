@@ -3,6 +3,6 @@
 font-variant: normal;$0
 ]]></content>
 	<tabTrigger>fonv</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>font-variant: normal</description>
 </snippet>

@@ -3,6 +3,6 @@
 word-break: initial;$0
 ]]></content>
 	<tabTrigger>worb</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>word-break: initial</description>
 </snippet>

@@ -3,6 +3,6 @@
 right: auto;$0
 ]]></content>
 	<tabTrigger>righ</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>right: auto</description>
 </snippet>

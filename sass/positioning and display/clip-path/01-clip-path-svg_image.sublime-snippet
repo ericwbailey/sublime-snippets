@@ -3,6 +3,6 @@
 clip-path: url('../img/${1:image.svg}#${2:c1}');$0
 ]]></content>
 	<tabTrigger>clipp</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>clip-path: svg image</description>
 </snippet>

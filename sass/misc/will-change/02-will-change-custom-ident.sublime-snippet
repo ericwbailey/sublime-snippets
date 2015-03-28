@@ -3,6 +3,6 @@
 will-change: $1;$0
 ]]></content>
 	<tabTrigger>wilc</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>will-change: custom-ident</description>
 </snippet>

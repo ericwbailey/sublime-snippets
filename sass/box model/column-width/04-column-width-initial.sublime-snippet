@@ -3,6 +3,6 @@
 column-width: initial;$0
 ]]></content>
 	<tabTrigger>colw</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>column-width: initial</description>
 </snippet>

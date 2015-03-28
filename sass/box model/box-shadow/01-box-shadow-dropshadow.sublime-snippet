@@ -3,6 +3,6 @@
 box-shadow: ${1:x-offset} ${2:x-offset} ${3:blur-radius} ${4:spread-radius} ${5:color};$0
 ]]></content>
 	<tabTrigger>boxs</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>box-shadow: dropshadow</description>
 </snippet>

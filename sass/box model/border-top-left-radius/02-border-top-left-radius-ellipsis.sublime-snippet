@@ -3,6 +3,6 @@
 border-top-left-radius: ${1:horizontal} ${2:vertical};$0
 ]]></content>
 	<tabTrigger>bortlr</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>border-top-left-radius: ellipsis</description>
 </snippet>

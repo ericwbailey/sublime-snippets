@@ -3,6 +3,6 @@
 cursor: alias;$0
 ]]></content>
 	<tabTrigger>cur</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>cursor: alias</description>
 </snippet>

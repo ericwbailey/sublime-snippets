@@ -3,6 +3,6 @@
 filter: hue-rotate(${1:0-360}deg);$0
 ]]></content>
 	<tabTrigger>filt</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>filter: hue-rotate()</description>
 </snippet>

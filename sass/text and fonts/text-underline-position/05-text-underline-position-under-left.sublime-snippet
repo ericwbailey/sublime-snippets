@@ -3,6 +3,6 @@
 text-underline-position: under left;$0
 ]]></content>
 	<tabTrigger>texup</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>text-underline-position: under left</description>
 </snippet>

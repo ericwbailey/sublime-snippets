@@ -3,6 +3,6 @@
 page-break-after: right;$0
 ]]></content>
 	<tabTrigger>pagba</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>page-break-after: right</description>
 </snippet>

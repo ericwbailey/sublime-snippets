@@ -3,6 +3,6 @@
 column-rule-width: thick;$0
 ]]></content>
 	<tabTrigger>colurw</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>column-rule-width: thick</description>
 </snippet>

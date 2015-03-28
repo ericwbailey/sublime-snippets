@@ -3,6 +3,6 @@
 left: auto;$0
 ]]></content>
 	<tabTrigger>left</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>left: auto</description>
 </snippet>

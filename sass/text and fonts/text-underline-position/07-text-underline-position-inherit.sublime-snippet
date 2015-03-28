@@ -3,6 +3,6 @@
 text-underline-position: inherit;$0
 ]]></content>
 	<tabTrigger>texup</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>text-underline-position: inherit</description>
 </snippet>

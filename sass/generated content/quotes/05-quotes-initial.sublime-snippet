@@ -3,6 +3,6 @@
 quotes: initial;$0
 ]]></content>
 	<tabTrigger>quot</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>quotes: initial</description>
 </snippet>

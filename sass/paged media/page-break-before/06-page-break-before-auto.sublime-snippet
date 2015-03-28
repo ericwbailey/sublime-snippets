@@ -3,6 +3,6 @@
 page-break-before: auto;$0
 ]]></content>
 	<tabTrigger>pagbb</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>page-break-before: auto</description>
 </snippet>

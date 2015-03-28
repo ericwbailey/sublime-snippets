@@ -3,6 +3,6 @@
 margin-top: initial;$0
 ]]></content>
 	<tabTrigger>mart</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>margin-top: initial</description>
 </snippet>

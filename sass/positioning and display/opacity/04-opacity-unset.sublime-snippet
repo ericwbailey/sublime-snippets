@@ -3,6 +3,6 @@
 opacity: unset;$0
 ]]></content>
 	<tabTrigger>opac</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>opacity: unset</description>
 </snippet>

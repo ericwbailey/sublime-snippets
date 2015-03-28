@@ -3,6 +3,6 @@
 background-origin: content-box;$0
 ]]></content>
 	<tabTrigger>baco</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>background-origin: content-box</description>
 </snippet>

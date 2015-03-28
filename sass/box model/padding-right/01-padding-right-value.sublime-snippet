@@ -3,6 +3,6 @@
 padding-right: $1;$0
 ]]></content>
 	<tabTrigger>padr</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>padding-right: value</description>
 </snippet>

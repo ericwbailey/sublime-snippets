@@ -3,6 +3,6 @@
 outline-color: inherit;$0
 ]]></content>
 	<tabTrigger>outc</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>outline-color: inherit</description>
 </snippet>

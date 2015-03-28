@@ -3,6 +3,6 @@
 filter: brightness(${1:0.0-1.0});$0
 ]]></content>
 	<tabTrigger>filt</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>filter: brightness()</description>
 </snippet>

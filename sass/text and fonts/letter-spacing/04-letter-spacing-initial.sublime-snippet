@@ -3,6 +3,6 @@
 letter-spacing: initial;$0
 ]]></content>
 	<tabTrigger>lets</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>letter-spacing: initial</description>
 </snippet>

@@ -3,6 +3,6 @@
 unicode-bidi: unset;$0
 ]]></content>
 	<tabTrigger>unib</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>unicode-bidi: unset</description>
 </snippet>

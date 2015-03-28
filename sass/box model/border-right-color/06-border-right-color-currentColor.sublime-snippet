@@ -3,6 +3,6 @@
 border-right-color: currentColor;$0
 ]]></content>
 	<tabTrigger>borrc</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>border-right-color: currentColor</description>
 </snippet>

@@ -3,6 +3,6 @@
 list-style-type: inherit;$0
 ]]></content>
 	<tabTrigger>lisst</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>list-style-type: inherit</description>
 </snippet>

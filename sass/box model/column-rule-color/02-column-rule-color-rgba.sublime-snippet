@@ -3,6 +3,6 @@
 column-rule-color: rgba(${1:R}, ${2:G}, ${3:B}, ${4:A (0.0-1.0)});$0
 ]]></content>
 	<tabTrigger>colurc</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>column-rule-color: rgba</description>
 </snippet>

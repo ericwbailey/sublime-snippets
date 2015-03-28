@@ -3,6 +3,6 @@
 max-height: min-content;$0
 ]]></content>
 	<tabTrigger>maxw</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>max-height: min-content</description>
 </snippet>

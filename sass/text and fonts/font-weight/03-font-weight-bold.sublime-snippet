@@ -3,6 +3,6 @@
 font-weight: bold;$0
 ]]></content>
 	<tabTrigger>fonw</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>font-weight: bold</description>
 </snippet>

@@ -3,6 +3,6 @@
 border-bottom-right-radius: $1;$0
 ]]></content>
 	<tabTrigger>borblr</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>border-bottom-right-radius: value/circle</description>
 </snippet>

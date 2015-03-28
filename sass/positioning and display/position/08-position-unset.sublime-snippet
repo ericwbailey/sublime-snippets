@@ -3,6 +3,6 @@
 position: unset;$0
 ]]></content>
 	<tabTrigger>posi</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>position: unset</description>
 </snippet>

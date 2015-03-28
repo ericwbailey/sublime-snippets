@@ -3,6 +3,6 @@
 margin-bottom: initial;$0
 ]]></content>
 	<tabTrigger>marb</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>margin-bottom: initial</description>
 </snippet>

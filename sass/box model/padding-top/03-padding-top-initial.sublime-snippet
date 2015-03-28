@@ -3,6 +3,6 @@
 padding-top: initial;$0
 ]]></content>
 	<tabTrigger>padt</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>padding-top: initial</description>
 </snippet>

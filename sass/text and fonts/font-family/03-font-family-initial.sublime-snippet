@@ -3,6 +3,6 @@
 font-family: initial;$0
 ]]></content>
 	<tabTrigger>fonf</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>font-family: initial</description>
 </snippet>

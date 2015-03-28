@@ -3,6 +3,6 @@
 background-position: ${1:left/right/center} ${2:left/right/center};$0
 ]]></content>
 	<tabTrigger>bacp</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>background-position: dexis</description>
 </snippet>

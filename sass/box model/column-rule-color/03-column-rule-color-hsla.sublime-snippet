@@ -3,6 +3,6 @@
 column-rule-color: hsla(${1:H}, ${2:S}, ${3:L}, ${4:A (0-1)});$0
 ]]></content>
 	<tabTrigger>colurc</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>column-rule-color: hsla</description>
 </snippet>

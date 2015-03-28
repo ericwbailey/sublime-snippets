@@ -3,6 +3,6 @@
 flex-wrap: unset;$0
 ]]></content>
 	<tabTrigger>flexw</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>flex-wrap: unset</description>
 </snippet>

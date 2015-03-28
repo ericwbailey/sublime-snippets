@@ -3,6 +3,6 @@
 clear: none;
 ]]></content>
 	<tabTrigger>clea</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>clear: none</description>
 </snippet>

@@ -3,6 +3,6 @@
 max-width: inherit;$0
 ]]></content>
 	<tabTrigger>maxw</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>max-width: inherit</description>
 </snippet>

@@ -3,6 +3,6 @@
 visibility: visible;
 ]]></content>
 	<tabTrigger>visi</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>visibility: visible</description>
 </snippet>

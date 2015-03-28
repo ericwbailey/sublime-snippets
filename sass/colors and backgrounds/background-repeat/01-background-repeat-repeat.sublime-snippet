@@ -3,6 +3,6 @@
 background-repeat: repeat;$0
 ]]></content>
 	<tabTrigger>bacr</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>background-repeat: repeat</description>
 </snippet>

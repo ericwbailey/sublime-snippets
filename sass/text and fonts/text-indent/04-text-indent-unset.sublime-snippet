@@ -3,6 +3,6 @@
 text-indent: unset;$0
 ]]></content>
 	<tabTrigger>texi</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>text-indent: unset</description>
 </snippet>

@@ -3,6 +3,6 @@
 image-rendering: inherit;$0
 ]]></content>
 	<tabTrigger>imar</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>image-rendering: inherit</description>
 </snippet>

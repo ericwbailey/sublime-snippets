@@ -3,6 +3,6 @@
 border-top-right-radius: $1;$0
 ]]></content>
 	<tabTrigger>bortrr</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>border-top-right-radius: value/circle</description>
 </snippet>

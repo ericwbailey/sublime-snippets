@@ -3,6 +3,6 @@
 column-rule-color: currentColor;$0
 ]]></content>
 	<tabTrigger>colurc</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>column-rule-color: currentColor</description>
 </snippet>

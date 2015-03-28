@@ -3,6 +3,6 @@
 align-self: baseline;
 ]]></content>
 	<tabTrigger>alis</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.scss</scope>
 	<description>align-self: baseline</description>
 </snippet>

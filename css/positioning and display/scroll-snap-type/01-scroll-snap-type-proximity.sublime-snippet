@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+scroll-snap-type: proximity;$0
+]]></content>
+	<tabTrigger>scrs</tabTrigger>
+	<scope>source.css</scope>
+	<description>scroll-snap-type: proximity</description>
+</snippet>

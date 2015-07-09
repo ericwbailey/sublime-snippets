@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+scroll-snap-type: none;$0
+]]></content>
+	<tabTrigger>scrs</tabTrigger>
+	<scope>source.css</scope>
+	<description>scroll-snap-type: none</description>
+</snippet>

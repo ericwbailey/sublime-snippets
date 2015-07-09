@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+scroll-snap-coordinate: initial;$0
+]]></content>
+	<tabTrigger>scrsc</tabTrigger>
+	<scope>source.css</scope>
+	<description>scroll-snap-coordinate: initial</description>
+</snippet>

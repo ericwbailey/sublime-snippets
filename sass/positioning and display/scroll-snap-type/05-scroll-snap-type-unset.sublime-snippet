@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+scroll-snap-type: unset;$0
+]]></content>
+	<tabTrigger>scrs</tabTrigger>
+	<scope>source.scss</scope>
+	<description>scroll-snap-type: unset</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+scroll-snap-points-x: none;$0
+]]></content>
+	<tabTrigger>scrsp</tabTrigger>
+	<scope>source.scss</scope>
+	<description>scroll-snap-points-x: none</description>
+</snippet>

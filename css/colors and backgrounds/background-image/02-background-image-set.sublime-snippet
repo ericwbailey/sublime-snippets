@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+background-image: url('../img/$1');
+background-image: image-set(url('../img/$1') 1x, url('../img/$2') 2x);$0
+]]></content>
+	<tabTrigger>baci</tabTrigger>
+	<scope>source.css</scope>
+	<description>background-image: image-set</description>
+</snippet>

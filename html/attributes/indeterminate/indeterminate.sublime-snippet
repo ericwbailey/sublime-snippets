@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+indeterminate$0
+]]></content>
+	<tabTrigger>ind</tabTrigger>
+	<scope>meta.tag.block.any.html</scope>
+	<description>indeterminate</description>
+</snippet>

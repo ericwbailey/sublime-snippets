@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+itemscope$0
+]]></content>
+	<tabTrigger>ite</tabTrigger>
+	<scope>meta.tag.block.any.html</scope>
+	<description>itemscope</description>
+</snippet>

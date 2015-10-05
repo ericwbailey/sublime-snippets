@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+allowfullscreen$0
+]]></content>
+	<tabTrigger>all</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>allowfullscreen</description>
+</snippet>

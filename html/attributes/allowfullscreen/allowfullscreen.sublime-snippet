@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+allowfullscreen$0
+]]></content>
+	<tabTrigger>all</tabTrigger>
+	<scope>meta.tag.block.any.html</scope>
+	<description>allowfullscreen</description>
+</snippet>

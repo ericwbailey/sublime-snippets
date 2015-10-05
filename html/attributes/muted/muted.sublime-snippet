@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+muted$0
+]]></content>
+	<tabTrigger>mut</tabTrigger>
+	<scope>meta.tag.block.any.html</scope>
+	<description>muted</description>
+</snippet>

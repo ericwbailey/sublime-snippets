@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+typemustmatch$0
+]]></content>
+	<tabTrigger>typ</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>typemustmatch</description>
+</snippet>

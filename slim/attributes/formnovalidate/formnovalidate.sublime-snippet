@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+formnovalidate$0
+]]></content>
+	<tabTrigger>for</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>formnovalidate</description>
+</snippet>

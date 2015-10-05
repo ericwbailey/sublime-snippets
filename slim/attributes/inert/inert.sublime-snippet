@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+inert$0
+]]></content>
+	<tabTrigger>ine</tabTrigger>
+	<scope>meta.section.object.slim</scope>
+	<description>inert</description>
+</snippet>

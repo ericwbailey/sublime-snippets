@@ -2,7 +2,7 @@
 	<content><![CDATA[
 !important
 ]]></content>
-	<tabTrigger>!i</tabTrigger>
+	<tabTrigger>!!</tabTrigger>
 	<scope>source.scss</scope>
 	<description>!important</description>
 </snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+display: flex;$0
+]]></content>
+	<tabTrigger>disp</tabTrigger>
+	<scope>source.scss</scope>
+	<description>display: flex</description>
+</snippet>
